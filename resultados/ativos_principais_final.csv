@@ -1,0 +1,68 @@
+Nome popular,Nome cientifico,composto,cas,identifier,molecular_formula,encontrado_por
+Alho,Allium sativum L.,Alliin,,CNP0583631.2,C6H11NO3S,nome
+Alho,Allium sativum L.,gamma-Glutamyl-S-allylcysteine,91216-95-4,CNP0261331.1,C11H18N2O5S,nome
+Alho,Allium sativum L.,Allicin,,CNP0527119.1,C6H10OS2,nome
+Alho,Allium sativum L.,DIALLYL DISULFIDE,2179-57-9,CNP0311793.0,C6H10S2,nome
+Alho,Allium sativum L.,S-allyl-L-cysteine,21593-77-1,CNP0206886.2,C6H11NO2S,cas
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),Acemannan,,CNP0474633.1,C66H101NO49,nome
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),Aloe-emodin,481-72-1,CNP0316445.0,C15H10O5,nome
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),10-Hydroxyaloin B,134863-92-6,CNP0154057.1,C21H22O10,nome
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),10-Hydroxyaloin A,134863-91-5,CNP0154057.2,C21H22O10,nome
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),nataloe-emodin,478-46-6,CNP0153433.0,C15H10O5,nome
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),aloin,5133-19-7|8015-61-0,CNP0186983.4,C21H22O9,nome
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),ALOINOSIDE B,11006-91-0,CNP0184790.2,C27H32O13,nome
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),Aloin B,28371-16-6|8015-61-0,CNP0186983.2,C21H22O9,nome
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),Aloinoside A,56645-88-6,CNP0184790.1,C27H32O13,nome
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),7-Hydroxyaloin,82461-12-9,CNP0294678.2,C21H22O10,nome
+babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),5-Hydroxyaloin A,138373-23-6,CNP0319861.1,C21H22O10,nome
+Boldo,Plectranthus barbatus Andrews,forskolin,66575-29-9|64657-11-0,CNP0150668.1,C22H34O7,nome
+Camomila,Matricaria chamomilla,luteolin,491-70-3|1318-21-4,CNP0279503.0,C15H10O6,nome
+Camomila,Matricaria chamomilla,Chamazulenecarboxylic acid,489-87-2,CNP0176710.1,C15H16O2,nome
+Camomila,Matricaria chamomilla,Bisabolol oxide A,22567-36-8,CNP0249765.1,C15H26O2,nome
+Camomila,Matricaria chamomilla,(-)-Bisabolol oxide B,26184-88-3,CNP0390102.1,C15H26O2,nome
+Camomila,Matricaria chamomilla,Bisabolol,515-69-5,CNP0160123.3,C15H26O,nome
+Camomila,Matricaria chamomilla,Chamazulene,529-05-5,CNP0214576.0,C14H16,nome
+Camomila,Matricaria chamomilla,apigenin,520-36-5|8002-66-2,CNP0251015.0,C15H10O5,nome
+Camomila,Matricaria chamomilla,(-)-epi-alpha-Bisabolol,78148-59-1,CNP0160123.2,C15H26O,nome
+Camomila,Matricaria chamomilla,alpha-Bisabolol,515-69-5|23178-88-3|25428-43-7,CNP0160123.1,C15H26O,nome
+Camomila,Matricaria chamomilla,6-Epi-beta-bisabolol,235421-59-7,CNP0223705.1,C15H26O,nome
+Camomila,Matricaria chamomilla,Matricin,29041-35-8,CNP0172588.4,C17H22O5,nome
+Cúrcuma,Curcuma longa L.,demethoxycurcumin,22608-11-3,CNP0352332.1,C20H18O5,cas
+Cúrcuma,Curcuma longa L.,ar-Turmerone,532-65-0,CNP0132504.2,C15H20O,nome
+Cúrcuma,Curcuma longa L.,(+)-(S)-dihydro-ar-turmerone,,CNP0106641.1,C15H22O,nome
+Cúrcuma,Curcuma longa L.,Tetrahydrocurcumin,36062-04-1,CNP0288229.0,C21H24O6,nome
+Cúrcuma,Curcuma longa L.,8-Hydroxy-ar-turmerone,949081-09-8,CNP0150211.1,C15H20O2,nome
+Cúrcuma,Curcuma longa L.,(S)-Turmerone,56485-42-8,CNP0311911.1,C15H22O,nome
+Cúrcuma,Curcuma longa L.,(+)-alpha-Turmerone,,CNP0422169.3,C15H22O,nome
+Cúrcuma,Curcuma longa L.,curcumin,458-37-7,CNP0337918.1,C21H20O6,cas
+Garra do diabo,Harpagophytum procumbens,Harpagide,,CNP0262747.3,C15H24O10,nome
+Garra do diabo,Harpagophytum procumbens,Harpagoside,19210-12-9,CNP0262102.1,C24H30O11,nome
+Garra do diabo,Harpagophytum procumbens,8-p-Coumaroylharpagide,87686-74-6,CNP0389333.3,C24H30O12,nome
+gengibre,Zingiber officinale Roscoe,6-Gingerol,23513-14-6|1391-73-7,CNP0314204.1,C17H26O4,nome
+gengibre,Zingiber officinale Roscoe,Methyl-8-gingerol,,CNP0109714.0,C20H32O4,nome
+gengibre,Zingiber officinale Roscoe,10-Gingerol,23513-15-7,CNP0273695.1,C21H34O4,nome
+gengibre,Zingiber officinale Roscoe,ZINGERONE,122-48-5,CNP0193523.0,C11H14O3,nome
+gengibre,Zingiber officinale Roscoe,[6]-Gingerol monoacetate,,CNP0137064.1,C19H28O5,nome
+gengibre,Zingiber officinale Roscoe,(4)-Gingerol,41743-68-4,CNP0146901.1,C15H22O4,nome
+gengibre,Zingiber officinale Roscoe,8-Gingerol,23513-08-8,CNP0238417.1,C19H30O4,nome
+gengibre,Zingiber officinale Roscoe,Methyl-10-gingerol,,CNP0003379.0,C22H36O4,nome
+gengibre,Zingiber officinale Roscoe,Methyl-6-Gingerol,23513-10-2,CNP0124042.1,C18H28O4,nome
+guaraná,Paullinia cupana,caffeine,58-08-2|95789-13-2|114303-55-8,CNP0228556.0,C8H10N4O2,nome
+guaraná,Paullinia cupana,theophylline,58-55-9|75448-53-2|58-55-9 (ANHYDROUS)|50857-74-4|8061-56-1,CNP0597189.0,C7H8N4O2,nome
+guaraná,Paullinia cupana,theobromine,83-67-0|519-41-5,CNP0328305.0,C7H8N4O2,nome
+hortelã,Mentha ou  piperita L.,(+)-Neomenthol,2216-52-6|3623-51-6|89-78-1,CNP0243697.5,C10H20O,nome
+hortelã,Mentha ou  piperita L.,Isomenthone,18309-28-9|36977-92-1|491-07-6|1074-95-9,CNP0219935.5,C10H18O,nome
+hortelã,Mentha ou  piperita L.,(+)-Isomenthol,23283-97-8|63903-52-6|89-78-1,CNP0243697.10,C10H20O,nome
+hortelã,Mentha ou  piperita L.,Neoisomenthol,20752-34-5|491-02-1|89-78-1|490-99-3,CNP0243697.1,C10H20O,nome
+hortelã,Mentha ou  piperita L.,l-Menthol,2216-51-5|89-78-1|98167-53-4|114376-98-6,CNP0243697.6,C10H20O,nome
+hortelã,Mentha ou  piperita L.,Isomenthol acetate,20777-45-1,CNP0201633.7,C12H22O2,nome
+hortelã,Mentha ou  piperita L.,(+)-Menthone,3391-87-5|89-80-5,CNP0219935.3,C10H18O,nome
+Maracujá,Passiflora alata,Isoorientin,4261-42-1,CNP0222527.1,C21H20O11,nome
+Maracujá,Passiflora alata,Isovitexin,38953-85-4|29702-25-8,CNP0198174.1,C21H20O10,nome
+Maracujá,Passiflora alata,Vitexin,3681-93-4,CNP0190943.1,C21H20O10,nome
+Maracujá,Passiflora alata,Orientin,28608-75-5,CNP0221949.2,C21H20O11,nome
+Pata-de-vaca,Bauhinia forficata,Kaempferitrin,482-38-2,CNP0219489.1,C27H30O14,nome
+Unha de Gato,Uncaria tomentosa,ISOMITRAPHYLLINE,4963-01-3,CNP0159273.2,C21H24N2O4,nome
+Unha de Gato,Uncaria tomentosa,Isopteropodine,5171-37-9,CNP0159273.9,C21H24N2O4,nome
+Unha de Gato,Uncaria tomentosa,Pteropodine,5629-60-7,CNP0159273.8,C21H24N2O4,nome
+Unha de Gato,Uncaria tomentosa,Mitraphylline,509-80-8,CNP0159273.3,C21H24N2O4,nome
