@@ -1,0 +1,681 @@
+﻿nome_original,tipo,componente,principio_ativo_base,associacao
+Imunoglobulina humana,soro/imunoglobulina,Imunoglobulina humana,imunoglobulina humana,False
+Iodeto de potássio,medicamento,Iodeto de potássio,potássio,False
+abatacepte,medicamento,abatacepte,abatacepte,False
+abciximabe,medicamento,abciximabe,abciximabe,False
+abemaciclibe,medicamento,abemaciclibe,abemaciclibe,False
+acetato de abiraterona,medicamento,acetato de abiraterona,abiraterona,False
+acetato de betametasona + fosfato dissódico de betametasona,medicamento,acetato de betametasona,betametasona,True
+acetato de betametasona + fosfato dissódico de betametasona,medicamento,fosfato dissódico de betametasona,betametasona,True
+acetato de ciproterona,medicamento,acetato de ciproterona,ciproterona,False
+acetato de desmopressina,medicamento,acetato de desmopressina,desmopressina,False
+acetato de fludrocortisona,medicamento,acetato de fludrocortisona,fludrocortisona,False
+acetato de glatirâmer,medicamento,acetato de glatirâmer,glatirâmer,False
+acetato de gosserelina,medicamento,acetato de gosserelina,gosserelina,False
+acetato de gosserrelina,medicamento,acetato de gosserrelina,gosserrelina,False
+acetato de hidrocortisona,medicamento,acetato de hidrocortisona,hidrocortisona,False
+acetato de lanreotida,medicamento,acetato de lanreotida,lanreotida,False
+acetato de leuprorrelina,medicamento,acetato de leuprorrelina,leuprorrelina,False
+acetato de medroxiprogesterona,medicamento,acetato de medroxiprogesterona,medroxiprogesterona,False
+acetato de medroxiprogesterona + cipionato de estradiol,medicamento,acetato de medroxiprogesterona,medroxiprogesterona,True
+acetato de medroxiprogesterona + cipionato de estradiol,medicamento,cipionato de estradiol,estradiol,True
+acetato de megestrol,medicamento,acetato de megestrol,megestrol,False
+acetato de octreotida,medicamento,acetato de octreotida,octreotida,False
+acetato de sódio,medicamento,acetato de sódio,sódio,False
+acetazolamida,medicamento,acetazolamida,acetazolamida,False
+aciclovir,medicamento,aciclovir,aciclovir,False
+acitretina,medicamento,acitretina,acitretina,False
+adalimumabe,medicamento,adalimumabe,adalimumabe,False
+agulha para caneta aplicadora de insulina,medicamento,agulha para caneta aplicadora de insulina,agulha para caneta aplicadora de insulina,False
+albendazol,medicamento,albendazol,albendazol,False
+albumina humana,medicamento,albumina humana,albumina humana,False
+alcachofra (Cynara scolymus L.),fitoterápico,alcachofra (Cynara scolymus L.),alcachofra (cynara scolymus l.),False
+alcatrão mineral (FN),medicamento,alcatrão mineral (FN),alcatrão mineral,False
+alendronato de sódio,medicamento,alendronato de sódio,alendronato,False
+alentuzumabe,medicamento,alentuzumabe,alentuzumabe,False
+alfa-alglicosidade,medicamento,alfa-alglicosidade,alfa-alglicosidade,False
+alfacerliponase,medicamento,alfacerliponase,alfacerliponase,False
+alfadornase,medicamento,alfadornase,alfadornase,False
+alfaelosulfase,medicamento,alfaelosulfase,alfaelosulfase,False
+alfaepoetina,medicamento,alfaepoetina,alfaepoetina,False
+alfagalsidase,medicamento,alfagalsidase,alfagalsidase,False
+alfainterferona 2b,medicamento,alfainterferona 2b,alfainterferona 2b,False
+alfapeginterferona 2a,medicamento,alfapeginterferona 2a,alfapeginterferona 2a,False
+alfapeginterferona 2b,medicamento,alfapeginterferona 2b,alfapeginterferona 2b,False
+alfaporactanto (surfactante pulmonar),medicamento,alfaporactanto (surfactante pulmonar),alfaporactanto (surfactante pulmonar),False
+alfataliglicerase,medicamento,alfataliglicerase,alfataliglicerase,False
+alfatirotropina (tsh recombinante),medicamento,alfatirotropina (tsh recombinante),alfatirotropina (tsh recombinante),False
+alfavelaglicerase,medicamento,alfavelaglicerase,alfavelaglicerase,False
+alfavestronidase,medicamento,alfavestronidase,alfavestronidase,False
+algestona acetofenida + enantato de estradiol,medicamento,algestona acetofenida,algestona acetofenida,True
+algestona acetofenida + enantato de estradiol,medicamento,enantato de estradiol,estradiol,True
+alopurinol,medicamento,alopurinol,alopurinol,False
+alteplase,medicamento,alteplase,alteplase,False
+ambrisentana,medicamento,ambrisentana,ambrisentana,False
+amoxicilina,medicamento,amoxicilina,amoxicilina,False
+amoxicilina + clavulanato de potássio,medicamento,amoxicilina,amoxicilina,True
+amoxicilina + clavulanato de potássio,medicamento,clavulanato de potássio,clavulanato,True
+anastrozol,medicamento,anastrozol,anastrozol,False
+anfotericina B (complexo lipídico),medicamento,anfotericina B (complexo lipídico),anfotericina b (complexo lipídico),False
+anfotericina B (desoxicolato),medicamento,anfotericina B (desoxicolato),anfotericina b (desoxicolato),False
+anfotericina B (lipossomal),medicamento,anfotericina B (lipossomal),anfotericina b (lipossomal),False
+anidulafungina,medicamento,anidulafungina,anidulafungina,False
+antimoniato de meglumina,medicamento,antimoniato de meglumina,antimoniato de meglumina,False
+aroeira (Schinus terebinthifolia Raddi),fitoterápico,aroeira (Schinus terebinthifolia Raddi),aroeira (schinus terebinthifolia raddi),False
+arteméter + lumefantrina,medicamento,arteméter,arteméter,True
+arteméter + lumefantrina,medicamento,lumefantrina,lumefantrina,True
+artesunato,medicamento,artesunato,artesunato,False
+artesunato + mefloquina,medicamento,artesunato,artesunato,True
+artesunato + mefloquina,medicamento,mefloquina,mefloquina,True
+asciminibe,medicamento,asciminibe,asciminibe,False
+atenolol,medicamento,atenolol,atenolol,False
+atorvastatina cálcica,medicamento,atorvastatina cálcica,atorvastatina,False
+azacitidina,medicamento,azacitidina,azacitidina,False
+azatioprina,medicamento,azatioprina,azatioprina,False
+azitromicina,medicamento,azitromicina,azitromicina,False
+babosa (Aloe vera (L.) Burm. f.),fitoterápico,babosa (Aloe vera (L.) Burm. f.),babosa (aloe vera (l.) burm. f.),False
+baricitinibe,medicamento,baricitinibe,baricitinibe,False
+basiliximabe,medicamento,basiliximabe,basiliximabe,False
+bedaquilina,medicamento,bedaquilina,bedaquilina,False
+benralizumabe,medicamento,benralizumabe,benralizumabe,False
+benzilpenicilina benzatina,medicamento,benzilpenicilina benzatina,benzilpenicilina benzatina,False
+benzilpenicilina potássica,medicamento,benzilpenicilina potássica,benzilpenicilina,False
+benzilpenicilina procaína + benzilpenicilina potássica,medicamento,benzilpenicilina procaína,benzilpenicilina procaína,True
+benzilpenicilina procaína + benzilpenicilina potássica,medicamento,benzilpenicilina potássica,benzilpenicilina,True
+benznidazol,medicamento,benznidazol,benznidazol,False
+benzoilmetronidazol,medicamento,benzoilmetronidazol,benzoilmetronidazol,False
+beractanto (surfactante Pulmonar,medicamento,beractanto (surfactante Pulmonar,beractanto (surfactante pulmonar,False
+besilato de anlodipino,medicamento,besilato de anlodipino,anlodipino,False
+beta-agalsidase,medicamento,beta-agalsidase,beta-agalsidase,False
+betadinutuximabe,medicamento,betadinutuximabe,betadinutuximabe,False
+betainterferona 1a,medicamento,betainterferona 1a,betainterferona 1a,False
+betainterferona 1b,medicamento,betainterferona 1b,betainterferona 1b,False
+bezafibrato,medicamento,bezafibrato,bezafibrato,False
+bicalutamida,medicamento,bicalutamida,bicalutamida,False
+bicarbonato de sódio,medicamento,bicarbonato de sódio,bicarbonato,False
+bimatoprosta,medicamento,bimatoprosta,bimatoprosta,False
+biotina,medicamento,biotina,biotina,False
+bissulfato de clopidogrel,medicamento,bissulfato de clopidogrel,bissulfato de clopidogrel,False
+blinatumomabe,medicamento,blinatumomabe,blinatumomabe,False
+bortezomibe,medicamento,bortezomibe,bortezomibe,False
+bosentana,medicamento,bosentana,bosentana,False
+brentuximabe vedotina,medicamento,brentuximabe vedotina,brentuximabe vedotina,False
+brigatinibe,medicamento,brigatinibe,brigatinibe,False
+brinzolamida,medicamento,brinzolamida,brinzolamida,False
+brometo de ipratrópio,medicamento,brometo de ipratrópio,ipratrópio,False
+brometo de piridostigmina,medicamento,brometo de piridostigmina,piridostigmina,False
+brometo de tiotrópio monoidratado + cloridrato de olodaterol,medicamento,brometo de tiotrópio monoidratado,tiotrópio,True
+brometo de tiotrópio monoidratado + cloridrato de olodaterol,medicamento,cloridrato de olodaterol,olodaterol,True
+brometo de umeclidínio + trifenatato de vilanterol,medicamento,brometo de umeclidínio,umeclidínio,True
+brometo de umeclidínio + trifenatato de vilanterol,medicamento,trifenatato de vilanterol,vilanterol,True
+bromidrato de fenoterol,medicamento,bromidrato de fenoterol,fenoterol,False
+bromidrato de galantamina,medicamento,bromidrato de galantamina,galantamina,False
+budesonida,medicamento,budesonida,budesonida,False
+burosumabe,medicamento,burosumabe,burosumabe,False
+cabergolina,medicamento,cabergolina,cabergolina,False
+calcipotriol,medicamento,calcipotriol,calcipotriol,False
+calcitonina,medicamento,calcitonina,calcitonina,False
+calcitriol,medicamento,calcitriol,calcitriol,False
+caneta para aplicação de insulina,medicamento,caneta para aplicação de insulina,caneta para aplicação de insulina,False
+capecitabina,medicamento,capecitabina,capecitabina,False
+capreomicina,medicamento,capreomicina,capreomicina,False
+captopril,medicamento,captopril,captopril,False
+carbamazepina,medicamento,carbamazepina,carbamazepina,False
+carbonato de cálcio,medicamento,carbonato de cálcio,cálcio,False
+carbonato de cálcio + colecalciferol,medicamento,carbonato de cálcio,cálcio,True
+carbonato de cálcio + colecalciferol,medicamento,colecalciferol,colecalciferol,True
+carbonato de lítio,medicamento,carbonato de lítio,lítio,False
+carboplatina,medicamento,carboplatina,carboplatina,False
+carfilzomibe,medicamento,carfilzomibe,carfilzomibe,False
+carmustina,medicamento,carmustina,carmustina,False
+carvedilol,medicamento,carvedilol,carvedilol,False
+carvão vegetal ativado,medicamento,carvão vegetal ativado,carvão vegetal ativado,False
+cefalexina,medicamento,cefalexina,cefalexina,False
+cefotaxima sódica,medicamento,cefotaxima sódica,cefotaxima,False
+ceftriaxona,medicamento,ceftriaxona,ceftriaxona,False
+certolizumabe pegol,medicamento,certolizumabe pegol,certolizumabe pegol,False
+cetoconazol,medicamento,cetoconazol,cetoconazol,False
+cianocobalamina,medicamento,cianocobalamina,cianocobalamina,False
+ciclofosfamida,medicamento,ciclofosfamida,ciclofosfamida,False
+ciclofosfamida monoidratada,medicamento,ciclofosfamida monoidratada,ciclofosfamida monoidratada,False
+ciclosporina,medicamento,ciclosporina,ciclosporina,False
+ciprofibrato,medicamento,ciprofibrato,ciprofibrato,False
+ciprofloxacino,medicamento,ciprofloxacino,ciprofloxacino,False
+cisplatina,medicamento,cisplatina,cisplatina,False
+citarabina,medicamento,citarabina,citarabina,False
+citrato de dietilcarbamazina,medicamento,citrato de dietilcarbamazina,dietilcarbamazina,False
+citrato de sildenafila,medicamento,citrato de sildenafila,sildenafila,False
+citrato de tamoxifeno,medicamento,citrato de tamoxifeno,tamoxifeno,False
+cladribina,medicamento,cladribina,cladribina,False
+claritromicina,medicamento,claritromicina,claritromicina,False
+clobazam,medicamento,clobazam,clobazam,False
+clofazimina*,medicamento,clofazimina*,clofazimina*,False
+clonazepam,medicamento,clonazepam,clonazepam,False
+clorambucila,medicamento,clorambucila,clorambucila,False
+cloranfenicol,medicamento,cloranfenicol,cloranfenicol,False
+cloreto de potássio,medicamento,cloreto de potássio,potássio,False
+cloreto de sódio,medicamento,cloreto de sódio,sódio,False
+cloridrato de amantadina,medicamento,cloridrato de amantadina,amantadina,False
+cloridrato de amiodarona,medicamento,cloridrato de amiodarona,amiodarona,False
+cloridrato de amitriptilina,medicamento,cloridrato de amitriptilina,amitriptilina,False
+cloridrato de biperideno,medicamento,cloridrato de biperideno,biperideno,False
+cloridrato de bupivacaína,medicamento,cloridrato de bupivacaína,bupivacaína,False
+cloridrato de bupropiona,medicamento,cloridrato de bupropiona,bupropiona,False
+cloridrato de cinacalcete,medicamento,cloridrato de cinacalcete,cinacalcete,False
+cloridrato de clindamicina,medicamento,cloridrato de clindamicina,clindamicina,False
+cloridrato de clomipramina,medicamento,cloridrato de clomipramina,clomipramina,False
+cloridrato de clorpromazina,medicamento,cloridrato de clorpromazina,clorpromazina,False
+cloridrato de daunorrubicina,medicamento,cloridrato de daunorrubicina,daunorrubicina,False
+cloridrato de dobutamina,medicamento,cloridrato de dobutamina,dobutamina,False
+cloridrato de donepezila,medicamento,cloridrato de donepezila,donepezila,False
+cloridrato de dopamina,medicamento,cloridrato de dopamina,dopamina,False
+cloridrato de dorzolamida,medicamento,cloridrato de dorzolamida,dorzolamida,False
+cloridrato de doxorrubicina,medicamento,cloridrato de doxorrubicina,doxorrubicina,False
+cloridrato de doxorrubicina lipossomal,medicamento,cloridrato de doxorrubicina lipossomal,doxorrubicina lipossomal,False
+cloridrato de epirrubicina,medicamento,cloridrato de epirrubicina,epirrubicina,False
+cloridrato de etambutol,medicamento,cloridrato de etambutol,etambutol,False
+cloridrato de fingolimode,medicamento,cloridrato de fingolimode,fingolimode,False
+cloridrato de fluoxetina,medicamento,cloridrato de fluoxetina,fluoxetina,False
+cloridrato de gencitabina,medicamento,cloridrato de gencitabina,gencitabina,False
+cloridrato de hidralazina,medicamento,cloridrato de hidralazina,hidralazina,False
+cloridrato de hidroxocobalamina,medicamento,cloridrato de hidroxocobalamina,hidroxocobalamina,False
+cloridrato de idarrubicina,medicamento,cloridrato de idarrubicina,idarrubicina,False
+cloridrato de irinotecano,medicamento,cloridrato de irinotecano,irinotecano,False
+cloridrato de lidocaína,medicamento,cloridrato de lidocaína,lidocaína,False
+cloridrato de lidocaína + glicose,medicamento,cloridrato de lidocaína,lidocaína,True
+cloridrato de lidocaína + glicose,medicamento,glicose,glicose,True
+cloridrato de lidocaína + hemitartarato de epinefrina,medicamento,cloridrato de lidocaína,lidocaína,True
+cloridrato de lidocaína + hemitartarato de epinefrina,medicamento,hemitartarato de epinefrina,epinefrina,True
+cloridrato de memantina,medicamento,cloridrato de memantina,memantina,False
+cloridrato de metadona,medicamento,cloridrato de metadona,metadona,False
+cloridrato de metformina,medicamento,cloridrato de metformina,metformina,False
+cloridrato de metoclopramida,medicamento,cloridrato de metoclopramida,metoclopramida,False
+cloridrato de minociclina,medicamento,cloridrato de minociclina,minociclina,False
+cloridrato de moxifloxacino,medicamento,cloridrato de moxifloxacino,moxifloxacino,False
+cloridrato de naloxona,medicamento,cloridrato de naloxona,naloxona,False
+cloridrato de nortriptilina,medicamento,cloridrato de nortriptilina,nortriptilina,False
+cloridrato de ondansetrona,medicamento,cloridrato de ondansetrona,ondansetrona,False
+cloridrato de pilocarpina,medicamento,cloridrato de pilocarpina,pilocarpina,False
+cloridrato de piridoxina,medicamento,cloridrato de piridoxina,piridoxina,False
+cloridrato de prilocaína + felipressina,medicamento,cloridrato de prilocaína,prilocaína,True
+cloridrato de prilocaína + felipressina,medicamento,felipressina,felipressina,True
+cloridrato de prometazina,medicamento,cloridrato de prometazina,prometazina,False
+cloridrato de propafenona,medicamento,cloridrato de propafenona,propafenona,False
+cloridrato de propranolol,medicamento,cloridrato de propranolol,propranolol,False
+cloridrato de protamina,medicamento,cloridrato de protamina,protamina,False
+cloridrato de raloxifeno,medicamento,cloridrato de raloxifeno,raloxifeno,False
+cloridrato de sevelâmer,medicamento,cloridrato de sevelâmer,sevelâmer,False
+cloridrato de tetraciclina,medicamento,cloridrato de tetraciclina,tetraciclina,False
+cloridrato de tiamina,medicamento,cloridrato de tiamina,tiamina,False
+cloridrato de tirofibana,medicamento,cloridrato de tirofibana,tirofibana,False
+cloridrato de topotecana,medicamento,cloridrato de topotecana,topotecana,False
+cloridrato de triexifenidil,medicamento,cloridrato de triexifenidil,triexifenidil,False
+cloridrato de verapamil,medicamento,cloridrato de verapamil,verapamil,False
+cloridrato de ziprasidona,medicamento,cloridrato de ziprasidona,ziprasidona,False
+clozapina,medicamento,clozapina,clozapina,False
+colistimetato de sódio,medicamento,colistimetato de sódio,colistimetato,False
+complemento alimentar para paciente fenilcetonúrico maior de 1 ano (fórmula de aminoácidos isenta de fenilalanina),medicamento,complemento alimentar para paciente fenilcetonúrico maior de 1 ano (fórmula de aminoácidos isenta de fenilalanina),complemento alimentar para paciente fenilcetonúrico maior de 1 ano (fórmula de aminoácidos isenta de fenilalanina),False
+complemento alimentar para paciente fenilcetonúrico menor de 1 ano (fórmula de aminoácidos isenta de fenilalanina),medicamento,complemento alimentar para paciente fenilcetonúrico menor de 1 ano (fórmula de aminoácidos isenta de fenilalanina),complemento alimentar para paciente fenilcetonúrico menor de 1 ano (fórmula de aminoácidos isenta de fenilalanina),False
+complexo protrombínico humano,medicamento,complexo protrombínico humano,complexo protrombínico humano,False
+complexo protrombínico parcialmente ativado,medicamento,complexo protrombínico parcialmente ativado,complexo protrombínico parcialmente ativado,False
+cáscara-sagrada (Rhamnus purshiana),fitoterápico,cáscara-sagrada (Rhamnus purshiana),cáscara-sagrada (rhamnus purshiana),False
+dacarbazina,medicamento,dacarbazina,dacarbazina,False
+daclatasvir,medicamento,daclatasvir,daclatasvir,False
+daclizumabe,medicamento,daclizumabe,daclizumabe,False
+dactinomicina,medicamento,dactinomicina,dactinomicina,False
+danazol,medicamento,danazol,danazol,False
+dapagliflozina propanodiol,medicamento,dapagliflozina propanodiol,dapagliflozina propanodiol,False
+dapsona,medicamento,dapsona,dapsona,False
+darunavir,medicamento,darunavir,darunavir,False
+dasatinibe,medicamento,dasatinibe,dasatinibe,False
+decanoato de haloperidol,medicamento,decanoato de haloperidol,haloperidol,False
+deferasirox,medicamento,deferasirox,deferasirox,False
+deferiprona,medicamento,deferiprona,deferiprona,False
+delamanida,medicamento,delamanida,delamanida,False
+desogestrel,medicamento,desogestrel,desogestrel,False
+dexametasona,medicamento,dexametasona,dexametasona,False
+diafragma,medicamento,diafragma,diafragma,False
+diazepam,medicamento,diazepam,diazepam,False
+dicloridrato de pramipexol,medicamento,dicloridrato de pramipexol,pramipexol,False
+dicloridrato de sapropterina,medicamento,dicloridrato de sapropterina,sapropterina,False
+dicloridrato de trientina,medicamento,dicloridrato de trientina,trientina,False
+dietilestilbestrol,medicamento,dietilestilbestrol,dietilestilbestrol,False
+difosfato de cloroquina,medicamento,difosfato de cloroquina,difosfato de cloroquina,False
+difosfato de primaquina,medicamento,difosfato de primaquina,difosfato de primaquina,False
+digliconato de clorexidina,medicamento,digliconato de clorexidina,digliconato de clorexidina,False
+digoxina,medicamento,digoxina,digoxina,False
+dimeticona,medicamento,dimeticona,dimeticona,False
+dinitrato de isossorbida,medicamento,dinitrato de isossorbida,dinitrato de isossorbida,False
+dipirona,medicamento,dipirona,dipirona,False
+dipropionato de beclometasona,medicamento,dipropionato de beclometasona,beclometasona,False
+dipropionato de beclometasona + fumarato de formoterol di-hidratado + brometo de glicopirrônio,medicamento,dipropionato de beclometasona,beclometasona,True
+dipropionato de beclometasona + fumarato de formoterol di-hidratado + brometo de glicopirrônio,medicamento,fumarato de formoterol di-hidratado,formoterol,True
+dipropionato de beclometasona + fumarato de formoterol di-hidratado + brometo de glicopirrônio,medicamento,brometo de glicopirrônio,glicopirrônio,True
+dispositivo intrauterino plástico com cobre (DIU),medicamento,dispositivo intrauterino plástico com cobre (DIU),dispositivo intrauterino plástico com cobre (diu),False
+docetaxel,medicamento,docetaxel,docetaxel,False
+dolutegravir sódico,medicamento,dolutegravir sódico,dolutegravir,False
+dolutegravir sódico + lamivudina,medicamento,dolutegravir sódico,dolutegravir,True
+dolutegravir sódico + lamivudina,medicamento,lamivudina,lamivudina,True
+doxiciclina,medicamento,doxiciclina,doxiciclina,False
+dupilumabe,medicamento,dupilumabe,dupilumabe,False
+durvalumabe,medicamento,durvalumabe,durvalumabe,False
+eculizumabe,medicamento,eculizumabe,eculizumabe,False
+efavirenz,medicamento,efavirenz,efavirenz,False
+elexacaftor/tezacaftor/ivacaftor + ivacaftor,medicamento,elexacaftor/tezacaftor/ivacaftor,elexacaftor/tezacaftor/ivacaftor,True
+elexacaftor/tezacaftor/ivacaftor + ivacaftor,medicamento,ivacaftor,ivacaftor,True
+eltrombopague olamina,medicamento,eltrombopague olamina,eltrombopague olamina,False
+embonato de triptorrelina,medicamento,embonato de triptorrelina,embonato de triptorrelina,False
+emicizumabe,medicamento,emicizumabe,emicizumabe,False
+enantato de noretisterona + valerato de estradiol,medicamento,enantato de noretisterona,noretisterona,True
+enantato de noretisterona + valerato de estradiol,medicamento,valerato de estradiol,estradiol,True
+enfuvirtida,medicamento,enfuvirtida,enfuvirtida,False
+enoxaparina sódica,medicamento,enoxaparina sódica,enoxaparina,False
+entacapona,medicamento,entacapona,entacapona,False
+entecavir,medicamento,entecavir,entecavir,False
+epinefrina,medicamento,epinefrina,epinefrina,False
+erlotinibe,medicamento,erlotinibe,erlotinibe,False
+espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral ),fitoterápico,espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral ),espinheira-santa (maytenus ilicifolia mart. ex reissek e/ou monteverdia ilicifolia (mart. ex reissek) biral ),False
+espiramicina,medicamento,espiramicina,espiramicina,False
+espironolactona,medicamento,espironolactona,espironolactona,False
+estolato de eritromicina,medicamento,estolato de eritromicina,estolato de eritromicina,False
+estreptoquinase,medicamento,estreptoquinase,estreptoquinase,False
+estriol,medicamento,estriol,estriol,False
+estrogênios conjugados,medicamento,estrogênios conjugados,estrogênios conjugados,False
+etanercepte,medicamento,etanercepte,etanercepte,False
+etinilestradiol + levonorgestrel,medicamento,etinilestradiol,etinilestradiol,True
+etinilestradiol + levonorgestrel,medicamento,levonorgestrel,levonorgestrel,True
+etionamida,medicamento,etionamida,etionamida,False
+etofibrato,medicamento,etofibrato,etofibrato,False
+etonorgestrel,medicamento,etonorgestrel,etonorgestrel,False
+etoposídeo,medicamento,etoposídeo,etoposídeo,False
+etossuximida,medicamento,etossuximida,etossuximida,False
+etravirina,medicamento,etravirina,etravirina,False
+everolimo,medicamento,everolimo,everolimo,False
+exemestano,medicamento,exemestano,exemestano,False
+fator IX de coagulação,medicamento,fator IX de coagulação,fator ix de coagulação,False
+fator VII de coagulação ativado recombinante,medicamento,fator VII de coagulação ativado recombinante,fator vii de coagulação ativado recombinante,False
+fator VIII de coagulação,medicamento,fator VIII de coagulação,fator viii de coagulação,False
+fator VIII de coagulação contendo fator de von Willebrand,medicamento,fator VIII de coagulação contendo fator de von Willebrand,fator viii de coagulação contendo fator de von willebrand,False
+fator VIII de coagulação recombinante,medicamento,fator VIII de coagulação recombinante,fator viii de coagulação recombinante,False
+fator XIII de coagulação,medicamento,fator XIII de coagulação,fator xiii de coagulação,False
+fenitoína,medicamento,fenitoína,fenitoína,False
+fenobarbital,medicamento,fenobarbital,fenobarbital,False
+fenofibrato,medicamento,fenofibrato,fenofibrato,False
+fenoximetilpenicilina potássica,medicamento,fenoximetilpenicilina potássica,fenoximetilpenicilina,False
+ferripolimaltose,medicamento,ferripolimaltose,ferripolimaltose,False
+fibrinogênio,medicamento,fibrinogênio,fibrinogênio,False
+filgrastim,medicamento,filgrastim,filgrastim,False
+finasterida,medicamento,finasterida,finasterida,False
+flucitosina,medicamento,flucitosina,flucitosina,False
+fluconazol,medicamento,fluconazol,fluconazol,False
+flumazenil,medicamento,flumazenil,flumazenil,False
+fluoruracila,medicamento,fluoruracila,fluoruracila,False
+flutamida,medicamento,flutamida,flutamida,False
+folinato de cálcio,medicamento,folinato de cálcio,folinato,False
+fosamprenavir,medicamento,fosamprenavir,fosamprenavir,False
+fosfato de clindamicina,medicamento,fosfato de clindamicina,clindamicina,False
+fosfato de codeína,medicamento,fosfato de codeína,codeína,False
+fosfato de cálcio tribásico + colecalciferol,medicamento,fosfato de cálcio tribásico,cálcio tribásico,True
+fosfato de cálcio tribásico + colecalciferol,medicamento,colecalciferol,colecalciferol,True
+fosfato de fludarabina,medicamento,fosfato de fludarabina,fludarabina,False
+fosfato de oseltamivir,medicamento,fosfato de oseltamivir,oseltamivir,False
+fosfato de potássio monobásico + fosfato de potássio dibásico,medicamento,fosfato de potássio monobásico,potássio monobásico,True
+fosfato de potássio monobásico + fosfato de potássio dibásico,medicamento,fosfato de potássio dibásico,potássio dibásico,True
+fosfato sódico de prednisolona,medicamento,fosfato sódico de prednisolona,fosfato sódico de prednisolona,False
+fostensavir trometamol,medicamento,fostensavir trometamol,fostensavir trometamol,False
+fulvestranto,medicamento,fulvestranto,fulvestranto,False
+fumarato de dimetila,medicamento,fumarato de dimetila,dimetila,False
+fumarato de formoterol,medicamento,fumarato de formoterol,formoterol,False
+fumarato de formoterol + budesonida,medicamento,fumarato de formoterol,formoterol,True
+fumarato de formoterol + budesonida,medicamento,budesonida,budesonida,True
+fumarato de tenofovir desoproxila,medicamento,fumarato de tenofovir desoproxila,tenofovir desoproxila,False
+fumarato de tenofovir desoproxila + entricitabina,medicamento,fumarato de tenofovir desoproxila,tenofovir desoproxila,True
+fumarato de tenofovir desoproxila + entricitabina,medicamento,entricitabina,entricitabina,True
+fumarato de tenofovir desoproxila + lamivudina,medicamento,fumarato de tenofovir desoproxila,tenofovir desoproxila,True
+fumarato de tenofovir desoproxila + lamivudina,medicamento,lamivudina,lamivudina,True
+fumarato de tenofovir desoproxila + lamivudina + efavirenz,medicamento,fumarato de tenofovir desoproxila,tenofovir desoproxila,True
+fumarato de tenofovir desoproxila + lamivudina + efavirenz,medicamento,lamivudina,lamivudina,True
+fumarato de tenofovir desoproxila + lamivudina + efavirenz,medicamento,efavirenz,efavirenz,True
+furoato de fluticasona + brometo de umeclidínio + trifenatato de vilanterol,medicamento,furoato de fluticasona,furoato de fluticasona,True
+furoato de fluticasona + brometo de umeclidínio + trifenatato de vilanterol,medicamento,brometo de umeclidínio,umeclidínio,True
+furoato de fluticasona + brometo de umeclidínio + trifenatato de vilanterol,medicamento,trifenatato de vilanterol,vilanterol,True
+furoato de mometasona,medicamento,furoato de mometasona,furoato de mometasona,False
+furosemida,medicamento,furosemida,furosemida,False
+gabapentina,medicamento,gabapentina,gabapentina,False
+galsulfase,medicamento,galsulfase,galsulfase,False
+garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.),fitoterápico,garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.),garra-do-diabo (harpagophytum procumbens dc. ex meissn.),False
+gefitinibe,medicamento,gefitinibe,gefitinibe,False
+gel lubrificante,medicamento,gel lubrificante,gel lubrificante,False
+genfibrozila,medicamento,genfibrozila,genfibrozila,False
+gentamicina,medicamento,gentamicina,gentamicina,False
+glecaprevir + pibrentasvir,medicamento,glecaprevir,glecaprevir,True
+glecaprevir + pibrentasvir,medicamento,pibrentasvir,pibrentasvir,True
+glibenclamida,medicamento,glibenclamida,glibenclamida,False
+glicerol,medicamento,glicerol,glicerol,False
+gliclazida,medicamento,gliclazida,gliclazida,False
+glicose,medicamento,glicose,glicose,False
+glutaral,medicamento,glutaral,glutaral,False
+golimumabe,medicamento,golimumabe,golimumabe,False
+guaco (Mikania glomerata Spreng.),fitoterápico,guaco (Mikania glomerata Spreng.),guaco (mikania glomerata spreng.),False
+haloperidol,medicamento,haloperidol,haloperidol,False
+hemifumarato de quetiapina,medicamento,hemifumarato de quetiapina,hemifumarato de quetiapina,False
+hemifumarato de tenofovir alafenamida,medicamento,hemifumarato de tenofovir alafenamida,hemifumarato de tenofovir alafenamida,False
+hemitartarato de norepinefrina,medicamento,hemitartarato de norepinefrina,norepinefrina,False
+heparina sódica,medicamento,heparina sódica,heparina,False
+hidroclorotiazida,medicamento,hidroclorotiazida,hidroclorotiazida,False
+hidroxiureia,medicamento,hidroxiureia,hidroxiureia,False
+hidróxido de alumínio,medicamento,hidróxido de alumínio,alumínio,False
+hipoclorito de sódio,medicamento,hipoclorito de sódio,hipoclorito,False
+hipromelose,medicamento,hipromelose,hipromelose,False
+hortelã (Mentha x piperita L.),fitoterápico,hortelã (Mentha x piperita L.),hortelã (mentha x piperita l.),False
+ibuprofeno,medicamento,ibuprofeno,ibuprofeno,False
+idursulfase,medicamento,idursulfase,idursulfase,False
+ifosfamida,medicamento,ifosfamida,ifosfamida,False
+iloprosta,medicamento,iloprosta,iloprosta,False
+imatinibe,medicamento,imatinibe,imatinibe,False
+imiglucerase,medicamento,imiglucerase,imiglucerase,False
+imiquimode,medicamento,imiquimode,imiquimode,False
+imunoglobulina anti-Rho (D),soro/imunoglobulina,imunoglobulina anti-Rho (D),imunoglobulina anti-rho (d),False
+imunoglobulina antitetânica,soro/imunoglobulina,imunoglobulina antitetânica,imunoglobulina antitetânica,False
+imunoglobulina antitimócitos humanos (coelho),soro/imunoglobulina,imunoglobulina antitimócitos humanos (coelho),imunoglobulina antitimócitos humanos (coelho),False
+imunoglobulina humana,soro/imunoglobulina,imunoglobulina humana,imunoglobulina humana,False
+imunoglobulina humana anti-hepatite B,soro/imunoglobulina,imunoglobulina humana anti-hepatite B,imunoglobulina humana anti-hepatite b,False
+imunoglobulina humana antirrábica,soro/imunoglobulina,imunoglobulina humana antirrábica,imunoglobulina humana antirrábica,False
+imunoglobulina humana antivaricela zoster,soro/imunoglobulina,imunoglobulina humana antivaricela zoster,imunoglobulina humana antivaricela zoster,False
+infliximabe,medicamento,infliximabe,infliximabe,False
+insulina análoga de ação prolongada,medicamento,insulina análoga de ação prolongada,insulina análoga de ação prolongada,False
+insulina análoga de ação rápida,medicamento,insulina análoga de ação rápida,insulina análoga de ação rápida,False
+insulina humana NPH,medicamento,insulina humana NPH,insulina humana nph,False
+insulina humana regular,medicamento,insulina humana regular,insulina humana regular,False
+iodo + iodeto de potássio,medicamento,iodo,iodo,True
+iodo + iodeto de potássio,medicamento,iodeto de potássio,potássio,True
+isetionato de pentamidina,medicamento,isetionato de pentamidina,isetionato de pentamidina,False
+isoflavona-de-soja  (Glycine max (L.) Merr.),fitoterápico,isoflavona-de-soja  (Glycine max (L.) Merr.),isoflavona-de-soja (glycine max (l.) merr.),False
+isoniazida,medicamento,isoniazida,isoniazida,False
+isotretinoína,medicamento,isotretinoína,isotretinoína,False
+itraconazol,medicamento,itraconazol,itraconazol,False
+ivacaftor,medicamento,ivacaftor,ivacaftor,False
+ivermectina,medicamento,ivermectina,ivermectina,False
+ixequizumabe,medicamento,ixequizumabe,ixequizumabe,False
+lactato de biperideno,medicamento,lactato de biperideno,biperideno,False
+lactulose,medicamento,lactulose,lactulose,False
+lamivudina,medicamento,lamivudina,lamivudina,False
+lamotrigina,medicamento,lamotrigina,lamotrigina,False
+lancetas para punção digital,medicamento,lancetas para punção digital,lancetas para punção digital,False
+laronidase,medicamento,laronidase,laronidase,False
+larotrectinibe,medicamento,larotrectinibe,larotrectinibe,False
+latanoprosta,medicamento,latanoprosta,latanoprosta,False
+leflunomida,medicamento,leflunomida,leflunomida,False
+lenalidomida,medicamento,lenalidomida,lenalidomida,False
+letrozol,medicamento,letrozol,letrozol,False
+levetiracetam,medicamento,levetiracetam,levetiracetam,False
+levodopa + benserazida,medicamento,levodopa,levodopa,True
+levodopa + benserazida,medicamento,benserazida,benserazida,True
+levodopa + carbidopa,medicamento,levodopa,levodopa,True
+levodopa + carbidopa,medicamento,carbidopa,carbidopa,True
+levofloxacino,medicamento,levofloxacino,levofloxacino,False
+levonorgestrel,medicamento,levonorgestrel,levonorgestrel,False
+levotiroxina sódica,medicamento,levotiroxina sódica,levotiroxina,False
+linezolida,medicamento,linezolida,linezolida,False
+lomustina,medicamento,lomustina,lomustina,False
+lopinavir + ritonavir,medicamento,lopinavir,lopinavir,True
+lopinavir + ritonavir,medicamento,ritonavir,ritonavir,True
+loratadina,medicamento,loratadina,loratadina,False
+losartana potássica,medicamento,losartana potássica,losartana,False
+maleato de dexclorfeniramina,medicamento,maleato de dexclorfeniramina,dexclorfeniramina,False
+maleato de enalapril,medicamento,maleato de enalapril,enalapril,False
+maleato de timolol,medicamento,maleato de timolol,timolol,False
+maraviroque,medicamento,maraviroque,maraviroque,False
+medicamentos homeopáticos,medicamento,medicamentos homeopáticos,medicamentos homeopáticos,False
+melfalana,medicamento,melfalana,melfalana,False
+mepolizumabe,medicamento,mepolizumabe,mepolizumabe,False
+mercaptopurina,medicamento,mercaptopurina,mercaptopurina,False
+mesalazina,medicamento,mesalazina,mesalazina,False
+mesilato de desferroxamina,medicamento,mesilato de desferroxamina,desferroxamina,False
+mesilato de doxazosina,medicamento,mesilato de doxazosina,doxazosina,False
+mesilato de rasagilina,medicamento,mesilato de rasagilina,rasagilina,False
+metildopa,medicamento,metildopa,metildopa,False
+metilsulfato de pralidoxima,medicamento,metilsulfato de pralidoxima,metilsulfato de pralidoxima,False
+metotrexato,medicamento,metotrexato,metotrexato,False
+metronidazol,medicamento,metronidazol,metronidazol,False
+micofenolato de mofetila,medicamento,micofenolato de mofetila,micofenolato de mofetila,False
+micofenolato de sódio,medicamento,micofenolato de sódio,micofenolato,False
+micronutrientes,medicamento,micronutrientes,micronutrientes,False
+midazolam,medicamento,midazolam,midazolam,False
+miglustate,medicamento,miglustate,miglustate,False
+miltefosina,medicamento,miltefosina,miltefosina,False
+misoprostol,medicamento,misoprostol,misoprostol,False
+mononitrato de isossorbida,medicamento,mononitrato de isossorbida,mononitrato de isossorbida,False
+naproxeno,medicamento,naproxeno,naproxeno,False
+natalizumabe,medicamento,natalizumabe,natalizumabe,False
+nevirapina,medicamento,nevirapina,nevirapina,False
+nicotina,medicamento,nicotina,nicotina,False
+nifedipino,medicamento,nifedipino,nifedipino,False
+nifurtimox,medicamento,nifurtimox,nifurtimox,False
+nilotinibe,medicamento,nilotinibe,nilotinibe,False
+nirmatrelvir + ritonavir,medicamento,nirmatrelvir,nirmatrelvir,True
+nirmatrelvir + ritonavir,medicamento,ritonavir,ritonavir,True
+nirsevimabe,medicamento,nirsevimabe,nirsevimabe,False
+nistatina,medicamento,nistatina,nistatina,False
+nitrato de miconazol,medicamento,nitrato de miconazol,miconazol,False
+nitrofurantoína,medicamento,nitrofurantoína,nitrofurantoína,False
+nivolumabe,medicamento,nivolumabe,nivolumabe,False
+noretisterona,medicamento,noretisterona,noretisterona,False
+nusinersena,medicamento,nusinersena,nusinersena,False
+ofloxacino,medicamento,ofloxacino,ofloxacino,False
+olanzapina,medicamento,olanzapina,olanzapina,False
+olaparibe,medicamento,olaparibe,olaparibe,False
+omalizumabe,medicamento,omalizumabe,omalizumabe,False
+omeprazol,medicamento,omeprazol,omeprazol,False
+onasemnogeno abeparvoveque,medicamento,onasemnogeno abeparvoveque,onasemnogeno abeparvoveque,False
+oxaliplatina,medicamento,oxaliplatina,oxaliplatina,False
+paclitaxel,medicamento,paclitaxel,paclitaxel,False
+palbociclibe,medicamento,palbociclibe,palbociclibe,False
+palivizumabe,medicamento,palivizumabe,palivizumabe,False
+palmitato de retinol,medicamento,palmitato de retinol,retinol,False
+pamidronato dissódico,medicamento,pamidronato dissódico,pamidronato,False
+pamoato de pasireotida,medicamento,pamoato de pasireotida,pasireotida,False
+pancreatina,medicamento,pancreatina,pancreatina,False
+paracetamol,medicamento,paracetamol,paracetamol,False
+paricalcitol,medicamento,paricalcitol,paricalcitol,False
+pasta de óxido de zinco (FN),medicamento,pasta de óxido de zinco (FN),pasta de óxido de zinco,False
+pazopanibe,medicamento,pazopanibe,pazopanibe,False
+pembrolizumabe,medicamento,pembrolizumabe,pembrolizumabe,False
+pemetrexede,medicamento,pemetrexede,pemetrexede,False
+penicilamina,medicamento,penicilamina,penicilamina,False
+pentoxifilina,medicamento,pentoxifilina,pentoxifilina,False
+permanganato de potássio,medicamento,permanganato de potássio,permanganato,False
+permetrina,medicamento,permetrina,permetrina,False
+pertuzumabe,medicamento,pertuzumabe,pertuzumabe,False
+peróxido de benzoíla (FN),medicamento,peróxido de benzoíla (FN),peróxido de benzoíla,False
+pirazinamida,medicamento,pirazinamida,pirazinamida,False
+pirimetamina,medicamento,pirimetamina,pirimetamina,False
+plantago  (Plantago ovata   Forssk.),fitoterápico,plantago  (Plantago ovata   Forssk.),plantago (plantago ovata forssk.),False
+podofilina (FN),medicamento,podofilina (FN),podofilina,False
+podofilotoxina,medicamento,podofilotoxina,podofilotoxina,False
+ponatinibe,medicamento,ponatinibe,ponatinibe,False
+pravastatina sódica,medicamento,pravastatina sódica,pravastatina,False
+praziquantel,medicamento,praziquantel,praziquantel,False
+prednisona,medicamento,prednisona,prednisona,False
+preservativo externo,medicamento,preservativo externo,preservativo externo,False
+preservativo interno,medicamento,preservativo interno,preservativo interno,False
+pretomanida,medicamento,pretomanida,pretomanida,False
+primidona,medicamento,primidona,primidona,False
+propiltiouracila,medicamento,propiltiouracila,propiltiouracila,False
+propionato de clobetasol,medicamento,propionato de clobetasol,clobetasol,False
+raltegravir potássico,medicamento,raltegravir potássico,raltegravir,False
+ravulizumabe,medicamento,ravulizumabe,ravulizumabe,False
+ribavirina,medicamento,ribavirina,ribavirina,False
+rifabutina,medicamento,rifabutina,rifabutina,False
+rifampicina,medicamento,rifampicina,rifampicina,False
+rifampicina + isoniazida,medicamento,rifampicina,rifampicina,True
+rifampicina + isoniazida,medicamento,isoniazida,isoniazida,True
+rifampicina + isoniazida + pirazinamida,medicamento,rifampicina,rifampicina,True
+rifampicina + isoniazida + pirazinamida,medicamento,isoniazida,isoniazida,True
+rifampicina + isoniazida + pirazinamida,medicamento,pirazinamida,pirazinamida,True
+rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,medicamento,rifampicina,rifampicina,True
+rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,medicamento,isoniazida,isoniazida,True
+rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,medicamento,pirazinamida,pirazinamida,True
+rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,medicamento,cloridrato de etambutol,etambutol,True
+rifapentina,medicamento,rifapentina,rifapentina,False
+rifapentina + isoniazida,medicamento,rifapentina,rifapentina,True
+rifapentina + isoniazida,medicamento,isoniazida,isoniazida,True
+riluzol,medicamento,riluzol,riluzol,False
+risanquizumabe,medicamento,risanquizumabe,risanquizumabe,False
+risdiplam,medicamento,risdiplam,risdiplam,False
+risedronato sódico,medicamento,risedronato sódico,risedronato,False
+risperidona,medicamento,risperidona,risperidona,False
+ritonavir,medicamento,ritonavir,ritonavir,False
+rituximabe,medicamento,rituximabe,rituximabe,False
+rivastigmina,medicamento,rivastigmina,rivastigmina,False
+romiplostim,medicamento,romiplostim,romiplostim,False
+romosozumabe,medicamento,romosozumabe,romosozumabe,False
+sacarato de hidróxido férrico,medicamento,sacarato de hidróxido férrico,sacarato de hidróxido férrico,False
+sacubitril valsartana sódica hidratada,medicamento,sacubitril valsartana sódica hidratada,sacubitril valsartana sódica hidratada,False
+sais para reidratação oral,medicamento,sais para reidratação oral,sais para reidratação oral,False
+salgueiro  (Salix alba L.),fitoterápico,salgueiro  (Salix alba L.),salgueiro (salix alba l.),False
+salgueiro (Salix alba  L.),fitoterápico,salgueiro (Salix alba  L.),salgueiro (salix alba l.),False
+salgueiro (Salix alba L.),fitoterápico,salgueiro (Salix alba L.),salgueiro (salix alba l.),False
+secuquinumabe,medicamento,secuquinumabe,secuquinumabe,False
+selexipague,medicamento,selexipague,selexipague,False
+seringas com agulha acoplada para aplicação de insulina,medicamento,seringas com agulha acoplada para aplicação de insulina,seringas com agulha acoplada para aplicação de insulina,False
+sinvastatina,medicamento,sinvastatina,sinvastatina,False
+sirolimo,medicamento,sirolimo,sirolimo,False
+sofosbuvir,medicamento,sofosbuvir,sofosbuvir,False
+sofosbuvir + velpatasvir,medicamento,sofosbuvir,sofosbuvir,True
+sofosbuvir + velpatasvir,medicamento,velpatasvir,velpatasvir,True
+sofosbuvir + velpatasvir + voxilaprevir,medicamento,sofosbuvir,sofosbuvir,True
+sofosbuvir + velpatasvir + voxilaprevir,medicamento,velpatasvir,velpatasvir,True
+sofosbuvir + velpatasvir + voxilaprevir,medicamento,voxilaprevir,voxilaprevir,True
+solução ringer + lactato,medicamento,solução ringer,solução ringer,True
+solução ringer + lactato,medicamento,lactato,lactato,True
+somatropina,medicamento,somatropina,somatropina,False
+"soro antiaracnídico (Loxosceles, Phoneutria e Tityus)",soro/imunoglobulina,"soro antiaracnídico (Loxosceles, Phoneutria e Tityus)","soro antiaracnídico (loxosceles, phoneutria e tityus)",False
+soro antibotrópico (pentavalente),soro/imunoglobulina,soro antibotrópico (pentavalente),soro antibotrópico (pentavalente),False
+soro antibotrópico (pentavalente) e anticrotálico,soro/imunoglobulina,soro antibotrópico (pentavalente) e anticrotálico,soro antibotrópico (pentavalente) e anticrotálico,False
+soro antibotrópico (pentavalente) e antilaquético,soro/imunoglobulina,soro antibotrópico (pentavalente) e antilaquético,soro antibotrópico (pentavalente) e antilaquético,False
+soro antibotulínico AB (bivalente),soro/imunoglobulina,soro antibotulínico AB (bivalente),soro antibotulínico ab (bivalente),False
+soro anticrotálico,soro/imunoglobulina,soro anticrotálico,soro anticrotálico,False
+soro antidiftérico,soro/imunoglobulina,soro antidiftérico,soro antidiftérico,False
+soro antielapídico (bivalente),soro/imunoglobulina,soro antielapídico (bivalente),soro antielapídico (bivalente),False
+soro antiescorpiônico,soro/imunoglobulina,soro antiescorpiônico,soro antiescorpiônico,False
+soro antilonômico,soro/imunoglobulina,soro antilonômico,soro antilonômico,False
+soro antiloxoscélico (trivalente),soro/imunoglobulina,soro antiloxoscélico (trivalente),soro antiloxoscélico (trivalente),False
+soro antirrábico,soro/imunoglobulina,soro antirrábico,soro antirrábico,False
+soro antitetânico,soro/imunoglobulina,soro antitetânico,soro antitetânico,False
+succinato de metoprolol,medicamento,succinato de metoprolol,metoprolol,False
+succinato de tafenoquina,medicamento,succinato de tafenoquina,tafenoquina,False
+succinato sódico de hidrocortisona,medicamento,succinato sódico de hidrocortisona,succinato sódico de hidrocortisona,False
+succinato sódico de metilprednisolona,medicamento,succinato sódico de metilprednisolona,succinato sódico de metilprednisolona,False
+sulfadiazina,medicamento,sulfadiazina,sulfadiazina,False
+sulfadiazina de prata,medicamento,sulfadiazina de prata,sulfadiazina de prata,False
+sulfametoxazol + trimetoprima,medicamento,sulfametoxazol,sulfametoxazol,True
+sulfametoxazol + trimetoprima,medicamento,trimetoprima,trimetoprima,True
+sulfassalazina,medicamento,sulfassalazina,sulfassalazina,False
+sulfato de abacavir,medicamento,sulfato de abacavir,abacavir,False
+sulfato de amicacina,medicamento,sulfato de amicacina,amicacina,False
+sulfato de atazanavir,medicamento,sulfato de atazanavir,atazanavir,False
+sulfato de atropina,medicamento,sulfato de atropina,atropina,False
+sulfato de bleomicina,medicamento,sulfato de bleomicina,bleomicina,False
+sulfato de estreptomicina,medicamento,sulfato de estreptomicina,estreptomicina,False
+sulfato de gentamicina,medicamento,sulfato de gentamicina,gentamicina,False
+sulfato de hidroxicloroquina,medicamento,sulfato de hidroxicloroquina,hidroxicloroquina,False
+sulfato de isavuconazônio,medicamento,sulfato de isavuconazônio,isavuconazônio,False
+sulfato de magnésio,medicamento,sulfato de magnésio,magnésio,False
+sulfato de morfina,medicamento,sulfato de morfina,morfina,False
+sulfato de polimixina B + sulfato de neomicina + fluocinolona acetonida + cloridrato de lidocaína,medicamento,sulfato de polimixina B,polimixina b,True
+sulfato de polimixina B + sulfato de neomicina + fluocinolona acetonida + cloridrato de lidocaína,medicamento,sulfato de neomicina,neomicina,True
+sulfato de polimixina B + sulfato de neomicina + fluocinolona acetonida + cloridrato de lidocaína,medicamento,fluocinolona acetonida,fluocinolona acetonida,True
+sulfato de polimixina B + sulfato de neomicina + fluocinolona acetonida + cloridrato de lidocaína,medicamento,cloridrato de lidocaína,lidocaína,True
+sulfato de salbutamol,medicamento,sulfato de salbutamol,salbutamol,False
+sulfato de vimblastina,medicamento,sulfato de vimblastina,vimblastina,False
+sulfato de vincristina,medicamento,sulfato de vincristina,vincristina,False
+sulfato de zinco,medicamento,sulfato de zinco,zinco,False
+sulfato ferroso,medicamento,sulfato ferroso,sulfato ferroso,False
+sunitinibe,medicamento,sunitinibe,sunitinibe,False
+tacrolimo,medicamento,tacrolimo,tacrolimo,False
+tafamidis,medicamento,tafamidis,tafamidis,False
+tafamidis meglumina,medicamento,tafamidis meglumina,tafamidis meglumina,False
+tafenoquina,medicamento,tafenoquina,tafenoquina,False
+talidomida,medicamento,talidomida,talidomida,False
+tartarato de brimonidina,medicamento,tartarato de brimonidina,brimonidina,False
+tartarato de metoprolol,medicamento,tartarato de metoprolol,metoprolol,False
+tartarato de vinorelbina,medicamento,tartarato de vinorelbina,vinorelbina,False
+teclozana,medicamento,teclozana,teclozana,False
+tenecteplase,medicamento,tenecteplase,tenecteplase,False
+teriflunomida,medicamento,teriflunomida,teriflunomida,False
+terizidona,medicamento,terizidona,terizidona,False
+teste quantitativo da atividade da enzima glicose-6-fosfato desidrogenase (G6PD),medicamento,teste quantitativo da atividade da enzima glicose-6-fosfato desidrogenase (G6PD),teste quantitativo da atividade da enzima glicose-6-fosfato desidrogenase (g6pd),False
+teste tuberculínico (Derivado Proteico Purificado - PPD),medicamento,teste tuberculínico (Derivado Proteico Purificado - PPD),teste tuberculínico (derivado proteico purificado - ppd),False
+tiamazol,medicamento,tiamazol,tiamazol,False
+tioguanina,medicamento,tioguanina,tioguanina,False
+tipranavir,medicamento,tipranavir,tipranavir,False
+tiras reagentes de medida de glicemia capilar,medicamento,tiras reagentes de medida de glicemia capilar,tiras reagentes de medida de glicemia capilar,False
+tobramicina,medicamento,tobramicina,tobramicina,False
+tocilizumabe,medicamento,tocilizumabe,tocilizumabe,False
+tofacitinibe,medicamento,tofacitinibe,tofacitinibe,False
+topiramato,medicamento,topiramato,topiramato,False
+toxina botulínica A,medicamento,toxina botulínica A,toxina botulínica a,False
+trastuzumabe,medicamento,trastuzumabe,trastuzumabe,False
+trastuzumabe entansina,medicamento,trastuzumabe entansina,trastuzumabe entansina,False
+travoprosta,medicamento,travoprosta,travoprosta,False
+tretinoína,medicamento,tretinoína,tretinoína,False
+triptorrelina,medicamento,triptorrelina,triptorrelina,False
+trióxido de arsênio,medicamento,trióxido de arsênio,trióxido de arsênio,False
+unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.)),fitoterápico,unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.)),unha-de-gato (uncaria tomentosa (willd. ex roem. & schult.)),False
+upadacitinibe,medicamento,upadacitinibe,upadacitinibe,False
+ustequinumabe,medicamento,ustequinumabe,ustequinumabe,False
+vacina BCG,vacina,vacina BCG,vacina bcg,False
+vacina Haemophilus influenzae B (conjugada),vacina,vacina Haemophilus influenzae B (conjugada),vacina haemophilus influenzae b (conjugada),False
+vacina adsorvida difteria e tétano adulto,vacina,vacina adsorvida difteria e tétano adulto,vacina adsorvida difteria e tétano adulto,False
+vacina adsorvida difteria e tétano infantil,vacina,vacina adsorvida difteria e tétano infantil,vacina adsorvida difteria e tétano infantil,False
+"vacina adsorvida difteria, tétano e pertussis",vacina,"vacina adsorvida difteria, tétano e pertussis","vacina adsorvida difteria, tétano e pertussis",False
+"vacina adsorvida difteria, tétano e pertussis (acelular) adulto",vacina,"vacina adsorvida difteria, tétano e pertussis (acelular) adulto","vacina adsorvida difteria, tétano e pertussis (acelular) adulto",False
+"vacina adsorvida difteria, tétano e pertussis (acelular) infantil",vacina,"vacina adsorvida difteria, tétano e pertussis (acelular) infantil","vacina adsorvida difteria, tétano e pertussis (acelular) infantil",False
+"vacina adsorvida difteria, tétano, pertussis, hepatite B (recombinante) e Haemophilus influenzae B (conjugada)",vacina,"vacina adsorvida difteria, tétano, pertussis, hepatite B (recombinante) e Haemophilus influenzae B (conjugada)","vacina adsorvida difteria, tétano, pertussis, hepatite b (recombinante) e haemophilus influenzae b (conjugada)",False
+vacina adsorvida hepatite A (inativada) adulto,vacina,vacina adsorvida hepatite A (inativada) adulto,vacina adsorvida hepatite a (inativada) adulto,False
+vacina adsorvida hepatite A (inativada) infantil,vacina,vacina adsorvida hepatite A (inativada) infantil,vacina adsorvida hepatite a (inativada) infantil,False
+vacina covid-19 infantil (mRNA),vacina,vacina covid-19 infantil (mRNA),vacina covid-19 infantil (mrna),False
+vacina cólera (inativada),vacina,vacina cólera (inativada),vacina cólera (inativada),False
+vacina dengue tetravalente (atenuada),vacina,vacina dengue tetravalente (atenuada),vacina dengue tetravalente (atenuada),False
+vacina febre amarela (atenuada),vacina,vacina febre amarela (atenuada),vacina febre amarela (atenuada),False
+vacina febre tifoide (polissacarídica),vacina,vacina febre tifoide (polissacarídica),vacina febre tifoide (polissacarídica),False
+vacina hepatite B (recombinante),vacina,vacina hepatite B (recombinante),vacina hepatite b (recombinante),False
+"vacina influenza trivalente (fragmentada, inativada)",vacina,"vacina influenza trivalente (fragmentada, inativada)","vacina influenza trivalente (fragmentada, inativada)",False
+vacina meningocócica ACWY (conjugada),vacina,vacina meningocócica ACWY (conjugada),vacina meningocócica acwy (conjugada),False
+vacina meningocócica C (conjugada),vacina,vacina meningocócica C (conjugada),vacina meningocócica c (conjugada),False
+"vacina papilomavírus humano 6, 11, 16 e 18 (recombinante)",vacina,"vacina papilomavírus humano 6, 11, 16 e 18 (recombinante)","vacina papilomavírus humano 6, 11, 16 e 18 (recombinante)",False
+vacina pneumocócica 10-valente (conjugada),vacina,vacina pneumocócica 10-valente (conjugada),vacina pneumocócica 10-valente (conjugada),False
+vacina pneumocócica 13-valente (conjugada),vacina,vacina pneumocócica 13-valente (conjugada),vacina pneumocócica 13-valente (conjugada),False
+vacina pneumocócica 23-valente (polissacarídica),vacina,vacina pneumocócica 23-valente (polissacarídica),vacina pneumocócica 23-valente (polissacarídica),False
+vacina poliomielite 1 e 3 (atenuada),vacina,vacina poliomielite 1 e 3 (atenuada),vacina poliomielite 1 e 3 (atenuada),False
+"vacina poliomielite 1, 2 e 3 (inativada)",vacina,"vacina poliomielite 1, 2 e 3 (inativada)","vacina poliomielite 1, 2 e 3 (inativada)",False
+vacina raiva (inativada),vacina,vacina raiva (inativada),vacina raiva (inativada),False
+vacina rotavírus humano G1P [8] (atenuada),vacina,vacina rotavírus humano G1P [8] (atenuada),vacina rotavírus humano g1p [8] (atenuada),False
+"vacina sarampo, caxumba, rubéola",vacina,"vacina sarampo, caxumba, rubéola","vacina sarampo, caxumba, rubéola",False
+"vacina sarampo, caxumba, rubéola e varicela (atenuada)",vacina,"vacina sarampo, caxumba, rubéola e varicela (atenuada)","vacina sarampo, caxumba, rubéola e varicela (atenuada)",False
+vacina varicela (atenuada),vacina,vacina varicela (atenuada),vacina varicela (atenuada),False
+vacina vírus sincicial respiratório A e B (recombinante),vacina,vacina vírus sincicial respiratório A e B (recombinante),vacina vírus sincicial respiratório a e b (recombinante),False
+valproato de sódio,medicamento,valproato de sódio,valproato,False
+varfarina sódica,medicamento,varfarina sódica,varfarina,False
+vedolizumabe,medicamento,vedolizumabe,vedolizumabe,False
+vigabatrina,medicamento,vigabatrina,vigabatrina,False
+voriconazol,medicamento,voriconazol,voriconazol,False
+xinafoato de salmeterol,medicamento,xinafoato de salmeterol,salmeterol,False
+zanamivir,medicamento,zanamivir,zanamivir,False
+zidovudina,medicamento,zidovudina,zidovudina,False
+zidovudina + lamivudina,medicamento,zidovudina,zidovudina,True
+zidovudina + lamivudina,medicamento,lamivudina,lamivudina,True
+ácido acetilsalicílico,medicamento,ácido acetilsalicílico,ácido acetilsalicílico,False
+ácido folínico,medicamento,ácido folínico,ácido folínico,False
+ácido fólico,medicamento,ácido fólico,ácido fólico,False
+ácido nicotínico,medicamento,ácido nicotínico,ácido nicotínico,False
+ácido paraminossalicílico,medicamento,ácido paraminossalicílico,ácido paraminossalicílico,False
+ácido salicílico (FN),medicamento,ácido salicílico (FN),ácido salicílico,False
+ácido tranexâmico,medicamento,ácido tranexâmico,ácido tranexâmico,False
+ácido ursodesoxicólico,medicamento,ácido ursodesoxicólico,ácido ursodesoxicólico,False
+ácido valpróico,medicamento,ácido valpróico,ácido valpróico,False
+ácido zoledrônico,medicamento,ácido zoledrônico,ácido zoledrônico,False
+água para injetáveis,medicamento,água para injetáveis,água para injetáveis,False
+álcool etílico (FN),medicamento,álcool etílico (FN),álcool etílico,False
+óleo mineral,medicamento,óleo mineral,óleo mineral,False

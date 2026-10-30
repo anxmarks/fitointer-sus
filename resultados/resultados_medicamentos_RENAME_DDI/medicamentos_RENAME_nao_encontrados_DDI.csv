@@ -1,0 +1,573 @@
+﻿nome_original,tipo,componente,principio_ativo_base,associacao,status
+Imunoglobulina humana,soro/imunoglobulina,Imunoglobulina humana,imunoglobulina humana,False,nao_encontrado
+Iodeto de potássio,medicamento,Iodeto de potássio,potássio,False,nao_encontrado
+abemaciclibe,medicamento,abemaciclibe,abemaciclibe,False,nao_encontrado
+acetato de betametasona + fosfato dissódico de betametasona,medicamento,acetato de betametasona,betametasona,True,nao_encontrado
+acetato de betametasona + fosfato dissódico de betametasona,medicamento,fosfato dissódico de betametasona,betametasona,True,nao_encontrado
+acetato de ciproterona,medicamento,acetato de ciproterona,ciproterona,False,nao_encontrado
+acetato de fludrocortisona,medicamento,acetato de fludrocortisona,fludrocortisona,False,nao_encontrado
+acetato de glatirâmer,medicamento,acetato de glatirâmer,glatirâmer,False,nao_encontrado
+acetato de gosserelina,medicamento,acetato de gosserelina,gosserelina,False,nao_encontrado
+acetato de gosserrelina,medicamento,acetato de gosserrelina,gosserrelina,False,nao_encontrado
+acetato de lanreotida,medicamento,acetato de lanreotida,lanreotida,False,nao_encontrado
+acetato de leuprorrelina,medicamento,acetato de leuprorrelina,leuprorrelina,False,nao_encontrado
+acetato de medroxiprogesterona,medicamento,acetato de medroxiprogesterona,medroxiprogesterona,False,nao_encontrado
+acetato de medroxiprogesterona + cipionato de estradiol,medicamento,acetato de medroxiprogesterona,medroxiprogesterona,True,nao_encontrado
+acetato de octreotida,medicamento,acetato de octreotida,octreotida,False,nao_encontrado
+acetato de sódio,medicamento,acetato de sódio,sódio,False,nao_encontrado
+acetazolamida,medicamento,acetazolamida,acetazolamida,False,nao_encontrado
+acitretina,medicamento,acitretina,acitretina,False,nao_encontrado
+adalimumabe,medicamento,adalimumabe,adalimumabe,False,nao_encontrado
+agulha para caneta aplicadora de insulina,medicamento,agulha para caneta aplicadora de insulina,agulha para caneta aplicadora de insulina,False,nao_encontrado
+albendazol,medicamento,albendazol,albendazol,False,nao_encontrado
+albumina humana,medicamento,albumina humana,albumina humana,False,nao_encontrado
+alcachofra (Cynara scolymus L.),fitoterápico,alcachofra (Cynara scolymus L.),alcachofra (cynara scolymus l.),False,nao_encontrado
+alcatrão mineral (FN),medicamento,alcatrão mineral (FN),alcatrão mineral,False,nao_encontrado
+alendronato de sódio,medicamento,alendronato de sódio,alendronato,False,nao_encontrado
+alentuzumabe,medicamento,alentuzumabe,alentuzumabe,False,nao_encontrado
+alfa-alglicosidade,medicamento,alfa-alglicosidade,alfa-alglicosidade,False,nao_encontrado
+alfacerliponase,medicamento,alfacerliponase,alfacerliponase,False,nao_encontrado
+alfadornase,medicamento,alfadornase,alfadornase,False,nao_encontrado
+alfaelosulfase,medicamento,alfaelosulfase,alfaelosulfase,False,nao_encontrado
+alfaepoetina,medicamento,alfaepoetina,alfaepoetina,False,nao_encontrado
+alfagalsidase,medicamento,alfagalsidase,alfagalsidase,False,nao_encontrado
+alfainterferona 2b,medicamento,alfainterferona 2b,alfainterferona 2b,False,nao_encontrado
+alfapeginterferona 2a,medicamento,alfapeginterferona 2a,alfapeginterferona 2a,False,nao_encontrado
+alfapeginterferona 2b,medicamento,alfapeginterferona 2b,alfapeginterferona 2b,False,nao_encontrado
+alfaporactanto (surfactante pulmonar),medicamento,alfaporactanto (surfactante pulmonar),alfaporactanto (surfactante pulmonar),False,nao_encontrado
+alfataliglicerase,medicamento,alfataliglicerase,alfataliglicerase,False,nao_encontrado
+alfatirotropina (tsh recombinante),medicamento,alfatirotropina (tsh recombinante),alfatirotropina (tsh recombinante),False,nao_encontrado
+alfavelaglicerase,medicamento,alfavelaglicerase,alfavelaglicerase,False,nao_encontrado
+alfavestronidase,medicamento,alfavestronidase,alfavestronidase,False,nao_encontrado
+algestona acetofenida + enantato de estradiol,medicamento,algestona acetofenida,algestona acetofenida,True,nao_encontrado
+alopurinol,medicamento,alopurinol,alopurinol,False,nao_encontrado
+ambrisentana,medicamento,ambrisentana,ambrisentana,False,nao_encontrado
+amoxicilina,medicamento,amoxicilina,amoxicilina,False,nao_encontrado
+amoxicilina + clavulanato de potássio,medicamento,amoxicilina,amoxicilina,True,nao_encontrado
+amoxicilina + clavulanato de potássio,medicamento,clavulanato de potássio,clavulanato,True,nao_encontrado
+anfotericina B (complexo lipídico),medicamento,anfotericina B (complexo lipídico),anfotericina b (complexo lipídico),False,nao_encontrado
+anfotericina B (desoxicolato),medicamento,anfotericina B (desoxicolato),anfotericina b (desoxicolato),False,nao_encontrado
+anfotericina B (lipossomal),medicamento,anfotericina B (lipossomal),anfotericina b (lipossomal),False,nao_encontrado
+anidulafungina,medicamento,anidulafungina,anidulafungina,False,nao_encontrado
+antimoniato de meglumina,medicamento,antimoniato de meglumina,antimoniato de meglumina,False,nao_encontrado
+aroeira (Schinus terebinthifolia Raddi),fitoterápico,aroeira (Schinus terebinthifolia Raddi),aroeira (schinus terebinthifolia raddi),False,nao_encontrado
+arteméter + lumefantrina,medicamento,arteméter,arteméter,True,nao_encontrado
+arteméter + lumefantrina,medicamento,lumefantrina,lumefantrina,True,nao_encontrado
+artesunato,medicamento,artesunato,artesunato,False,nao_encontrado
+artesunato + mefloquina,medicamento,artesunato,artesunato,True,nao_encontrado
+artesunato + mefloquina,medicamento,mefloquina,mefloquina,True,nao_encontrado
+asciminibe,medicamento,asciminibe,asciminibe,False,nao_encontrado
+atorvastatina cálcica,medicamento,atorvastatina cálcica,atorvastatina,False,nao_encontrado
+azacitidina,medicamento,azacitidina,azacitidina,False,nao_encontrado
+azatioprina,medicamento,azatioprina,azatioprina,False,nao_encontrado
+azitromicina,medicamento,azitromicina,azitromicina,False,nao_encontrado
+babosa (Aloe vera (L.) Burm. f.),fitoterápico,babosa (Aloe vera (L.) Burm. f.),babosa (aloe vera (l.) burm. f.),False,nao_encontrado
+baricitinibe,medicamento,baricitinibe,baricitinibe,False,nao_encontrado
+basiliximabe,medicamento,basiliximabe,basiliximabe,False,nao_encontrado
+bedaquilina,medicamento,bedaquilina,bedaquilina,False,nao_encontrado
+benralizumabe,medicamento,benralizumabe,benralizumabe,False,nao_encontrado
+benzilpenicilina benzatina,medicamento,benzilpenicilina benzatina,benzilpenicilina benzatina,False,nao_encontrado
+benzilpenicilina potássica,medicamento,benzilpenicilina potássica,benzilpenicilina,False,nao_encontrado
+benzilpenicilina procaína + benzilpenicilina potássica,medicamento,benzilpenicilina procaína,benzilpenicilina procaína,True,nao_encontrado
+benzilpenicilina procaína + benzilpenicilina potássica,medicamento,benzilpenicilina potássica,benzilpenicilina,True,nao_encontrado
+benznidazol,medicamento,benznidazol,benznidazol,False,nao_encontrado
+benzoilmetronidazol,medicamento,benzoilmetronidazol,benzoilmetronidazol,False,nao_encontrado
+beractanto (surfactante Pulmonar,medicamento,beractanto (surfactante Pulmonar,beractanto (surfactante pulmonar,False,nao_encontrado
+besilato de anlodipino,medicamento,besilato de anlodipino,anlodipino,False,nao_encontrado
+beta-agalsidase,medicamento,beta-agalsidase,beta-agalsidase,False,nao_encontrado
+betadinutuximabe,medicamento,betadinutuximabe,betadinutuximabe,False,nao_encontrado
+betainterferona 1a,medicamento,betainterferona 1a,betainterferona 1a,False,nao_encontrado
+betainterferona 1b,medicamento,betainterferona 1b,betainterferona 1b,False,nao_encontrado
+bezafibrato,medicamento,bezafibrato,bezafibrato,False,nao_encontrado
+bicalutamida,medicamento,bicalutamida,bicalutamida,False,nao_encontrado
+bicarbonato de sódio,medicamento,bicarbonato de sódio,bicarbonato,False,nao_encontrado
+bimatoprosta,medicamento,bimatoprosta,bimatoprosta,False,nao_encontrado
+biotina,medicamento,biotina,biotina,False,nao_encontrado
+bissulfato de clopidogrel,medicamento,bissulfato de clopidogrel,bissulfato de clopidogrel,False,nao_encontrado
+blinatumomabe,medicamento,blinatumomabe,blinatumomabe,False,nao_encontrado
+bortezomibe,medicamento,bortezomibe,bortezomibe,False,nao_encontrado
+bosentana,medicamento,bosentana,bosentana,False,nao_encontrado
+brentuximabe vedotina,medicamento,brentuximabe vedotina,brentuximabe vedotina,False,nao_encontrado
+brigatinibe,medicamento,brigatinibe,brigatinibe,False,nao_encontrado
+brinzolamida,medicamento,brinzolamida,brinzolamida,False,nao_encontrado
+brometo de ipratrópio,medicamento,brometo de ipratrópio,ipratrópio,False,nao_encontrado
+brometo de piridostigmina,medicamento,brometo de piridostigmina,piridostigmina,False,nao_encontrado
+brometo de tiotrópio monoidratado + cloridrato de olodaterol,medicamento,brometo de tiotrópio monoidratado,tiotrópio,True,nao_encontrado
+brometo de tiotrópio monoidratado + cloridrato de olodaterol,medicamento,cloridrato de olodaterol,olodaterol,True,nao_encontrado
+brometo de umeclidínio + trifenatato de vilanterol,medicamento,brometo de umeclidínio,umeclidínio,True,nao_encontrado
+bromidrato de galantamina,medicamento,bromidrato de galantamina,galantamina,False,nao_encontrado
+budesonida,medicamento,budesonida,budesonida,False,nao_encontrado
+burosumabe,medicamento,burosumabe,burosumabe,False,nao_encontrado
+cabergolina,medicamento,cabergolina,cabergolina,False,nao_encontrado
+calcitonina,medicamento,calcitonina,calcitonina,False,nao_encontrado
+caneta para aplicação de insulina,medicamento,caneta para aplicação de insulina,caneta para aplicação de insulina,False,nao_encontrado
+capecitabina,medicamento,capecitabina,capecitabina,False,nao_encontrado
+capreomicina,medicamento,capreomicina,capreomicina,False,nao_encontrado
+carbamazepina,medicamento,carbamazepina,carbamazepina,False,nao_encontrado
+carbonato de cálcio,medicamento,carbonato de cálcio,cálcio,False,nao_encontrado
+carbonato de cálcio + colecalciferol,medicamento,carbonato de cálcio,cálcio,True,nao_encontrado
+carbonato de lítio,medicamento,carbonato de lítio,lítio,False,nao_encontrado
+carboplatina,medicamento,carboplatina,carboplatina,False,nao_encontrado
+carfilzomibe,medicamento,carfilzomibe,carfilzomibe,False,nao_encontrado
+carmustina,medicamento,carmustina,carmustina,False,nao_encontrado
+carvão vegetal ativado,medicamento,carvão vegetal ativado,carvão vegetal ativado,False,nao_encontrado
+cefalexina,medicamento,cefalexina,cefalexina,False,nao_encontrado
+cefotaxima sódica,medicamento,cefotaxima sódica,cefotaxima,False,nao_encontrado
+ceftriaxona,medicamento,ceftriaxona,ceftriaxona,False,nao_encontrado
+certolizumabe pegol,medicamento,certolizumabe pegol,certolizumabe pegol,False,nao_encontrado
+cetoconazol,medicamento,cetoconazol,cetoconazol,False,nao_encontrado
+cianocobalamina,medicamento,cianocobalamina,cianocobalamina,False,nao_encontrado
+ciclofosfamida,medicamento,ciclofosfamida,ciclofosfamida,False,nao_encontrado
+ciclofosfamida monoidratada,medicamento,ciclofosfamida monoidratada,ciclofosfamida monoidratada,False,nao_encontrado
+ciclosporina,medicamento,ciclosporina,ciclosporina,False,nao_encontrado
+ciprofibrato,medicamento,ciprofibrato,ciprofibrato,False,nao_encontrado
+ciprofloxacino,medicamento,ciprofloxacino,ciprofloxacino,False,nao_encontrado
+cisplatina,medicamento,cisplatina,cisplatina,False,nao_encontrado
+citarabina,medicamento,citarabina,citarabina,False,nao_encontrado
+citrato de dietilcarbamazina,medicamento,citrato de dietilcarbamazina,dietilcarbamazina,False,nao_encontrado
+citrato de sildenafila,medicamento,citrato de sildenafila,sildenafila,False,nao_encontrado
+citrato de tamoxifeno,medicamento,citrato de tamoxifeno,tamoxifeno,False,nao_encontrado
+cladribina,medicamento,cladribina,cladribina,False,nao_encontrado
+claritromicina,medicamento,claritromicina,claritromicina,False,nao_encontrado
+clofazimina*,medicamento,clofazimina*,clofazimina*,False,nao_encontrado
+clorambucila,medicamento,clorambucila,clorambucila,False,nao_encontrado
+cloranfenicol,medicamento,cloranfenicol,cloranfenicol,False,nao_encontrado
+cloreto de potássio,medicamento,cloreto de potássio,potássio,False,nao_encontrado
+cloreto de sódio,medicamento,cloreto de sódio,sódio,False,nao_encontrado
+cloridrato de amantadina,medicamento,cloridrato de amantadina,amantadina,False,nao_encontrado
+cloridrato de amiodarona,medicamento,cloridrato de amiodarona,amiodarona,False,nao_encontrado
+cloridrato de amitriptilina,medicamento,cloridrato de amitriptilina,amitriptilina,False,nao_encontrado
+cloridrato de biperideno,medicamento,cloridrato de biperideno,biperideno,False,nao_encontrado
+cloridrato de bupivacaína,medicamento,cloridrato de bupivacaína,bupivacaína,False,nao_encontrado
+cloridrato de bupropiona,medicamento,cloridrato de bupropiona,bupropiona,False,nao_encontrado
+cloridrato de cinacalcete,medicamento,cloridrato de cinacalcete,cinacalcete,False,nao_encontrado
+cloridrato de clindamicina,medicamento,cloridrato de clindamicina,clindamicina,False,nao_encontrado
+cloridrato de clomipramina,medicamento,cloridrato de clomipramina,clomipramina,False,nao_encontrado
+cloridrato de clorpromazina,medicamento,cloridrato de clorpromazina,clorpromazina,False,nao_encontrado
+cloridrato de daunorrubicina,medicamento,cloridrato de daunorrubicina,daunorrubicina,False,nao_encontrado
+cloridrato de dobutamina,medicamento,cloridrato de dobutamina,dobutamina,False,nao_encontrado
+cloridrato de donepezila,medicamento,cloridrato de donepezila,donepezila,False,nao_encontrado
+cloridrato de dopamina,medicamento,cloridrato de dopamina,dopamina,False,nao_encontrado
+cloridrato de dorzolamida,medicamento,cloridrato de dorzolamida,dorzolamida,False,nao_encontrado
+cloridrato de doxorrubicina,medicamento,cloridrato de doxorrubicina,doxorrubicina,False,nao_encontrado
+cloridrato de doxorrubicina lipossomal,medicamento,cloridrato de doxorrubicina lipossomal,doxorrubicina lipossomal,False,nao_encontrado
+cloridrato de epirrubicina,medicamento,cloridrato de epirrubicina,epirrubicina,False,nao_encontrado
+cloridrato de etambutol,medicamento,cloridrato de etambutol,etambutol,False,nao_encontrado
+cloridrato de fingolimode,medicamento,cloridrato de fingolimode,fingolimode,False,nao_encontrado
+cloridrato de fluoxetina,medicamento,cloridrato de fluoxetina,fluoxetina,False,nao_encontrado
+cloridrato de gencitabina,medicamento,cloridrato de gencitabina,gencitabina,False,nao_encontrado
+cloridrato de hidralazina,medicamento,cloridrato de hidralazina,hidralazina,False,nao_encontrado
+cloridrato de hidroxocobalamina,medicamento,cloridrato de hidroxocobalamina,hidroxocobalamina,False,nao_encontrado
+cloridrato de idarrubicina,medicamento,cloridrato de idarrubicina,idarrubicina,False,nao_encontrado
+cloridrato de irinotecano,medicamento,cloridrato de irinotecano,irinotecano,False,nao_encontrado
+cloridrato de lidocaína,medicamento,cloridrato de lidocaína,lidocaína,False,nao_encontrado
+cloridrato de lidocaína + glicose,medicamento,cloridrato de lidocaína,lidocaína,True,nao_encontrado
+cloridrato de lidocaína + glicose,medicamento,glicose,glicose,True,nao_encontrado
+cloridrato de lidocaína + hemitartarato de epinefrina,medicamento,cloridrato de lidocaína,lidocaína,True,nao_encontrado
+cloridrato de lidocaína + hemitartarato de epinefrina,medicamento,hemitartarato de epinefrina,epinefrina,True,nao_encontrado
+cloridrato de memantina,medicamento,cloridrato de memantina,memantina,False,nao_encontrado
+cloridrato de metadona,medicamento,cloridrato de metadona,metadona,False,nao_encontrado
+cloridrato de metformina,medicamento,cloridrato de metformina,metformina,False,nao_encontrado
+cloridrato de metoclopramida,medicamento,cloridrato de metoclopramida,metoclopramida,False,nao_encontrado
+cloridrato de minociclina,medicamento,cloridrato de minociclina,minociclina,False,nao_encontrado
+cloridrato de moxifloxacino,medicamento,cloridrato de moxifloxacino,moxifloxacino,False,nao_encontrado
+cloridrato de naloxona,medicamento,cloridrato de naloxona,naloxona,False,nao_encontrado
+cloridrato de nortriptilina,medicamento,cloridrato de nortriptilina,nortriptilina,False,nao_encontrado
+cloridrato de ondansetrona,medicamento,cloridrato de ondansetrona,ondansetrona,False,nao_encontrado
+cloridrato de pilocarpina,medicamento,cloridrato de pilocarpina,pilocarpina,False,nao_encontrado
+cloridrato de piridoxina,medicamento,cloridrato de piridoxina,piridoxina,False,nao_encontrado
+cloridrato de prilocaína + felipressina,medicamento,cloridrato de prilocaína,prilocaína,True,nao_encontrado
+cloridrato de prilocaína + felipressina,medicamento,felipressina,felipressina,True,nao_encontrado
+cloridrato de prometazina,medicamento,cloridrato de prometazina,prometazina,False,nao_encontrado
+cloridrato de propafenona,medicamento,cloridrato de propafenona,propafenona,False,nao_encontrado
+cloridrato de protamina,medicamento,cloridrato de protamina,protamina,False,nao_encontrado
+cloridrato de raloxifeno,medicamento,cloridrato de raloxifeno,raloxifeno,False,nao_encontrado
+cloridrato de tetraciclina,medicamento,cloridrato de tetraciclina,tetraciclina,False,nao_encontrado
+cloridrato de tiamina,medicamento,cloridrato de tiamina,tiamina,False,nao_encontrado
+cloridrato de tirofibana,medicamento,cloridrato de tirofibana,tirofibana,False,nao_encontrado
+cloridrato de topotecana,medicamento,cloridrato de topotecana,topotecana,False,nao_encontrado
+cloridrato de triexifenidil,medicamento,cloridrato de triexifenidil,triexifenidil,False,nao_encontrado
+cloridrato de ziprasidona,medicamento,cloridrato de ziprasidona,ziprasidona,False,nao_encontrado
+clozapina,medicamento,clozapina,clozapina,False,nao_encontrado
+colistimetato de sódio,medicamento,colistimetato de sódio,colistimetato,False,nao_encontrado
+complemento alimentar para paciente fenilcetonúrico maior de 1 ano (fórmula de aminoácidos isenta de fenilalanina),medicamento,complemento alimentar para paciente fenilcetonúrico maior de 1 ano (fórmula de aminoácidos isenta de fenilalanina),complemento alimentar para paciente fenilcetonúrico maior de 1 ano (fórmula de aminoácidos isenta de fenilalanina),False,nao_encontrado
+complemento alimentar para paciente fenilcetonúrico menor de 1 ano (fórmula de aminoácidos isenta de fenilalanina),medicamento,complemento alimentar para paciente fenilcetonúrico menor de 1 ano (fórmula de aminoácidos isenta de fenilalanina),complemento alimentar para paciente fenilcetonúrico menor de 1 ano (fórmula de aminoácidos isenta de fenilalanina),False,nao_encontrado
+complexo protrombínico humano,medicamento,complexo protrombínico humano,complexo protrombínico humano,False,nao_encontrado
+complexo protrombínico parcialmente ativado,medicamento,complexo protrombínico parcialmente ativado,complexo protrombínico parcialmente ativado,False,nao_encontrado
+cáscara-sagrada (Rhamnus purshiana),fitoterápico,cáscara-sagrada (Rhamnus purshiana),cáscara-sagrada (rhamnus purshiana),False,nao_encontrado
+dacarbazina,medicamento,dacarbazina,dacarbazina,False,nao_encontrado
+daclizumabe,medicamento,daclizumabe,daclizumabe,False,nao_encontrado
+dactinomicina,medicamento,dactinomicina,dactinomicina,False,nao_encontrado
+dapagliflozina propanodiol,medicamento,dapagliflozina propanodiol,dapagliflozina propanodiol,False,nao_encontrado
+dapsona,medicamento,dapsona,dapsona,False,nao_encontrado
+dasatinibe,medicamento,dasatinibe,dasatinibe,False,nao_encontrado
+deferiprona,medicamento,deferiprona,deferiprona,False,nao_encontrado
+delamanida,medicamento,delamanida,delamanida,False,nao_encontrado
+dexametasona,medicamento,dexametasona,dexametasona,False,nao_encontrado
+diafragma,medicamento,diafragma,diafragma,False,nao_encontrado
+dicloridrato de sapropterina,medicamento,dicloridrato de sapropterina,sapropterina,False,nao_encontrado
+dicloridrato de trientina,medicamento,dicloridrato de trientina,trientina,False,nao_encontrado
+difosfato de cloroquina,medicamento,difosfato de cloroquina,difosfato de cloroquina,False,nao_encontrado
+difosfato de primaquina,medicamento,difosfato de primaquina,difosfato de primaquina,False,nao_encontrado
+digliconato de clorexidina,medicamento,digliconato de clorexidina,digliconato de clorexidina,False,nao_encontrado
+digoxina,medicamento,digoxina,digoxina,False,nao_encontrado
+dimeticona,medicamento,dimeticona,dimeticona,False,nao_encontrado
+dinitrato de isossorbida,medicamento,dinitrato de isossorbida,dinitrato de isossorbida,False,nao_encontrado
+dipirona,medicamento,dipirona,dipirona,False,nao_encontrado
+dipropionato de beclometasona,medicamento,dipropionato de beclometasona,beclometasona,False,nao_encontrado
+dipropionato de beclometasona + fumarato de formoterol di-hidratado + brometo de glicopirrônio,medicamento,dipropionato de beclometasona,beclometasona,True,nao_encontrado
+dipropionato de beclometasona + fumarato de formoterol di-hidratado + brometo de glicopirrônio,medicamento,brometo de glicopirrônio,glicopirrônio,True,nao_encontrado
+dispositivo intrauterino plástico com cobre (DIU),medicamento,dispositivo intrauterino plástico com cobre (DIU),dispositivo intrauterino plástico com cobre (diu),False,nao_encontrado
+dolutegravir sódico + lamivudina,medicamento,lamivudina,lamivudina,True,nao_encontrado
+doxiciclina,medicamento,doxiciclina,doxiciclina,False,nao_encontrado
+dupilumabe,medicamento,dupilumabe,dupilumabe,False,nao_encontrado
+durvalumabe,medicamento,durvalumabe,durvalumabe,False,nao_encontrado
+eculizumabe,medicamento,eculizumabe,eculizumabe,False,nao_encontrado
+eltrombopague olamina,medicamento,eltrombopague olamina,eltrombopague olamina,False,nao_encontrado
+embonato de triptorrelina,medicamento,embonato de triptorrelina,embonato de triptorrelina,False,nao_encontrado
+emicizumabe,medicamento,emicizumabe,emicizumabe,False,nao_encontrado
+enantato de noretisterona + valerato de estradiol,medicamento,enantato de noretisterona,noretisterona,True,nao_encontrado
+enfuvirtida,medicamento,enfuvirtida,enfuvirtida,False,nao_encontrado
+enoxaparina sódica,medicamento,enoxaparina sódica,enoxaparina,False,nao_encontrado
+entacapona,medicamento,entacapona,entacapona,False,nao_encontrado
+epinefrina,medicamento,epinefrina,epinefrina,False,nao_encontrado
+erlotinibe,medicamento,erlotinibe,erlotinibe,False,nao_encontrado
+espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral ),fitoterápico,espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral ),espinheira-santa (maytenus ilicifolia mart. ex reissek e/ou monteverdia ilicifolia (mart. ex reissek) biral ),False,nao_encontrado
+espiramicina,medicamento,espiramicina,espiramicina,False,nao_encontrado
+espironolactona,medicamento,espironolactona,espironolactona,False,nao_encontrado
+estolato de eritromicina,medicamento,estolato de eritromicina,estolato de eritromicina,False,nao_encontrado
+estreptoquinase,medicamento,estreptoquinase,estreptoquinase,False,nao_encontrado
+estrogênios conjugados,medicamento,estrogênios conjugados,estrogênios conjugados,False,nao_encontrado
+etanercepte,medicamento,etanercepte,etanercepte,False,nao_encontrado
+etinilestradiol + levonorgestrel,medicamento,etinilestradiol,etinilestradiol,True,nao_encontrado
+etionamida,medicamento,etionamida,etionamida,False,nao_encontrado
+etofibrato,medicamento,etofibrato,etofibrato,False,nao_encontrado
+etonorgestrel,medicamento,etonorgestrel,etonorgestrel,False,nao_encontrado
+etoposídeo,medicamento,etoposídeo,etoposídeo,False,nao_encontrado
+etossuximida,medicamento,etossuximida,etossuximida,False,nao_encontrado
+etravirina,medicamento,etravirina,etravirina,False,nao_encontrado
+everolimo,medicamento,everolimo,everolimo,False,nao_encontrado
+exemestano,medicamento,exemestano,exemestano,False,nao_encontrado
+fator IX de coagulação,medicamento,fator IX de coagulação,fator ix de coagulação,False,nao_encontrado
+fator VII de coagulação ativado recombinante,medicamento,fator VII de coagulação ativado recombinante,fator vii de coagulação ativado recombinante,False,nao_encontrado
+fator VIII de coagulação,medicamento,fator VIII de coagulação,fator viii de coagulação,False,nao_encontrado
+fator VIII de coagulação contendo fator de von Willebrand,medicamento,fator VIII de coagulação contendo fator de von Willebrand,fator viii de coagulação contendo fator de von willebrand,False,nao_encontrado
+fator VIII de coagulação recombinante,medicamento,fator VIII de coagulação recombinante,fator viii de coagulação recombinante,False,nao_encontrado
+fator XIII de coagulação,medicamento,fator XIII de coagulação,fator xiii de coagulação,False,nao_encontrado
+fenitoína,medicamento,fenitoína,fenitoína,False,nao_encontrado
+fenofibrato,medicamento,fenofibrato,fenofibrato,False,nao_encontrado
+fenoximetilpenicilina potássica,medicamento,fenoximetilpenicilina potássica,fenoximetilpenicilina,False,nao_encontrado
+ferripolimaltose,medicamento,ferripolimaltose,ferripolimaltose,False,nao_encontrado
+fibrinogênio,medicamento,fibrinogênio,fibrinogênio,False,nao_encontrado
+finasterida,medicamento,finasterida,finasterida,False,nao_encontrado
+flucitosina,medicamento,flucitosina,flucitosina,False,nao_encontrado
+fluconazol,medicamento,fluconazol,fluconazol,False,nao_encontrado
+fluoruracila,medicamento,fluoruracila,fluoruracila,False,nao_encontrado
+flutamida,medicamento,flutamida,flutamida,False,nao_encontrado
+folinato de cálcio,medicamento,folinato de cálcio,folinato,False,nao_encontrado
+fosfato de clindamicina,medicamento,fosfato de clindamicina,clindamicina,False,nao_encontrado
+fosfato de codeína,medicamento,fosfato de codeína,codeína,False,nao_encontrado
+fosfato de cálcio tribásico + colecalciferol,medicamento,fosfato de cálcio tribásico,cálcio tribásico,True,nao_encontrado
+fosfato de fludarabina,medicamento,fosfato de fludarabina,fludarabina,False,nao_encontrado
+fosfato de potássio monobásico + fosfato de potássio dibásico,medicamento,fosfato de potássio monobásico,potássio monobásico,True,nao_encontrado
+fosfato de potássio monobásico + fosfato de potássio dibásico,medicamento,fosfato de potássio dibásico,potássio dibásico,True,nao_encontrado
+fosfato sódico de prednisolona,medicamento,fosfato sódico de prednisolona,fosfato sódico de prednisolona,False,nao_encontrado
+fostensavir trometamol,medicamento,fostensavir trometamol,fostensavir trometamol,False,nao_encontrado
+fulvestranto,medicamento,fulvestranto,fulvestranto,False,nao_encontrado
+fumarato de dimetila,medicamento,fumarato de dimetila,dimetila,False,nao_encontrado
+fumarato de formoterol + budesonida,medicamento,budesonida,budesonida,True,nao_encontrado
+fumarato de tenofovir desoproxila,medicamento,fumarato de tenofovir desoproxila,tenofovir desoproxila,False,nao_encontrado
+fumarato de tenofovir desoproxila + entricitabina,medicamento,fumarato de tenofovir desoproxila,tenofovir desoproxila,True,nao_encontrado
+fumarato de tenofovir desoproxila + entricitabina,medicamento,entricitabina,entricitabina,True,nao_encontrado
+fumarato de tenofovir desoproxila + lamivudina,medicamento,fumarato de tenofovir desoproxila,tenofovir desoproxila,True,nao_encontrado
+fumarato de tenofovir desoproxila + lamivudina,medicamento,lamivudina,lamivudina,True,nao_encontrado
+fumarato de tenofovir desoproxila + lamivudina + efavirenz,medicamento,fumarato de tenofovir desoproxila,tenofovir desoproxila,True,nao_encontrado
+fumarato de tenofovir desoproxila + lamivudina + efavirenz,medicamento,lamivudina,lamivudina,True,nao_encontrado
+furoato de fluticasona + brometo de umeclidínio + trifenatato de vilanterol,medicamento,furoato de fluticasona,furoato de fluticasona,True,nao_encontrado
+furoato de fluticasona + brometo de umeclidínio + trifenatato de vilanterol,medicamento,brometo de umeclidínio,umeclidínio,True,nao_encontrado
+furoato de mometasona,medicamento,furoato de mometasona,furoato de mometasona,False,nao_encontrado
+furosemida,medicamento,furosemida,furosemida,False,nao_encontrado
+gabapentina,medicamento,gabapentina,gabapentina,False,nao_encontrado
+garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.),fitoterápico,garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.),garra-do-diabo (harpagophytum procumbens dc. ex meissn.),False,nao_encontrado
+gefitinibe,medicamento,gefitinibe,gefitinibe,False,nao_encontrado
+gel lubrificante,medicamento,gel lubrificante,gel lubrificante,False,nao_encontrado
+genfibrozila,medicamento,genfibrozila,genfibrozila,False,nao_encontrado
+gentamicina,medicamento,gentamicina,gentamicina,False,nao_encontrado
+glibenclamida,medicamento,glibenclamida,glibenclamida,False,nao_encontrado
+glicerol,medicamento,glicerol,glicerol,False,nao_encontrado
+gliclazida,medicamento,gliclazida,gliclazida,False,nao_encontrado
+glicose,medicamento,glicose,glicose,False,nao_encontrado
+glutaral,medicamento,glutaral,glutaral,False,nao_encontrado
+golimumabe,medicamento,golimumabe,golimumabe,False,nao_encontrado
+guaco (Mikania glomerata Spreng.),fitoterápico,guaco (Mikania glomerata Spreng.),guaco (mikania glomerata spreng.),False,nao_encontrado
+hemifumarato de quetiapina,medicamento,hemifumarato de quetiapina,hemifumarato de quetiapina,False,nao_encontrado
+hemifumarato de tenofovir alafenamida,medicamento,hemifumarato de tenofovir alafenamida,hemifumarato de tenofovir alafenamida,False,nao_encontrado
+hemitartarato de norepinefrina,medicamento,hemitartarato de norepinefrina,norepinefrina,False,nao_encontrado
+heparina sódica,medicamento,heparina sódica,heparina,False,nao_encontrado
+hidroclorotiazida,medicamento,hidroclorotiazida,hidroclorotiazida,False,nao_encontrado
+hidroxiureia,medicamento,hidroxiureia,hidroxiureia,False,nao_encontrado
+hidróxido de alumínio,medicamento,hidróxido de alumínio,alumínio,False,nao_encontrado
+hipoclorito de sódio,medicamento,hipoclorito de sódio,hipoclorito,False,nao_encontrado
+hipromelose,medicamento,hipromelose,hipromelose,False,nao_encontrado
+hortelã (Mentha x piperita L.),fitoterápico,hortelã (Mentha x piperita L.),hortelã (mentha x piperita l.),False,nao_encontrado
+ibuprofeno,medicamento,ibuprofeno,ibuprofeno,False,nao_encontrado
+ifosfamida,medicamento,ifosfamida,ifosfamida,False,nao_encontrado
+iloprosta,medicamento,iloprosta,iloprosta,False,nao_encontrado
+imatinibe,medicamento,imatinibe,imatinibe,False,nao_encontrado
+imiquimode,medicamento,imiquimode,imiquimode,False,nao_encontrado
+imunoglobulina anti-Rho (D),soro/imunoglobulina,imunoglobulina anti-Rho (D),imunoglobulina anti-rho (d),False,nao_encontrado
+imunoglobulina antitetânica,soro/imunoglobulina,imunoglobulina antitetânica,imunoglobulina antitetânica,False,nao_encontrado
+imunoglobulina antitimócitos humanos (coelho),soro/imunoglobulina,imunoglobulina antitimócitos humanos (coelho),imunoglobulina antitimócitos humanos (coelho),False,nao_encontrado
+imunoglobulina humana,soro/imunoglobulina,imunoglobulina humana,imunoglobulina humana,False,nao_encontrado
+imunoglobulina humana anti-hepatite B,soro/imunoglobulina,imunoglobulina humana anti-hepatite B,imunoglobulina humana anti-hepatite b,False,nao_encontrado
+imunoglobulina humana antirrábica,soro/imunoglobulina,imunoglobulina humana antirrábica,imunoglobulina humana antirrábica,False,nao_encontrado
+imunoglobulina humana antivaricela zoster,soro/imunoglobulina,imunoglobulina humana antivaricela zoster,imunoglobulina humana antivaricela zoster,False,nao_encontrado
+infliximabe,medicamento,infliximabe,infliximabe,False,nao_encontrado
+insulina análoga de ação prolongada,medicamento,insulina análoga de ação prolongada,insulina análoga de ação prolongada,False,nao_encontrado
+insulina análoga de ação rápida,medicamento,insulina análoga de ação rápida,insulina análoga de ação rápida,False,nao_encontrado
+insulina humana NPH,medicamento,insulina humana NPH,insulina humana nph,False,nao_encontrado
+insulina humana regular,medicamento,insulina humana regular,insulina humana regular,False,nao_encontrado
+iodo + iodeto de potássio,medicamento,iodo,iodo,True,nao_encontrado
+iodo + iodeto de potássio,medicamento,iodeto de potássio,potássio,True,nao_encontrado
+isetionato de pentamidina,medicamento,isetionato de pentamidina,isetionato de pentamidina,False,nao_encontrado
+isoflavona-de-soja  (Glycine max (L.) Merr.),fitoterápico,isoflavona-de-soja  (Glycine max (L.) Merr.),isoflavona-de-soja (glycine max (l.) merr.),False,nao_encontrado
+isoniazida,medicamento,isoniazida,isoniazida,False,nao_encontrado
+isotretinoína,medicamento,isotretinoína,isotretinoína,False,nao_encontrado
+itraconazol,medicamento,itraconazol,itraconazol,False,nao_encontrado
+ivermectina,medicamento,ivermectina,ivermectina,False,nao_encontrado
+ixequizumabe,medicamento,ixequizumabe,ixequizumabe,False,nao_encontrado
+lactato de biperideno,medicamento,lactato de biperideno,biperideno,False,nao_encontrado
+lamivudina,medicamento,lamivudina,lamivudina,False,nao_encontrado
+lamotrigina,medicamento,lamotrigina,lamotrigina,False,nao_encontrado
+lancetas para punção digital,medicamento,lancetas para punção digital,lancetas para punção digital,False,nao_encontrado
+larotrectinibe,medicamento,larotrectinibe,larotrectinibe,False,nao_encontrado
+latanoprosta,medicamento,latanoprosta,latanoprosta,False,nao_encontrado
+leflunomida,medicamento,leflunomida,leflunomida,False,nao_encontrado
+lenalidomida,medicamento,lenalidomida,lenalidomida,False,nao_encontrado
+levodopa + benserazida,medicamento,benserazida,benserazida,True,nao_encontrado
+levofloxacino,medicamento,levofloxacino,levofloxacino,False,nao_encontrado
+levotiroxina sódica,medicamento,levotiroxina sódica,levotiroxina,False,nao_encontrado
+linezolida,medicamento,linezolida,linezolida,False,nao_encontrado
+lomustina,medicamento,lomustina,lomustina,False,nao_encontrado
+loratadina,medicamento,loratadina,loratadina,False,nao_encontrado
+losartana potássica,medicamento,losartana potássica,losartana,False,nao_encontrado
+maleato de dexclorfeniramina,medicamento,maleato de dexclorfeniramina,dexclorfeniramina,False,nao_encontrado
+maraviroque,medicamento,maraviroque,maraviroque,False,nao_encontrado
+medicamentos homeopáticos,medicamento,medicamentos homeopáticos,medicamentos homeopáticos,False,nao_encontrado
+melfalana,medicamento,melfalana,melfalana,False,nao_encontrado
+mepolizumabe,medicamento,mepolizumabe,mepolizumabe,False,nao_encontrado
+mercaptopurina,medicamento,mercaptopurina,mercaptopurina,False,nao_encontrado
+mesalazina,medicamento,mesalazina,mesalazina,False,nao_encontrado
+mesilato de desferroxamina,medicamento,mesilato de desferroxamina,desferroxamina,False,nao_encontrado
+mesilato de doxazosina,medicamento,mesilato de doxazosina,doxazosina,False,nao_encontrado
+mesilato de rasagilina,medicamento,mesilato de rasagilina,rasagilina,False,nao_encontrado
+metildopa,medicamento,metildopa,metildopa,False,nao_encontrado
+metilsulfato de pralidoxima,medicamento,metilsulfato de pralidoxima,metilsulfato de pralidoxima,False,nao_encontrado
+metotrexato,medicamento,metotrexato,metotrexato,False,nao_encontrado
+micofenolato de mofetila,medicamento,micofenolato de mofetila,micofenolato de mofetila,False,nao_encontrado
+micofenolato de sódio,medicamento,micofenolato de sódio,micofenolato,False,nao_encontrado
+micronutrientes,medicamento,micronutrientes,micronutrientes,False,nao_encontrado
+miglustate,medicamento,miglustate,miglustate,False,nao_encontrado
+miltefosina,medicamento,miltefosina,miltefosina,False,nao_encontrado
+mononitrato de isossorbida,medicamento,mononitrato de isossorbida,mononitrato de isossorbida,False,nao_encontrado
+naproxeno,medicamento,naproxeno,naproxeno,False,nao_encontrado
+natalizumabe,medicamento,natalizumabe,natalizumabe,False,nao_encontrado
+nevirapina,medicamento,nevirapina,nevirapina,False,nao_encontrado
+nicotina,medicamento,nicotina,nicotina,False,nao_encontrado
+nifedipino,medicamento,nifedipino,nifedipino,False,nao_encontrado
+nilotinibe,medicamento,nilotinibe,nilotinibe,False,nao_encontrado
+nirsevimabe,medicamento,nirsevimabe,nirsevimabe,False,nao_encontrado
+nistatina,medicamento,nistatina,nistatina,False,nao_encontrado
+nitrato de miconazol,medicamento,nitrato de miconazol,miconazol,False,nao_encontrado
+nitrofurantoína,medicamento,nitrofurantoína,nitrofurantoína,False,nao_encontrado
+nivolumabe,medicamento,nivolumabe,nivolumabe,False,nao_encontrado
+noretisterona,medicamento,noretisterona,noretisterona,False,nao_encontrado
+nusinersena,medicamento,nusinersena,nusinersena,False,nao_encontrado
+ofloxacino,medicamento,ofloxacino,ofloxacino,False,nao_encontrado
+olanzapina,medicamento,olanzapina,olanzapina,False,nao_encontrado
+olaparibe,medicamento,olaparibe,olaparibe,False,nao_encontrado
+omalizumabe,medicamento,omalizumabe,omalizumabe,False,nao_encontrado
+omeprazol,medicamento,omeprazol,omeprazol,False,nao_encontrado
+onasemnogeno abeparvoveque,medicamento,onasemnogeno abeparvoveque,onasemnogeno abeparvoveque,False,nao_encontrado
+oxaliplatina,medicamento,oxaliplatina,oxaliplatina,False,nao_encontrado
+palbociclibe,medicamento,palbociclibe,palbociclibe,False,nao_encontrado
+palivizumabe,medicamento,palivizumabe,palivizumabe,False,nao_encontrado
+pamidronato dissódico,medicamento,pamidronato dissódico,pamidronato,False,nao_encontrado
+pamoato de pasireotida,medicamento,pamoato de pasireotida,pasireotida,False,nao_encontrado
+pancreatina,medicamento,pancreatina,pancreatina,False,nao_encontrado
+pasta de óxido de zinco (FN),medicamento,pasta de óxido de zinco (FN),pasta de óxido de zinco,False,nao_encontrado
+pazopanibe,medicamento,pazopanibe,pazopanibe,False,nao_encontrado
+pembrolizumabe,medicamento,pembrolizumabe,pembrolizumabe,False,nao_encontrado
+pemetrexede,medicamento,pemetrexede,pemetrexede,False,nao_encontrado
+penicilamina,medicamento,penicilamina,penicilamina,False,nao_encontrado
+pentoxifilina,medicamento,pentoxifilina,pentoxifilina,False,nao_encontrado
+permanganato de potássio,medicamento,permanganato de potássio,permanganato,False,nao_encontrado
+permetrina,medicamento,permetrina,permetrina,False,nao_encontrado
+pertuzumabe,medicamento,pertuzumabe,pertuzumabe,False,nao_encontrado
+peróxido de benzoíla (FN),medicamento,peróxido de benzoíla (FN),peróxido de benzoíla,False,nao_encontrado
+pirazinamida,medicamento,pirazinamida,pirazinamida,False,nao_encontrado
+plantago  (Plantago ovata   Forssk.),fitoterápico,plantago  (Plantago ovata   Forssk.),plantago (plantago ovata forssk.),False,nao_encontrado
+podofilina (FN),medicamento,podofilina (FN),podofilina,False,nao_encontrado
+podofilotoxina,medicamento,podofilotoxina,podofilotoxina,False,nao_encontrado
+ponatinibe,medicamento,ponatinibe,ponatinibe,False,nao_encontrado
+pravastatina sódica,medicamento,pravastatina sódica,pravastatina,False,nao_encontrado
+prednisona,medicamento,prednisona,prednisona,False,nao_encontrado
+preservativo externo,medicamento,preservativo externo,preservativo externo,False,nao_encontrado
+preservativo interno,medicamento,preservativo interno,preservativo interno,False,nao_encontrado
+pretomanida,medicamento,pretomanida,pretomanida,False,nao_encontrado
+primidona,medicamento,primidona,primidona,False,nao_encontrado
+propiltiouracila,medicamento,propiltiouracila,propiltiouracila,False,nao_encontrado
+ravulizumabe,medicamento,ravulizumabe,ravulizumabe,False,nao_encontrado
+ribavirina,medicamento,ribavirina,ribavirina,False,nao_encontrado
+rifabutina,medicamento,rifabutina,rifabutina,False,nao_encontrado
+rifampicina,medicamento,rifampicina,rifampicina,False,nao_encontrado
+rifampicina + isoniazida,medicamento,rifampicina,rifampicina,True,nao_encontrado
+rifampicina + isoniazida,medicamento,isoniazida,isoniazida,True,nao_encontrado
+rifampicina + isoniazida + pirazinamida,medicamento,rifampicina,rifampicina,True,nao_encontrado
+rifampicina + isoniazida + pirazinamida,medicamento,isoniazida,isoniazida,True,nao_encontrado
+rifampicina + isoniazida + pirazinamida,medicamento,pirazinamida,pirazinamida,True,nao_encontrado
+rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,medicamento,rifampicina,rifampicina,True,nao_encontrado
+rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,medicamento,isoniazida,isoniazida,True,nao_encontrado
+rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,medicamento,pirazinamida,pirazinamida,True,nao_encontrado
+rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,medicamento,cloridrato de etambutol,etambutol,True,nao_encontrado
+rifapentina,medicamento,rifapentina,rifapentina,False,nao_encontrado
+rifapentina + isoniazida,medicamento,rifapentina,rifapentina,True,nao_encontrado
+rifapentina + isoniazida,medicamento,isoniazida,isoniazida,True,nao_encontrado
+riluzol,medicamento,riluzol,riluzol,False,nao_encontrado
+risanquizumabe,medicamento,risanquizumabe,risanquizumabe,False,nao_encontrado
+risedronato sódico,medicamento,risedronato sódico,risedronato,False,nao_encontrado
+risperidona,medicamento,risperidona,risperidona,False,nao_encontrado
+rituximabe,medicamento,rituximabe,rituximabe,False,nao_encontrado
+rivastigmina,medicamento,rivastigmina,rivastigmina,False,nao_encontrado
+romiplostim,medicamento,romiplostim,romiplostim,False,nao_encontrado
+romosozumabe,medicamento,romosozumabe,romosozumabe,False,nao_encontrado
+sacarato de hidróxido férrico,medicamento,sacarato de hidróxido férrico,sacarato de hidróxido férrico,False,nao_encontrado
+sacubitril valsartana sódica hidratada,medicamento,sacubitril valsartana sódica hidratada,sacubitril valsartana sódica hidratada,False,nao_encontrado
+sais para reidratação oral,medicamento,sais para reidratação oral,sais para reidratação oral,False,nao_encontrado
+salgueiro  (Salix alba L.),fitoterápico,salgueiro  (Salix alba L.),salgueiro (salix alba l.),False,nao_encontrado
+salgueiro (Salix alba  L.),fitoterápico,salgueiro (Salix alba  L.),salgueiro (salix alba l.),False,nao_encontrado
+salgueiro (Salix alba L.),fitoterápico,salgueiro (Salix alba L.),salgueiro (salix alba l.),False,nao_encontrado
+secuquinumabe,medicamento,secuquinumabe,secuquinumabe,False,nao_encontrado
+selexipague,medicamento,selexipague,selexipague,False,nao_encontrado
+seringas com agulha acoplada para aplicação de insulina,medicamento,seringas com agulha acoplada para aplicação de insulina,seringas com agulha acoplada para aplicação de insulina,False,nao_encontrado
+sinvastatina,medicamento,sinvastatina,sinvastatina,False,nao_encontrado
+sirolimo,medicamento,sirolimo,sirolimo,False,nao_encontrado
+solução ringer + lactato,medicamento,solução ringer,solução ringer,True,nao_encontrado
+solução ringer + lactato,medicamento,lactato,lactato,True,nao_encontrado
+somatropina,medicamento,somatropina,somatropina,False,nao_encontrado
+"soro antiaracnídico (Loxosceles, Phoneutria e Tityus)",soro/imunoglobulina,"soro antiaracnídico (Loxosceles, Phoneutria e Tityus)","soro antiaracnídico (loxosceles, phoneutria e tityus)",False,nao_encontrado
+soro antibotrópico (pentavalente),soro/imunoglobulina,soro antibotrópico (pentavalente),soro antibotrópico (pentavalente),False,nao_encontrado
+soro antibotrópico (pentavalente) e anticrotálico,soro/imunoglobulina,soro antibotrópico (pentavalente) e anticrotálico,soro antibotrópico (pentavalente) e anticrotálico,False,nao_encontrado
+soro antibotrópico (pentavalente) e antilaquético,soro/imunoglobulina,soro antibotrópico (pentavalente) e antilaquético,soro antibotrópico (pentavalente) e antilaquético,False,nao_encontrado
+soro antibotulínico AB (bivalente),soro/imunoglobulina,soro antibotulínico AB (bivalente),soro antibotulínico ab (bivalente),False,nao_encontrado
+soro anticrotálico,soro/imunoglobulina,soro anticrotálico,soro anticrotálico,False,nao_encontrado
+soro antidiftérico,soro/imunoglobulina,soro antidiftérico,soro antidiftérico,False,nao_encontrado
+soro antielapídico (bivalente),soro/imunoglobulina,soro antielapídico (bivalente),soro antielapídico (bivalente),False,nao_encontrado
+soro antiescorpiônico,soro/imunoglobulina,soro antiescorpiônico,soro antiescorpiônico,False,nao_encontrado
+soro antilonômico,soro/imunoglobulina,soro antilonômico,soro antilonômico,False,nao_encontrado
+soro antiloxoscélico (trivalente),soro/imunoglobulina,soro antiloxoscélico (trivalente),soro antiloxoscélico (trivalente),False,nao_encontrado
+soro antirrábico,soro/imunoglobulina,soro antirrábico,soro antirrábico,False,nao_encontrado
+soro antitetânico,soro/imunoglobulina,soro antitetânico,soro antitetânico,False,nao_encontrado
+succinato de tafenoquina,medicamento,succinato de tafenoquina,tafenoquina,False,nao_encontrado
+succinato sódico de hidrocortisona,medicamento,succinato sódico de hidrocortisona,succinato sódico de hidrocortisona,False,nao_encontrado
+succinato sódico de metilprednisolona,medicamento,succinato sódico de metilprednisolona,succinato sódico de metilprednisolona,False,nao_encontrado
+sulfadiazina,medicamento,sulfadiazina,sulfadiazina,False,nao_encontrado
+sulfadiazina de prata,medicamento,sulfadiazina de prata,sulfadiazina de prata,False,nao_encontrado
+sulfametoxazol + trimetoprima,medicamento,sulfametoxazol,sulfametoxazol,True,nao_encontrado
+sulfametoxazol + trimetoprima,medicamento,trimetoprima,trimetoprima,True,nao_encontrado
+sulfassalazina,medicamento,sulfassalazina,sulfassalazina,False,nao_encontrado
+sulfato de amicacina,medicamento,sulfato de amicacina,amicacina,False,nao_encontrado
+sulfato de atropina,medicamento,sulfato de atropina,atropina,False,nao_encontrado
+sulfato de bleomicina,medicamento,sulfato de bleomicina,bleomicina,False,nao_encontrado
+sulfato de estreptomicina,medicamento,sulfato de estreptomicina,estreptomicina,False,nao_encontrado
+sulfato de gentamicina,medicamento,sulfato de gentamicina,gentamicina,False,nao_encontrado
+sulfato de hidroxicloroquina,medicamento,sulfato de hidroxicloroquina,hidroxicloroquina,False,nao_encontrado
+sulfato de isavuconazônio,medicamento,sulfato de isavuconazônio,isavuconazônio,False,nao_encontrado
+sulfato de magnésio,medicamento,sulfato de magnésio,magnésio,False,nao_encontrado
+sulfato de morfina,medicamento,sulfato de morfina,morfina,False,nao_encontrado
+sulfato de polimixina B + sulfato de neomicina + fluocinolona acetonida + cloridrato de lidocaína,medicamento,sulfato de polimixina B,polimixina b,True,nao_encontrado
+sulfato de polimixina B + sulfato de neomicina + fluocinolona acetonida + cloridrato de lidocaína,medicamento,sulfato de neomicina,neomicina,True,nao_encontrado
+sulfato de polimixina B + sulfato de neomicina + fluocinolona acetonida + cloridrato de lidocaína,medicamento,fluocinolona acetonida,fluocinolona acetonida,True,nao_encontrado
+sulfato de polimixina B + sulfato de neomicina + fluocinolona acetonida + cloridrato de lidocaína,medicamento,cloridrato de lidocaína,lidocaína,True,nao_encontrado
+sulfato de vimblastina,medicamento,sulfato de vimblastina,vimblastina,False,nao_encontrado
+sulfato de vincristina,medicamento,sulfato de vincristina,vincristina,False,nao_encontrado
+sulfato de zinco,medicamento,sulfato de zinco,zinco,False,nao_encontrado
+sulfato ferroso,medicamento,sulfato ferroso,sulfato ferroso,False,nao_encontrado
+sunitinibe,medicamento,sunitinibe,sunitinibe,False,nao_encontrado
+tacrolimo,medicamento,tacrolimo,tacrolimo,False,nao_encontrado
+tafamidis meglumina,medicamento,tafamidis meglumina,tafamidis meglumina,False,nao_encontrado
+tafenoquina,medicamento,tafenoquina,tafenoquina,False,nao_encontrado
+talidomida,medicamento,talidomida,talidomida,False,nao_encontrado
+tartarato de brimonidina,medicamento,tartarato de brimonidina,brimonidina,False,nao_encontrado
+tartarato de vinorelbina,medicamento,tartarato de vinorelbina,vinorelbina,False,nao_encontrado
+teclozana,medicamento,teclozana,teclozana,False,nao_encontrado
+teriflunomida,medicamento,teriflunomida,teriflunomida,False,nao_encontrado
+terizidona,medicamento,terizidona,terizidona,False,nao_encontrado
+teste quantitativo da atividade da enzima glicose-6-fosfato desidrogenase (G6PD),medicamento,teste quantitativo da atividade da enzima glicose-6-fosfato desidrogenase (G6PD),teste quantitativo da atividade da enzima glicose-6-fosfato desidrogenase (g6pd),False,nao_encontrado
+teste tuberculínico (Derivado Proteico Purificado - PPD),medicamento,teste tuberculínico (Derivado Proteico Purificado - PPD),teste tuberculínico (derivado proteico purificado - ppd),False,nao_encontrado
+tiamazol,medicamento,tiamazol,tiamazol,False,nao_encontrado
+tioguanina,medicamento,tioguanina,tioguanina,False,nao_encontrado
+tiras reagentes de medida de glicemia capilar,medicamento,tiras reagentes de medida de glicemia capilar,tiras reagentes de medida de glicemia capilar,False,nao_encontrado
+tobramicina,medicamento,tobramicina,tobramicina,False,nao_encontrado
+tocilizumabe,medicamento,tocilizumabe,tocilizumabe,False,nao_encontrado
+tofacitinibe,medicamento,tofacitinibe,tofacitinibe,False,nao_encontrado
+topiramato,medicamento,topiramato,topiramato,False,nao_encontrado
+toxina botulínica A,medicamento,toxina botulínica A,toxina botulínica a,False,nao_encontrado
+trastuzumabe,medicamento,trastuzumabe,trastuzumabe,False,nao_encontrado
+trastuzumabe entansina,medicamento,trastuzumabe entansina,trastuzumabe entansina,False,nao_encontrado
+travoprosta,medicamento,travoprosta,travoprosta,False,nao_encontrado
+tretinoína,medicamento,tretinoína,tretinoína,False,nao_encontrado
+triptorrelina,medicamento,triptorrelina,triptorrelina,False,nao_encontrado
+trióxido de arsênio,medicamento,trióxido de arsênio,trióxido de arsênio,False,nao_encontrado
+unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.)),fitoterápico,unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.)),unha-de-gato (uncaria tomentosa (willd. ex roem. & schult.)),False,nao_encontrado
+upadacitinibe,medicamento,upadacitinibe,upadacitinibe,False,nao_encontrado
+ustequinumabe,medicamento,ustequinumabe,ustequinumabe,False,nao_encontrado
+vacina BCG,vacina,vacina BCG,vacina bcg,False,nao_encontrado
+vacina Haemophilus influenzae B (conjugada),vacina,vacina Haemophilus influenzae B (conjugada),vacina haemophilus influenzae b (conjugada),False,nao_encontrado
+vacina adsorvida difteria e tétano adulto,vacina,vacina adsorvida difteria e tétano adulto,vacina adsorvida difteria e tétano adulto,False,nao_encontrado
+vacina adsorvida difteria e tétano infantil,vacina,vacina adsorvida difteria e tétano infantil,vacina adsorvida difteria e tétano infantil,False,nao_encontrado
+"vacina adsorvida difteria, tétano e pertussis",vacina,"vacina adsorvida difteria, tétano e pertussis","vacina adsorvida difteria, tétano e pertussis",False,nao_encontrado
+"vacina adsorvida difteria, tétano e pertussis (acelular) adulto",vacina,"vacina adsorvida difteria, tétano e pertussis (acelular) adulto","vacina adsorvida difteria, tétano e pertussis (acelular) adulto",False,nao_encontrado
+"vacina adsorvida difteria, tétano e pertussis (acelular) infantil",vacina,"vacina adsorvida difteria, tétano e pertussis (acelular) infantil","vacina adsorvida difteria, tétano e pertussis (acelular) infantil",False,nao_encontrado
+"vacina adsorvida difteria, tétano, pertussis, hepatite B (recombinante) e Haemophilus influenzae B (conjugada)",vacina,"vacina adsorvida difteria, tétano, pertussis, hepatite B (recombinante) e Haemophilus influenzae B (conjugada)","vacina adsorvida difteria, tétano, pertussis, hepatite b (recombinante) e haemophilus influenzae b (conjugada)",False,nao_encontrado
+vacina adsorvida hepatite A (inativada) adulto,vacina,vacina adsorvida hepatite A (inativada) adulto,vacina adsorvida hepatite a (inativada) adulto,False,nao_encontrado
+vacina adsorvida hepatite A (inativada) infantil,vacina,vacina adsorvida hepatite A (inativada) infantil,vacina adsorvida hepatite a (inativada) infantil,False,nao_encontrado
+vacina covid-19 infantil (mRNA),vacina,vacina covid-19 infantil (mRNA),vacina covid-19 infantil (mrna),False,nao_encontrado
+vacina cólera (inativada),vacina,vacina cólera (inativada),vacina cólera (inativada),False,nao_encontrado
+vacina dengue tetravalente (atenuada),vacina,vacina dengue tetravalente (atenuada),vacina dengue tetravalente (atenuada),False,nao_encontrado
+vacina febre amarela (atenuada),vacina,vacina febre amarela (atenuada),vacina febre amarela (atenuada),False,nao_encontrado
+vacina febre tifoide (polissacarídica),vacina,vacina febre tifoide (polissacarídica),vacina febre tifoide (polissacarídica),False,nao_encontrado
+vacina hepatite B (recombinante),vacina,vacina hepatite B (recombinante),vacina hepatite b (recombinante),False,nao_encontrado
+"vacina influenza trivalente (fragmentada, inativada)",vacina,"vacina influenza trivalente (fragmentada, inativada)","vacina influenza trivalente (fragmentada, inativada)",False,nao_encontrado
+vacina meningocócica ACWY (conjugada),vacina,vacina meningocócica ACWY (conjugada),vacina meningocócica acwy (conjugada),False,nao_encontrado
+vacina meningocócica C (conjugada),vacina,vacina meningocócica C (conjugada),vacina meningocócica c (conjugada),False,nao_encontrado
+"vacina papilomavírus humano 6, 11, 16 e 18 (recombinante)",vacina,"vacina papilomavírus humano 6, 11, 16 e 18 (recombinante)","vacina papilomavírus humano 6, 11, 16 e 18 (recombinante)",False,nao_encontrado
+vacina pneumocócica 10-valente (conjugada),vacina,vacina pneumocócica 10-valente (conjugada),vacina pneumocócica 10-valente (conjugada),False,nao_encontrado
+vacina pneumocócica 13-valente (conjugada),vacina,vacina pneumocócica 13-valente (conjugada),vacina pneumocócica 13-valente (conjugada),False,nao_encontrado
+vacina pneumocócica 23-valente (polissacarídica),vacina,vacina pneumocócica 23-valente (polissacarídica),vacina pneumocócica 23-valente (polissacarídica),False,nao_encontrado
+vacina poliomielite 1 e 3 (atenuada),vacina,vacina poliomielite 1 e 3 (atenuada),vacina poliomielite 1 e 3 (atenuada),False,nao_encontrado
+"vacina poliomielite 1, 2 e 3 (inativada)",vacina,"vacina poliomielite 1, 2 e 3 (inativada)","vacina poliomielite 1, 2 e 3 (inativada)",False,nao_encontrado
+vacina raiva (inativada),vacina,vacina raiva (inativada),vacina raiva (inativada),False,nao_encontrado
+vacina rotavírus humano G1P [8] (atenuada),vacina,vacina rotavírus humano G1P [8] (atenuada),vacina rotavírus humano g1p [8] (atenuada),False,nao_encontrado
+"vacina sarampo, caxumba, rubéola",vacina,"vacina sarampo, caxumba, rubéola","vacina sarampo, caxumba, rubéola",False,nao_encontrado
+"vacina sarampo, caxumba, rubéola e varicela (atenuada)",vacina,"vacina sarampo, caxumba, rubéola e varicela (atenuada)","vacina sarampo, caxumba, rubéola e varicela (atenuada)",False,nao_encontrado
+vacina varicela (atenuada),vacina,vacina varicela (atenuada),vacina varicela (atenuada),False,nao_encontrado
+vacina vírus sincicial respiratório A e B (recombinante),vacina,vacina vírus sincicial respiratório A e B (recombinante),vacina vírus sincicial respiratório a e b (recombinante),False,nao_encontrado
+valproato de sódio,medicamento,valproato de sódio,valproato,False,nao_encontrado
+varfarina sódica,medicamento,varfarina sódica,varfarina,False,nao_encontrado
+vedolizumabe,medicamento,vedolizumabe,vedolizumabe,False,nao_encontrado
+vigabatrina,medicamento,vigabatrina,vigabatrina,False,nao_encontrado
+voriconazol,medicamento,voriconazol,voriconazol,False,nao_encontrado
+zidovudina,medicamento,zidovudina,zidovudina,False,nao_encontrado
+zidovudina + lamivudina,medicamento,zidovudina,zidovudina,True,nao_encontrado
+zidovudina + lamivudina,medicamento,lamivudina,lamivudina,True,nao_encontrado
+ácido folínico,medicamento,ácido folínico,ácido folínico,False,nao_encontrado
+ácido fólico,medicamento,ácido fólico,ácido fólico,False,nao_encontrado
+ácido nicotínico,medicamento,ácido nicotínico,ácido nicotínico,False,nao_encontrado
+ácido paraminossalicílico,medicamento,ácido paraminossalicílico,ácido paraminossalicílico,False,nao_encontrado
+ácido tranexâmico,medicamento,ácido tranexâmico,ácido tranexâmico,False,nao_encontrado
+ácido ursodesoxicólico,medicamento,ácido ursodesoxicólico,ácido ursodesoxicólico,False,nao_encontrado
+ácido valpróico,medicamento,ácido valpróico,ácido valpróico,False,nao_encontrado
+ácido zoledrônico,medicamento,ácido zoledrônico,ácido zoledrônico,False,nao_encontrado
+água para injetáveis,medicamento,água para injetáveis,água para injetáveis,False,nao_encontrado
+óleo mineral,medicamento,óleo mineral,óleo mineral,False,nao_encontrado
