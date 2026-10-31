@@ -1,0 +1,8 @@
+principio_ativo,farmaco,validacao_manual,observacao
+sinvastatina,simvastatin,aceito,mesmo fármaco
+rifampicina,rifampin,aceito,mesmo fármaco (rifampin é o nome nos EUA)
+isavuconazonio,isavuconazole,aceito,sulfato de isavuconazônio é o pró-fármaco do isavuconazol
+miglustate,eliglustat,rejeitado,fármacos diferentes
+azitromicina,clarithromycin,rejeitado,fármacos diferentes
+ofloxacino,ciprofloxacin,rejeitado,fármacos diferentes
+clomipramina,imipramine,rejeitado,fármacos diferentes

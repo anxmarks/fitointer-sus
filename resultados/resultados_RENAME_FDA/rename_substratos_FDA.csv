@@ -1,0 +1,26 @@
+﻿farmaco,enzima,papel,nomes_rename,forca,observacao,correspondencia,metodo,fonte
+phenytoin,CYP2C9,substrato,fenitoína,moderado,,confirmada,busca_direta,FDA
+warfarin,CYP2C9,substrato,varfarina sódica,moderado,S-varfarina,confirmada,busca_direta,FDA
+metoprolol,CYP2D6,substrato,succinato de metoprolol; tartarato de metoprolol,moderado,,confirmada,clinpgx_match_exato,FDA
+nortriptyline,CYP2D6,substrato,cloridrato de nortriptilina,moderado,,confirmada,busca_direta,FDA
+propafenone,CYP2D6,substrato,cloridrato de propafenona,moderado,,confirmada,busca_direta,FDA
+propranolol,CYP2D6,substrato,cloridrato de propranolol,moderado,,confirmada,clinpgx_match_exato,FDA
+budesonide,CYP3A4,substrato,budesonida; fumarato de formoterol + budesonida,sensivel,,confirmada,busca_direta,FDA
+darunavir,CYP3A4,substrato,darunavir,sensivel,com ritonavir,confirmada,clinpgx_match_exato,FDA
+dasatinib,CYP3A4,substrato,dasatinibe,sensivel,,confirmada,busca_direta,FDA
+everolimus,CYP3A4,substrato,everolimo,sensivel,,confirmada,busca_direta,FDA
+isavuconazole,CYP3A4,substrato,sulfato de isavuconazônio,sensivel,,confirmada,busca_direta,FDA
+maraviroc,CYP3A4,substrato,maraviroque,sensivel,,confirmada,busca_direta,FDA
+midazolam,CYP3A4,substrato,midazolam,sensivel,,confirmada,clinpgx_match_exato,FDA
+quetiapine,CYP3A4,substrato,hemifumarato de quetiapina,sensivel,,confirmada,busca_direta,FDA
+sildenafil,CYP3A4,substrato,citrato de sildenafila,sensivel,,confirmada,busca_direta,FDA
+simvastatin,CYP3A4,substrato,sinvastatina,sensivel,,confirmada,busca_direta,FDA
+sirolimus,CYP3A4,substrato,sirolimo,sensivel,,confirmada,busca_direta,FDA
+tacrolimus,CYP3A4,substrato,tacrolimo,sensivel,,confirmada,busca_direta,FDA
+tipranavir,CYP3A4,substrato,tipranavir,sensivel,com ritonavir,confirmada,clinpgx_match_exato,FDA
+atorvastatin,CYP3A4,substrato,atorvastatina cálcica,moderado,,confirmada,busca_direta,FDA
+brigatinib,CYP3A4,substrato,brigatinibe,moderado,,confirmada,busca_direta,FDA
+larotrectinib,CYP3A4,substrato,larotrectinibe,moderado,,confirmada,busca_direta,FDA
+digoxin,P-gp,substrato,digoxina,,,confirmada,busca_direta,FDA
+oseltamivir,P-gp,substrato,fosfato de oseltamivir,,pró-fármaco é substrato da P-gp,confirmada,clinpgx_match_exato,FDA
+tenofovir,P-gp,substrato,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,,pró-fármaco (tenofovir desoproxila) é substrato da P-gp,confirmada,busca_direta,FDA

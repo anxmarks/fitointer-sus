@@ -1,0 +1,56 @@
+﻿farmaco,CYP3A4,CYP2C9,CYP2D6,P-gp
+abiraterone,,,inibidor moderado,
+amiodarone,inibidor fraco,inibidor moderado,inibidor fraco,inibidor
+atorvastatin,substrato moderado,,,
+bosentan,indutor moderado,,,
+brigatinib,substrato moderado,,,
+budesonide,substrato sensivel,,,
+bupropion,,,inibidor forte,
+carbamazepine,indutor forte,indutor fraco,,
+cinacalcet,,,inibidor moderado,
+ciprofloxacin,inibidor moderado,,,
+clarithromycin,inibidor forte,,,inibidor
+clobazam,,,inibidor fraco,
+cyclosporine,inibidor fraco,,,inibidor
+darunavir,substrato sensivel,,,
+dasatinib,substrato sensivel,,,
+digoxin,,,,substrato
+efavirenz,indutor moderado,,,
+erythromycin,inibidor moderado,,,inibidor
+etravirine,indutor moderado,,,
+everolimus,substrato sensivel,,,
+fluconazole,inibidor moderado,inibidor moderado,,
+fluoxetine,,,inibidor forte,
+imatinib,inibidor moderado,,,
+isavuconazole,inibidor moderado; substrato sensivel,,,
+itraconazole,inibidor forte,,,inibidor
+ivacaftor,inibidor fraco,,,
+ketoconazole,inibidor forte,,,inibidor
+larotrectinib,inibidor fraco; substrato moderado,,,
+lopinavir,inibidor forte,,,inibidor
+maraviroc,substrato sensivel,,,
+metoprolol,,,substrato moderado,
+miconazole,,inibidor moderado,,
+midazolam,substrato sensivel,,,
+nortriptyline,,,substrato moderado,
+oseltamivir,,,,substrato
+phenobarbital,indutor moderado,,,
+phenytoin,indutor forte,substrato moderado,,
+primidone,indutor moderado,,,
+propafenone,,,substrato moderado,inibidor
+propranolol,,,substrato moderado,
+quetiapine,substrato sensivel,,,
+rifampin,indutor forte,indutor moderado,,
+ritonavir,inibidor forte,indutor fraco,,
+sildenafil,substrato sensivel,,,
+simvastatin,substrato sensivel,,,
+sirolimus,substrato sensivel,,,
+sofosbuvir,,,,inibidor
+tacrolimus,substrato sensivel,,,
+tenofovir,,,,substrato
+tipranavir,inibidor forte; substrato sensivel,,,
+velpatasvir,,,,inibidor
+verapamil,inibidor moderado,,,inibidor
+voriconazole,inibidor forte,inibidor fraco,,
+voxilaprevir,,,,inibidor
+warfarin,,substrato moderado,,

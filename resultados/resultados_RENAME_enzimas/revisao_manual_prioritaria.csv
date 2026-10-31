@@ -1,0 +1,85 @@
+﻿ddi_nome,nomes_rename,enzimas,validacao_manual
+abemaciclib,abemaciclibe,"CYP3A4, P-gp",pendente
+amiodarone,cloridrato de amiodarona,CYP3A4,pendente
+atorvastatin,atorvastatina cálcica,"CYP2D6, CYP3A4, P-gp",pendente
+azathioprine,azatioprina,P-gp,pendente
+basiliximab,basiliximabe,"CYP3A4, P-gp",pendente
+bleomycin,sulfato de bleomicina,"CYP3A4, P-gp",pendente
+bortezomib,bortezomibe,"CYP3A4, P-gp",pendente
+bosentan,bosentana,CYP2C9,pendente
+bupropion,cloridrato de bupropiona,"CYP2C9, CYP2D6, CYP3A4",pendente
+capecitabine,capecitabina,P-gp,pendente
+carbamazepine,carbamazepina,"CYP2C9, CYP2D6, CYP3A4, P-gp",pendente
+carboplatin,carboplatina,P-gp,pendente
+ciprofloxacin,ciprofloxacino,CYP2D6,pendente
+cisplatin,cisplatina,"CYP3A4, P-gp",pendente
+clomipramine,cloridrato de clomipramina,"CYP2D6, P-gp",pendente
+clozapine,clozapina,"CYP2D6, CYP3A4, P-gp",pendente
+cyclosporine,ciclosporina,"CYP3A4, P-gp",pendente
+cytarabine,citarabina,P-gp,pendente
+daunorubicin,cloridrato de daunorrubicina,P-gp,pendente
+digoxin,digoxina,P-gp,pendente
+donepezil,cloridrato de donepezila,CYP2D6,pendente
+doxorubicin,cloridrato de doxorrubicina,"CYP3A4, P-gp",pendente
+epirubicin,cloridrato de epirrubicina,P-gp,pendente
+erlotinib,erlotinibe,"CYP3A4, P-gp",pendente
+esomeprazole,omeprazol,P-gp,pendente
+ethambutol,cloridrato de etambutol; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,"CYP2C9, CYP3A4",pendente
+etoposide,etoposídeo,"CYP3A4, P-gp",pendente
+exemestane,exemestano,CYP3A4,pendente
+fluconazole,fluconazol,CYP2C9,pendente
+fluorouracil,fluoruracila,"CYP3A4, P-gp",pendente
+fluoxetine,cloridrato de fluoxetina,"CYP2C9, CYP2D6, CYP3A4, P-gp",pendente
+fulvestrant,fulvestranto,CYP2C9,pendente
+galantamine,bromidrato de galantamina,CYP2D6,pendente
+gefitinib,gefitinibe,"CYP2C9, CYP2D6, CYP3A4, P-gp",pendente
+gliclazide,gliclazida,CYP2C9,pendente
+glyburide,glibenclamida,CYP2C9,pendente
+ibuprofen,ibuprofeno,"CYP2C9, CYP2D6, CYP3A4",pendente
+idarubicin,cloridrato de idarrubicina,P-gp,pendente
+ifosfamide,ifosfamida,P-gp,pendente
+imatinib,imatinibe,"CYP3A4, P-gp",pendente
+irinotecan,cloridrato de irinotecano,P-gp,pendente
+isoniazid,isoniazida; rifampicina + isoniazida; rifampicina + isoniazida + pirazinamida; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol; rifapentina + isoniazida,"CYP2C9, P-gp",pendente
+ivermectin,ivermectina,P-gp,pendente
+lamivudine,dolutegravir sódico + lamivudina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz; lamivudina; zidovudina + lamivudina,P-gp,pendente
+lamotrigine,lamotrigina,"CYP2C9, CYP2D6, CYP3A4, P-gp",pendente
+lenalidomide,lenalidomida,P-gp,pendente
+levofloxacin,levofloxacino,P-gp,pendente
+loratadine,loratadina,CYP2D6,pendente
+losartan,losartana potássica,"CYP2C9, P-gp",pendente
+lumefantrine,arteméter + lumefantrina,CYP3A4,pendente
+methotrexate,metotrexato,"CYP3A4, P-gp",pendente
+metoclopramide,cloridrato de metoclopramida,CYP2D6,pendente
+naproxen,naproxeno,"CYP2C9, P-gp",pendente
+nevirapine,nevirapina,"CYP2D6, P-gp",pendente
+nifedipine,nifedipino,CYP3A4,pendente
+nilotinib,nilotinibe,CYP3A4,pendente
+olanzapine,olanzapina,"CYP2C9, CYP2D6, CYP3A4, P-gp",pendente
+omeprazole,omeprazol,P-gp,pendente
+ondansetron,cloridrato de ondansetrona,"CYP2D6, CYP3A4, P-gp",pendente
+oxaliplatin,oxaliplatina,P-gp,pendente
+palbociclib,palbociclibe,"CYP3A4, P-gp",pendente
+pazopanib,pazopanibe,CYP3A4,pendente
+pravastatin,pravastatina sódica,P-gp,pendente
+prednisone,prednisona,P-gp,pendente
+promethazine,cloridrato de prometazina,CYP2D6,pendente
+propafenone,cloridrato de propafenona,CYP2D6,pendente
+pyrazinamide,pirazinamida; rifampicina + isoniazida + pirazinamida; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,"CYP2C9, P-gp",pendente
+rasagiline,mesilato de rasagilina,P-gp,pendente
+rifapentine,rifapentina; rifapentina + isoniazida,P-gp,pendente
+risperidone,risperidona,"CYP2C9, CYP2D6, CYP3A4, P-gp",pendente
+rituximab,rituximabe,P-gp,pendente
+selexipag,selexipague,CYP2C9,pendente
+sildenafil,citrato de sildenafila,CYP3A4,pendente
+sulfamethoxazole,sulfametoxazol + trimetoprima,CYP2C9,pendente
+sulfasalazine,sulfassalazina,CYP2D6,pendente
+sunitinib,sunitinibe,"CYP3A4, P-gp",pendente
+tamoxifen,citrato de tamoxifeno,"CYP2D6, CYP3A4, P-gp",pendente
+tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,P-gp,pendente
+topiramate,topiramato,P-gp,pendente
+trastuzumab,trastuzumabe,P-gp,pendente
+vincristine,sulfato de vincristina,"CYP3A4, P-gp",pendente
+voriconazole,voriconazol,"CYP2C9, CYP3A4, P-gp",pendente
+zidovudine,zidovudina; zidovudina + lamivudina,P-gp,pendente
+ziprasidone,cloridrato de ziprasidona,"CYP2C9, CYP2D6, CYP3A4",pendente

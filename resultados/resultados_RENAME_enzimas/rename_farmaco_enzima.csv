@@ -1,0 +1,183 @@
+﻿ddi_nome,pharmgkb_id,enzima,nomes_rename,origem_correspondencia,validacao_manual,gene,associacao_clinpgx,farmacocinetica,farmacodinamica,evidencia_clinpgx,pmids,fonte
+anastrozole,PA448432,CYP2C9,anastrozol,match_exato,,CYP2C9,associated,,,VariantAnnotation,37615099,ClinPGx
+aspirin,PA448497,CYP2C9,ácido acetilsalicílico,match_exato,,CYP2C9,ambiguous,,,"Guideline,VariantAnnotation",20833683;25916518;26517138;29425227;32189324;34158603,ClinPGx
+bosentan,PA10034,CYP2C9,bosentana,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,VariantAnnotation,23863877;24048276;24842639,ClinPGx
+bupropion,PA448687,CYP2C9,cloridrato de bupropiona,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,MultilinkAnnotation,30207201,ClinPGx
+carbamazepine,PA448785,CYP2C9,carbamazepina,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",28343093;30207201,ClinPGx
+diazepam,PA449283,CYP2C9,diazepam,match_exato,,CYP2C9,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",22641027;30207201,ClinPGx
+ethambutol,PA164784021,CYP2C9,cloridrato de etambutol; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",19891553;20941486;30458875,ClinPGx
+fluconazole,PA449653,CYP2C9,fluconazol,similaridade_alta_pendente,pendente,CYP2C9,associated,,,VariantAnnotation,26886310,ClinPGx
+fluoxetine,PA449673,CYP2C9,cloridrato de fluoxetina,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",14726986;16236141;24663076;30207201;41599148,ClinPGx
+fulvestrant,PA164747170,CYP2C9,fulvestranto,similaridade_alta_pendente,pendente,CYP2C9,associated,,,VariantAnnotation,37615099,ClinPGx
+gefitinib,PA131301952,CYP2C9,gefitinibe,similaridade_alta_pendente,pendente,CYP2C9,associated,,,"MultilinkAnnotation,VariantAnnotation",38085693,ClinPGx
+gliclazide,PA10892,CYP2C9,gliclazida,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,VariantAnnotation,21121772;24442125;37097441,ClinPGx
+glyburide,PA449782,CYP2C9,glibenclamida,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,VariantAnnotation,21121772;24442125;32504053,ClinPGx
+ibuprofen,PA449957,CYP2C9,ibuprofeno,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,"Guideline,GuidelineAnnotation,SummaryAnnotation,VariantAnnotation",12152005;15289789;17681167;18694831;19480553;26122864;26544900;32189324;33205280;33812699;40016980;41590876;41892813,ClinPGx
+isoniazid,PA450112,CYP2C9,isoniazida; rifampicina + isoniazida; rifampicina + isoniazida + pirazinamida; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol; rifapentina + isoniazida,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",19891553;20941486;30458875,ClinPGx
+lamotrigine,PA450164,CYP2C9,lamotrigina,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",28343093;30207201;41471361,ClinPGx
+levetiracetam,PA450206,CYP2C9,levetiracetam,match_exato,,CYP2C9,associated,,,VariantAnnotation,41471361,ClinPGx
+losartan,PA450268,CYP2C9,losartana potássica,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,PD,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",11408373;11823761;15197523;15289788;18971529;19669737;22294058;22735459;25303293;25994031;32531309;36580432;36582532;38637968;40810118,ClinPGx
+naproxen,PA450595,CYP2C9,naproxeno,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,"Guideline,SummaryAnnotation,VariantAnnotation",17681167;17686967;19280158;26544900;32189324;32423989;41892813,ClinPGx
+olanzapine,PA450688,CYP2C9,olanzapina,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,PD,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",23559402;30207201;33378980,ClinPGx
+praziquantel,PA164764583,CYP2C9,praziquantel,match_exato,,CYP2C9,associated,,,VariantAnnotation,40512603,ClinPGx
+pyrazinamide,PA451182,CYP2C9,pirazinamida; rifampicina + isoniazida + pirazinamida; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",19891553;20941486;30458875,ClinPGx
+risperidone,PA451257,CYP2C9,risperidona,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",15260906;30207201,ClinPGx
+selexipag,PA166281602,CYP2C9,selexipague,similaridade_alta_pendente,pendente,CYP2C9,associated,,,VariantAnnotation,36258237,ClinPGx
+sulfamethoxazole,PA451544,CYP2C9,sulfametoxazol + trimetoprima,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,VariantAnnotation,11186133;22106207,ClinPGx
+voriconazole,PA10233,CYP2C9,voriconazol,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,VariantAnnotation,16940139;17827141;26886310;35081606;38654529,ClinPGx
+ziprasidone,PA451974,CYP2C9,cloridrato de ziprasidona,similaridade_alta_pendente,pendente,CYP2C9,ambiguous,,,MultilinkAnnotation,30207201,ClinPGx
+acetaminophen,PA448015,CYP2D6,paracetamol,match_exato,,CYP2D6,associated,,,"MultilinkAnnotation,VariantAnnotation",11095574;17564651;19219744;19308365;38445694;39995492,ClinPGx
+aspirin,PA448497,CYP2D6,ácido acetilsalicílico,match_exato,,CYP2D6,associated,,PD,"SummaryAnnotation,VariantAnnotation",23212742;24367646,ClinPGx
+atenolol,PA448499,CYP2D6,atenolol,match_exato,,CYP2D6,ambiguous,,,VariantAnnotation,18784654;41968188,ClinPGx
+atorvastatin,PA448500,CYP2D6,atorvastatina cálcica,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",17700359;31806882,ClinPGx
+bupropion,PA448687,CYP2D6,cloridrato de bupropiona,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,MultilinkAnnotation,30207201,ClinPGx
+carbamazepine,PA448785,CYP2D6,carbamazepina,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",28343093;30207201,ClinPGx
+carvedilol,PA448817,CYP2D6,carvedilol,match_exato,,CYP2D6,ambiguous,,PD,"Guideline,SummaryAnnotation,VariantAnnotation",16595916;16849011;17329852;20643254;21599570;24673480;28181117;37272562;38951961,ClinPGx
+ciprofloxacin,PA449009,CYP2D6,ciprofloxacino,similaridade_alta_pendente,pendente,CYP2D6,associated,,,VariantAnnotation,27469576,ClinPGx
+clomipramine,PA449048,CYP2D6,cloridrato de clomipramina,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,PD,"Guideline,MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",10460069;11763000;1451721;15252821;1527229;16871470;18070221;20531370;23486447;23545896;2741190;27800629;27997040;28470111;29894392;3582462;8093319;8181196;8941025;9562213,ClinPGx
+clozapine,PA449061,CYP2D6,clozapina,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",11041319;17503978;18346175;22722500;23297297;27932669;31616047;35853541;37317504;38765922;39344086;40048458;40971654;7640149;8148222,ClinPGx
+diazepam,PA449283,CYP2D6,diazepam,match_exato,,CYP2D6,ambiguous,,,MultilinkAnnotation,30207201,ClinPGx
+donepezil,PA449394,CYP2D6,cloridrato de donepezila,similaridade_alta_pendente,pendente,CYP2D6,associated,,,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",24433464;26952092,ClinPGx
+ethanol,PA448073,CYP2D6,álcool etílico (FN),match_exato,,CYP2D6,associated,,,MultilinkAnnotation,,ClinPGx
+fluoxetine,PA449673,CYP2D6,cloridrato de fluoxetina,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,"Guideline,MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",10208643;10583026;10755579;11386497;12173784;12404686;12438554;14639062;14716707;14726986;16236141;17470523;18070221;22733128;22775532;23545896;24663076;25974703;28470107;30207201;34523245;34529603;37032427;37317504;37763120;38377520;38741591;40781498;41599148;8941024;8941025,ClinPGx
+galantamine,PA449726,CYP2D6,bromidrato de galantamina,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,"SummaryAnnotation,VariantAnnotation",23503455,ClinPGx
+gefitinib,PA131301952,CYP2D6,gefitinibe,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",16719544;21502555;23207012;23664723;25554506;26323212;26898617;28461741;36577124,ClinPGx
+haloperidol,PA449841,CYP2D6,decanoato de haloperidol; haloperidol,match_exato,,CYP2D6,ambiguous,,,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",10096261;10942177;11560558;11595402;12746736;12784098;12919180;12960748;14499311;17667795;18346175;22775532;25868121;26514968;27023437;27469576;27695358;29472872;33118660;37360210;38076663;9352580,ClinPGx
+ibuprofen,PA449957,CYP2D6,ibuprofeno,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,VariantAnnotation,33812699;39995492,ClinPGx
+lamotrigine,PA450164,CYP2D6,lamotrigina,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",28343093;30207201,ClinPGx
+loratadine,PA450266,CYP2D6,loratadina,similaridade_alta_pendente,pendente,CYP2D6,associated,,,VariantAnnotation,34295246,ClinPGx
+metoclopramide,PA450475,CYP2D6,cloridrato de metoclopramida,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,"LabelAnnotation,VariantAnnotation",21840870;31507424;33247397;34407866;37480318;37497103,ClinPGx
+metoprolol,PA450480,CYP2D6,succinato de metoprolol; tartarato de metoprolol,match_exato,,CYP2D6,ambiguous,,PD,"Guideline,MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",10223777;10471072;11692084;11823760;15467211;15592325;15726636;18784654;18834373;19037197;20643254;23665868;24193112;24637943;26461463;27813451;28181117;29095089;30808251;31107373;36983598;37317504;38637522;38951961;39900827;41806934;42496093;42678095,ClinPGx
+nevirapine,PA450616,CYP2D6,nevirapina,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,"SummaryAnnotation,VariantAnnotation",22111602;22354160,ClinPGx
+olanzapine,PA450688,CYP2D6,olanzapina,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,PD,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",11699614;11901361;12640212;18223460;18346175;19000940;26856397;27251229;30207201;33378980;38540107;38576571,ClinPGx
+ondansetron,PA450705,CYP2D6,cloridrato de ondansetrona,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,PD,"Guideline,LabelAnnotation,MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",12065557;15731591;20488759;21596874;21840870;28002639;34407866;37317504;39542691;39899439;41820792;41979467;8018461,ClinPGx
+paclitaxel,PA450761,CYP2D6,paclitaxel,match_exato,,CYP2D6,associated,,,VariantAnnotation,41148602,ClinPGx
+promethazine,PA451128,CYP2D6,cloridrato de prometazina,similaridade_alta_pendente,pendente,CYP2D6,associated,,,VariantAnnotation,17986163,ClinPGx
+propafenone,PA451131,CYP2D6,cloridrato de propafenona,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",12421483;14653957;17001296;17460029;33043448;33203295,ClinPGx
+propranolol,PA451145,CYP2D6,cloridrato de propranolol,match_exato,,CYP2D6,ambiguous,,,"Guideline,LabelAnnotation,MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",12728976;27288795;38951961;41968188;7554699;7895609;9399616,ClinPGx
+risperidone,PA451257,CYP2D6,risperidona,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,"LabelAnnotation,MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",10639689;11791898;15089809;15260906;15565299;15669884;15729081;16160620;16633140;16833023;17715206;18346175;19997080;20332423;20814331;22592207;22775532;23609392;24026091;24232129;24329187;24589909;24643635;24828442;25042870;25868121;26129906;26514968;26544071;26780783;26872113;26880915;26937359;26944100;27673605;28389049;29472872;30207201;30661084;30870237;32519344;33759847;38041757;38200532;38377522;38421437;38540107;38928058;38963454;40130908;40261922;40350722;40704440;41845570;42053037;42797446,ClinPGx
+ritonavir,PA451260,CYP2D6,lopinavir + ritonavir; nirmatrelvir + ritonavir; ritonavir,match_exato,,CYP2D6,associated,,,MultilinkAnnotation,,ClinPGx
+sulfasalazine,PA451547,CYP2D6,sulfassalazina,similaridade_alta_pendente,pendente,CYP2D6,associated,,,VariantAnnotation,23212742,ClinPGx
+tamoxifen,PA451581,CYP2D6,citrato de tamoxifeno,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,PD,"Guideline,SummaryAnnotation,VariantAnnotation",15632378;15952058;15987423;16361630;16815318;16877740;17115111;17244352;17761971;18024866;18294285;18407954;18794105;19156902;19189210;19189212;19421167;19596663;19809024;20124171;20309015;20454926;20515869;20565970;20574415;20731819;20809362;20849243;21325141;21430657;21437611;21480951;21823108;21830868;21860550;21880792;21947681;22180457;22183189;22395643;22395644;22623212;22723326;22735900;23100173;23167378;23213055;23226070;23289191;23476897;23570465;23712329;23776391;23842856;23922954;24060820;24125101;24265036;24329190;24682508;24744093;24915025;25091503;25296365;25701109;25907378;26681084;27109434;27226358;27797974;28730340;29385237;29436156;30022682;34957551;36836506;37591782;37947089;39432161;39540781;40137409;40214721;40369345;40375591;40452016;41036998;41259728;41862488;42380819,ClinPGx
+timolol,PA451690,CYP2D6,maleato de timolol,match_exato,,CYP2D6,ambiguous,,,"SummaryAnnotation,VariantAnnotation",16315032;20925579;37712172;7474246,ClinPGx
+ziprasidone,PA451974,CYP2D6,cloridrato de ziprasidona,similaridade_alta_pendente,pendente,CYP2D6,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",18346175;30207201,ClinPGx
+abemaciclib,PA166153471,CYP3A4,abemaciclibe,similaridade_alta_pendente,pendente,CYP3A4,associated,,,VariantAnnotation,37734262,ClinPGx
+acetaminophen,PA448015,CYP3A4,paracetamol,match_exato,,CYP3A4,ambiguous,,,MultilinkAnnotation,11866476;19219744,ClinPGx
+amiodarone,PA448383,CYP3A4,cloridrato de amiodarona,similaridade_alta_pendente,pendente,CYP3A4,associated,,,VariantAnnotation,29394111,ClinPGx
+anastrozole,PA448432,CYP3A4,anastrozol,match_exato,,CYP3A4,associated,,,VariantAnnotation,37615099,ClinPGx
+atazanavir,PA10251,CYP3A4,sulfato de atazanavir,match_exato,,CYP3A4,associated,,,"SummaryAnnotation,VariantAnnotation",22394315,ClinPGx
+atorvastatin,PA448500,CYP3A4,atorvastatina cálcica,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,PD,"Guideline,SummaryAnnotation,VariantAnnotation",16103896;18528690;19802823;20386561;22617227;24918167;25274942;32331352;35152405;38493369;39523378,ClinPGx
+basiliximab,PA164747126,CYP3A4,basiliximabe,similaridade_alta_pendente,pendente,CYP3A4,associated,,,VariantAnnotation,42603263,ClinPGx
+bleomycin,PA448645,CYP3A4,sulfato de bleomicina,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",30914949,ClinPGx
+bortezomib,PA10252,CYP3A4,bortezomibe,similaridade_alta_pendente,pendente,CYP3A4,associated,,,VariantAnnotation,42072346,ClinPGx
+bupropion,PA448687,CYP3A4,cloridrato de bupropiona,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,MultilinkAnnotation,30207201,ClinPGx
+carbamazepine,PA448785,CYP3A4,carbamazepina,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",23252947;25495409;26421491;28343093;30207201;37317504,ClinPGx
+cisplatin,PA449014,CYP3A4,cisplatina,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",25829401;27995989;30914949,ClinPGx
+clozapine,PA449061,CYP3A4,clozapina,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",23297297;35853541;37317504,ClinPGx
+cyclosporine,PA449167,CYP3A4,ciclosporina,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",12966368;18444945;21902502;22388796;23557867;24522145;24658827;24691060;25240575;25976223;27653228;28952408;29043387;29135906;30799432;39913956;42603263,ClinPGx
+diazepam,PA449283,CYP3A4,diazepam,match_exato,,CYP3A4,ambiguous,,,"LabelAnnotation,MultilinkAnnotation,VariantAnnotation",30207201;33622083,ClinPGx
+docetaxel,PA449383,CYP3A4,docetaxel,match_exato,,CYP3A4,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",18509327;24704000;25495407;27574448;27995989;33649523;35174070;37469869,ClinPGx
+doxorubicin,PA449412,CYP3A4,cloridrato de doxorrubicina,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,VariantAnnotation,20459744;23775025;25829401;29938344,ClinPGx
+efavirenz,PA449441,CYP3A4,efavirenz; fumarato de tenofovir desoproxila + lamivudina + efavirenz,match_exato,,CYP3A4,ambiguous,,,"SummaryAnnotation,VariantAnnotation",15622315;16267764;24477223;24695352;26779253;28886044;31628422,ClinPGx
+erlotinib,PA134687924,CYP3A4,erlotinibe,similaridade_alta_pendente,pendente,CYP3A4,associated,,,VariantAnnotation,18309947,ClinPGx
+ethambutol,PA164784021,CYP3A4,cloridrato de etambutol; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,similaridade_alta_pendente,pendente,CYP3A4,associated,,,VariantAnnotation,38884784,ClinPGx
+etoposide,PA449552,CYP3A4,etoposídeo,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",12439220;30914949,ClinPGx
+exemestane,PA449563,CYP3A4,exemestano,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"SummaryAnnotation,VariantAnnotation",27549341,ClinPGx
+fluorouracil,PA128406956,CYP3A4,fluoruracila,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,VariantAnnotation,20459744;20530282;23775025,ClinPGx
+fluoxetine,PA449673,CYP3A4,cloridrato de fluoxetina,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,MultilinkAnnotation,30207201,ClinPGx
+gefitinib,PA131301952,CYP3A4,gefitinibe,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,VariantAnnotation,25554506;26898617;36577124;38085693,ClinPGx
+haloperidol,PA449841,CYP3A4,decanoato de haloperidol; haloperidol,match_exato,,CYP3A4,ambiguous,,,VariantAnnotation,23077486;25868121;32208328;42797446,ClinPGx
+ibuprofen,PA449957,CYP3A4,ibuprofeno,similaridade_alta_pendente,pendente,CYP3A4,associated,,,VariantAnnotation,33812699;37574146,ClinPGx
+imatinib,PA10804,CYP3A4,imatinibe,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"SummaryAnnotation,VariantAnnotation",22875622;30713339;32331352;37706370;38640718,ClinPGx
+lamotrigine,PA450164,CYP3A4,lamotrigina,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",28343093;30207201,ClinPGx
+lopinavir,PA450264,CYP3A4,lopinavir + ritonavir,match_exato,,CYP3A4,ambiguous,,,"SummaryAnnotation,VariantAnnotation",24950369;27142945,ClinPGx
+lumefantrine,PA165111722,CYP3A4,arteméter + lumefantrina,similaridade_alta_pendente,pendente,CYP3A4,associated,,PD,"SummaryAnnotation,VariantAnnotation",28673292,ClinPGx
+methotrexate,PA450428,CYP3A4,metotrexato,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,VariantAnnotation,23775025;39913956,ClinPGx
+midazolam,PA450496,CYP3A4,midazolam,match_exato,,CYP3A4,ambiguous,,,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",16580902;19255940;20959500;23327575;23665933;25287072;26114223;38195522;38637968,ClinPGx
+nifedipine,PA450631,CYP3A4,nifedipino,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"SummaryAnnotation,VariantAnnotation",10511065;15634941,ClinPGx
+nilotinib,PA165958345,CYP3A4,nilotinibe,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",42542560,ClinPGx
+olanzapine,PA450688,CYP3A4,olanzapina,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",23559402;30207201;32331352;33378980,ClinPGx
+ondansetron,PA450705,CYP3A4,cloridrato de ondansetrona,similaridade_alta_pendente,pendente,CYP3A4,associated,,,MultilinkAnnotation,37317504,ClinPGx
+paclitaxel,PA450761,CYP3A4,paclitaxel,match_exato,,CYP3A4,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",16890579;22527101;23640974;24361227;24704000;25398452;27574448;33649523;37469869,ClinPGx
+palbociclib,PA166153469,CYP3A4,palbociclibe,similaridade_alta_pendente,pendente,CYP3A4,associated,,,VariantAnnotation,37734262,ClinPGx
+pazopanib,PA165291492,CYP3A4,pazopanibe,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",22341567;30367352;42542560,ClinPGx
+praziquantel,PA164764583,CYP3A4,praziquantel,match_exato,,CYP3A4,associated,,,MultilinkAnnotation,12920490,ClinPGx
+risperidone,PA451257,CYP3A4,risperidona,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"MultilinkAnnotation,VariantAnnotation",19395426;23609392;25868121;26129906;27673605;30207201;33759847;38041757;38421437;38963454;42797446,ClinPGx
+ritonavir,PA451260,CYP3A4,lopinavir + ritonavir; nirmatrelvir + ritonavir; ritonavir,match_exato,,CYP3A4,associated,,,MultilinkAnnotation,,ClinPGx
+sildenafil,PA451346,CYP3A4,citrato de sildenafila,similaridade_alta_pendente,pendente,CYP3A4,associated,,,"SummaryAnnotation,VariantAnnotation",28440343;33262574,ClinPGx
+sunitinib,PA162372840,CYP3A4,sunitinibe,similaridade_alta_pendente,pendente,CYP3A4,associated,,,"MultilinkAnnotation,VariantAnnotation",17825686;24566734;26810136,ClinPGx
+tamoxifen,PA451581,CYP3A4,citrato de tamoxifeno,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",17434921;24744093;25893704;29436156,ClinPGx
+vincristine,PA451879,CYP3A4,sulfato de vincristina,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,VariantAnnotation,12846892;21404110,ClinPGx
+voriconazole,PA10233,CYP3A4,voriconazol,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,"SummaryAnnotation,VariantAnnotation",25515945;28786228;30306637;35081606;38654529,ClinPGx
+ziprasidone,PA451974,CYP3A4,cloridrato de ziprasidona,similaridade_alta_pendente,pendente,CYP3A4,ambiguous,,,MultilinkAnnotation,30207201,ClinPGx
+abemaciclib,PA166153471,P-gp,abemaciclibe,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,35527301;37734262,ClinPGx
+anastrozole,PA448432,P-gp,anastrozol,match_exato,,ABCB1,ambiguous,,PD,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",27747906,ClinPGx
+aspirin,PA448497,P-gp,ácido acetilsalicílico,match_exato,,ABCB1,ambiguous,,,VariantAnnotation,22028352;22940005;29425227;34158603;36891827;39949600;40290439;42422180,ClinPGx
+atazanavir,PA10251,P-gp,sulfato de atazanavir,match_exato,,ABCB1,ambiguous,,PD,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",16355344;1655344;17148966;17324111;19710077;20504240;21288825;22394315;25151207;25622064;26174719;26360703;26857335;28718515,ClinPGx
+atenolol,PA448499,P-gp,atenolol,match_exato,,ABCB1,associated,,PD,"SummaryAnnotation,VariantAnnotation",24116192,ClinPGx
+atorvastatin,PA448500,P-gp,atorvastatina cálcica,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",16103896;18851956;19238649;19802823;21392722;26932749;27296832;28833323;35968761;37857778;40840956;42142508,ClinPGx
+azathioprine,PA448515,P-gp,azatioprina,similaridade_alta_pendente,pendente,ABCB1,associated,,,MultilinkAnnotation,28686143;29517418,ClinPGx
+basiliximab,PA164747126,P-gp,basiliximabe,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,42603263,ClinPGx
+bleomycin,PA448645,P-gp,sulfato de bleomicina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",25637052;30914949,ClinPGx
+bortezomib,PA10252,P-gp,bortezomibe,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,42072346,ClinPGx
+capecitabine,PA448771,P-gp,capecitabina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",21142915;22026922;25372392,ClinPGx
+carbamazepine,PA448785,P-gp,carbamazepina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",15805193;16753003;18812236;19450124;20417680;21747585;22188362;23252947;25495409;26421491;26555147;38270743;38507296;39846525;39954158;42700104,ClinPGx
+carboplatin,PA448803,P-gp,carboplatina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,,VariantAnnotation,21327421;36988399;38674407;40282412,ClinPGx
+cisplatin,PA449014,P-gp,cisplatina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",20530282;21332314;22016816;22026922;23746184;29938344;30914949;37338505;39771563,ClinPGx
+clomipramine,PA449048,P-gp,cloridrato de clomipramina,similaridade_alta_pendente,pendente,ABCB1,associated,,PD,"SummaryAnnotation,VariantAnnotation",21449676,ClinPGx
+clozapine,PA449061,P-gp,clozapina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",19593168;22722500;27168101;28919802;35853541;40048458,ClinPGx
+cyclosporine,PA449167,P-gp,ciclosporina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",12966368;17206635;18334915;18444945;18576903;18702631;18717915;20030680;21806386;22388796;22886152;23720091;23756537;24088131;24889923;25240575;25536375;26107754;27653228;42603263,ClinPGx
+cytarabine,PA449177,P-gp,citarabina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",16331627;20938465;25558979;25567217;36316809,ClinPGx
+daunorubicin,PA449212,P-gp,cloridrato de daunorrubicina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",16331627;20938465;23441093;25558979;25567217;36316809,ClinPGx
+diazepam,PA449283,P-gp,diazepam,match_exato,,ABCB1,associated,,,VariantAnnotation,36162369,ClinPGx
+digoxin,PA449319,P-gp,digoxina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,,"SummaryAnnotation,VariantAnnotation",10716719;11697464;12189368;12425480;12492608;12739761;17404720;17652833;18334914;18810246;23619510;26531821,ClinPGx
+docetaxel,PA449383,P-gp,docetaxel,match_exato,,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",22026922;24704000;27574448;33649523;34988655,ClinPGx
+doxorubicin,PA449412,P-gp,cloridrato de doxorrubicina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",18377430;18408561;19752884;20179710;22016816;23441093;25582575;25637052;25989890;26799497;28036387;28763429;29507678;29938344;37338505;38809628;39771563;42549829,ClinPGx
+efavirenz,PA449441,P-gp,efavirenz; fumarato de tenofovir desoproxila + lamivudina + efavirenz,match_exato,,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",11809184;12545140;16267764;16912956;19916993;20625352;20662624;20720517;20860463;23734829;24145522;24497997;25303294;26715213;26774523;27045425;28718515;28886044;31628422;32838647,ClinPGx
+epirubicin,PA449476,P-gp,cloridrato de epirrubicina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,,VariantAnnotation,19752884;22026922;24599932;42549829,ClinPGx
+erlotinib,PA134687924,P-gp,erlotinibe,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,22462752,ClinPGx
+esomeprazole,PA10075,P-gp,omeprazol,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,39030549,ClinPGx
+etoposide,PA449552,P-gp,etoposídeo,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",12969965;20938465;30914949;38674407,ClinPGx
+fluorouracil,PA128406956,P-gp,fluoruracila,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",20530282;20638924;21142915;21332314;23746184;24018773;25232828;25372392;29507678;40624839,ClinPGx
+fluoxetine,PA449673,P-gp,cloridrato de fluoxetina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",18215618;24192121;24663076,ClinPGx
+gefitinib,PA131301952,P-gp,gefitinibe,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",25554506;26898617;27089937;38790220;39204145,ClinPGx
+idarubicin,PA449961,P-gp,cloridrato de idarrubicina,similaridade_alta_pendente,pendente,ABCB1,associated,,PD,"SummaryAnnotation,VariantAnnotation",16331627;20938465;25558979;25567217,ClinPGx
+ifosfamide,PA449964,P-gp,ifosfamida,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,38674407,ClinPGx
+imatinib,PA10804,P-gp,imatinibe,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",22875622;23619510;24798723;25245580;27426203;27991849;28289867;28330783;28367681;28762371;28836054;30713339;35144161;38640718;38756645;40326103,ClinPGx
+irinotecan,PA450085,P-gp,cloridrato de irinotecano,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",17510208;18221820;20530282;24018773;26857783;27845419,ClinPGx
+isoniazid,PA450112,P-gp,isoniazida; rifampicina + isoniazida; rifampicina + isoniazida + pirazinamida; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol; rifapentina + isoniazida,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",19686464;22162992;29036176,ClinPGx
+ivermectin,PA450133,P-gp,ivermectina,similaridade_alta_pendente,pendente,ABCB1,associated,,,"MultilinkAnnotation,VariantAnnotation",32813957,ClinPGx
+lamivudine,PA450163,P-gp,dolutegravir sódico + lamivudina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz; lamivudina; zidovudina + lamivudina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,,VariantAnnotation,23372834;23996099;32838647,ClinPGx
+lamotrigine,PA450164,P-gp,lamotrigina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,,VariantAnnotation,26213157;28165634;29791014;32308125;32483200;35303539;42700104,ClinPGx
+lenalidomide,PA162363968,P-gp,lenalidomida,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",29177954;37058477;38297024,ClinPGx
+levetiracetam,PA450206,P-gp,levetiracetam,match_exato,,ABCB1,associated,,,VariantAnnotation,42700104,ClinPGx
+levofloxacin,PA450214,P-gp,levofloxacino,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,23616064,ClinPGx
+losartan,PA450268,P-gp,losartana potássica,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",27338075,ClinPGx
+methotrexate,PA450428,P-gp,metotrexato,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"MultilinkAnnotation,SummaryAnnotation,VariantAnnotation",18381794;19093297;20136356;21387541;21887680;22016816;23095111;25007187;25074866;25303299;25582575;26071279;26652611;27217051;27399166;27566582;27992285;28525903;29517418;29589488;29743634;29791011;29938344;30983549;31099054;32695297;33501733;33794950;34346513;38098143;38559593;39669197;39734275;39771563;40029037,ClinPGx
+naproxen,PA450595,P-gp,naproxeno,similaridade_alta_pendente,pendente,ABCB1,associated,,,MultilinkAnnotation,,ClinPGx
+nevirapine,PA450616,P-gp,nevirapina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",16912956;16912957;19228205;20017669;20625352;21824325;22111602;22354160;22680342;23372834;23774940;24517233,ClinPGx
+olanzapine,PA450688,P-gp,olanzapina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",17038883;18086475;20195292;29443543;29723928;33378980,ClinPGx
+omeprazole,PA450704,P-gp,omeprazol,similaridade_alta_pendente,pendente,ABCB1,associated,,PD,"SummaryAnnotation,VariantAnnotation",15976989;29377228,ClinPGx
+ondansetron,PA450705,P-gp,cloridrato de ondansetrona,similaridade_alta_pendente,pendente,ABCB1,associated,,PD,"SummaryAnnotation,VariantAnnotation",20707787;25012726,ClinPGx
+oseltamivir,PA450721,P-gp,fosfato de oseltamivir,match_exato,,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",21902503;32015454,ClinPGx
+oxaliplatin,PA131285527,P-gp,oxaliplatina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",20530282;23746184;25232828;38469410,ClinPGx
+paclitaxel,PA450761,P-gp,paclitaxel,match_exato,,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",12065748;16299241;16467099;16950614;18836089;19143748;19504558;21327421;22527101;24361227;24599932;24704000;26763541;27574448;28447211;28763429;33649523;34280009;36988399;38469410;38809628;40282412,ClinPGx
+palbociclib,PA166153469,P-gp,palbociclibe,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,37734262,ClinPGx
+phenobarbital,PA450911,P-gp,fenobarbital,match_exato,,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",18812236;20417680;25846690,ClinPGx
+pravastatin,PA451089,P-gp,pravastatina sódica,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",15226675;16722833;19667110,ClinPGx
+prednisone,PA451100,P-gp,prednisona,similaridade_alta_pendente,pendente,ABCB1,associated,,PD,"SummaryAnnotation,VariantAnnotation",12175731;25637052;38044950,ClinPGx
+pyrazinamide,PA451182,P-gp,pirazinamida; rifampicina + isoniazida + pirazinamida; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,19686464,ClinPGx
+rasagiline,PA164764584,P-gp,mesilato de rasagilina,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,36297437,ClinPGx
+rifapentine,PA164783809,P-gp,rifapentina; rifapentina + isoniazida,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,38661209,ClinPGx
+risperidone,PA451257,P-gp,risperidona,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",15089809;18718676;19997080;20195292;21173786;23609392;24026091;24589909;26129906;27456824;28696411;29443543;29723928;29914302;42214783,ClinPGx
+ritonavir,PA451260,P-gp,lopinavir + ritonavir; nirmatrelvir + ritonavir; ritonavir,match_exato,,ABCB1,ambiguous,,,"SummaryAnnotation,VariantAnnotation",14600574;16355344;1655344;17148966;17324111;19710077;20504240;21288825;21743379;23996099;24997317;25151207;25622064;26174719;26360703;26857335;28718515,ClinPGx
+rituximab,PA451261,P-gp,rituximabe,similaridade_alta_pendente,pendente,ABCB1,associated,,PD,"SummaryAnnotation,VariantAnnotation",25637052,ClinPGx
+sunitinib,PA162372840,P-gp,sunitinibe,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",19667267;21097692;23462807;24013576;24874929;25701374;25778465;25930089;26244574;27485537;27564227,ClinPGx
+tamoxifen,PA451581,P-gp,citrato de tamoxifeno,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",20124171;24019753,ClinPGx
+tenofovir,PA10204,P-gp,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,,VariantAnnotation,17083032;19400747;26535588;32838647,ClinPGx
+topiramate,PA451728,P-gp,topiramato,similaridade_alta_pendente,pendente,ABCB1,associated,,PD,"SummaryAnnotation,VariantAnnotation",27288795,ClinPGx
+trastuzumab,PA451743,P-gp,trastuzumabe,similaridade_alta_pendente,pendente,ABCB1,associated,,,VariantAnnotation,28763429,ClinPGx
+verapamil,PA451868,P-gp,cloridrato de verapamil,match_exato,,ABCB1,ambiguous,,,"SummaryAnnotation,VariantAnnotation",12065748;19740397,ClinPGx
+vincristine,PA451879,P-gp,sulfato de vincristina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,PD,"SummaryAnnotation,VariantAnnotation",18408561;19467705;22016816;25084203;25582575;25637052;29938344;30119132;38044950;42288995,ClinPGx
+voriconazole,PA10233,P-gp,voriconazol,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,,"SummaryAnnotation,VariantAnnotation",19033450;29914286;40223939,ClinPGx
+zidovudine,PA451954,P-gp,zidovudina; zidovudina + lamivudina,similaridade_alta_pendente,pendente,ABCB1,ambiguous,,,VariantAnnotation,23372834;23996099,ClinPGx

@@ -2,3 +2,8 @@ dados/coconut_csv-10-2026.csv
 dados/coconut_csv_lite-10-2026.csv
 __pycache__/
 dados/lotusUniqueNaturalProduct.*
+coleta.py
+data/raw/atividades_cyp.csv
+data/raw/compostos_chembl.csv
+data/raw/compostos.csv
+dados/relationships.tsv

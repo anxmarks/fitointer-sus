@@ -1,0 +1,76 @@
+﻿farmaco,enzima,papel,nomes_rename,forca,observacao,correspondencia,metodo,fonte
+rifampin,CYP2C9,indutor,rifampicina; rifampicina + isoniazida; rifampicina + isoniazida + pirazinamida; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,moderado,,confirmada,busca_direta,FDA
+carbamazepine,CYP2C9,indutor,carbamazepina,fraco,,confirmada,busca_direta,FDA
+ritonavir,CYP2C9,indutor,lopinavir + ritonavir; nirmatrelvir + ritonavir; ritonavir,fraco,,confirmada,clinpgx_match_exato,FDA
+carbamazepine,CYP3A4,indutor,carbamazepina,forte,,confirmada,busca_direta,FDA
+phenytoin,CYP3A4,indutor,fenitoína,forte,,confirmada,busca_direta,FDA
+rifampin,CYP3A4,indutor,rifampicina; rifampicina + isoniazida; rifampicina + isoniazida + pirazinamida; rifampicina + isoniazida + pirazinamida + cloridrato de etambutol,forte,,confirmada,busca_direta,FDA
+bosentan,CYP3A4,indutor,bosentana,moderado,,confirmada,busca_direta,FDA
+efavirenz,CYP3A4,indutor,efavirenz; fumarato de tenofovir desoproxila + lamivudina + efavirenz,moderado,,confirmada,clinpgx_match_exato,FDA
+etravirine,CYP3A4,indutor,etravirina,moderado,,confirmada,busca_direta,FDA
+phenobarbital,CYP3A4,indutor,fenobarbital,moderado,,confirmada,clinpgx_match_exato,FDA
+primidone,CYP3A4,indutor,primidona,moderado,,confirmada,busca_direta,FDA
+amiodarone,CYP2C9,inibidor,cloridrato de amiodarona,moderado,,confirmada,busca_direta,FDA
+fluconazole,CYP2C9,inibidor,fluconazol,moderado,,confirmada,busca_direta,FDA
+miconazole,CYP2C9,inibidor,nitrato de miconazol,moderado,,confirmada,busca_direta,FDA
+voriconazole,CYP2C9,inibidor,voriconazol,fraco,,confirmada,busca_direta,FDA
+bupropion,CYP2D6,inibidor,cloridrato de bupropiona,forte,,confirmada,busca_direta,FDA
+fluoxetine,CYP2D6,inibidor,cloridrato de fluoxetina,forte,,confirmada,busca_direta,FDA
+abiraterone,CYP2D6,inibidor,acetato de abiraterona,moderado,,confirmada,clinpgx_match_exato,FDA
+cinacalcet,CYP2D6,inibidor,cloridrato de cinacalcete,moderado,,confirmada,busca_direta,FDA
+amiodarone,CYP2D6,inibidor,cloridrato de amiodarona,fraco,,confirmada,busca_direta,FDA
+clobazam,CYP2D6,inibidor,clobazam,fraco,,confirmada,clinpgx_match_exato,FDA
+clarithromycin,CYP3A4,inibidor,claritromicina,forte,,confirmada,busca_direta,FDA
+itraconazole,CYP3A4,inibidor,itraconazol,forte,,confirmada,busca_direta,FDA
+ketoconazole,CYP3A4,inibidor,cetoconazol,forte,,confirmada,busca_direta,FDA
+lopinavir,CYP3A4,inibidor,lopinavir + ritonavir,forte,com ritonavir,confirmada,clinpgx_match_exato,FDA
+ritonavir,CYP3A4,inibidor,lopinavir + ritonavir; nirmatrelvir + ritonavir; ritonavir,forte,,confirmada,clinpgx_match_exato,FDA
+tipranavir,CYP3A4,inibidor,tipranavir,forte,com ritonavir,confirmada,clinpgx_match_exato,FDA
+voriconazole,CYP3A4,inibidor,voriconazol,forte,,confirmada,busca_direta,FDA
+ciprofloxacin,CYP3A4,inibidor,ciprofloxacino,moderado,,confirmada,busca_direta,FDA
+erythromycin,CYP3A4,inibidor,estolato de eritromicina,moderado,,confirmada,busca_direta,FDA
+fluconazole,CYP3A4,inibidor,fluconazol,moderado,,confirmada,busca_direta,FDA
+imatinib,CYP3A4,inibidor,imatinibe,moderado,,confirmada,busca_direta,FDA
+isavuconazole,CYP3A4,inibidor,sulfato de isavuconazônio,moderado,,confirmada,busca_direta,FDA
+verapamil,CYP3A4,inibidor,cloridrato de verapamil,moderado,,confirmada,clinpgx_match_exato,FDA
+amiodarone,CYP3A4,inibidor,cloridrato de amiodarona,fraco,,confirmada,busca_direta,FDA
+cyclosporine,CYP3A4,inibidor,ciclosporina,fraco,,confirmada,busca_direta,FDA
+ivacaftor,CYP3A4,inibidor,elexacaftor/tezacaftor/ivacaftor + ivacaftor; ivacaftor,fraco,,confirmada,clinpgx_match_exato,FDA
+larotrectinib,CYP3A4,inibidor,larotrectinibe,fraco,,confirmada,busca_direta,FDA
+amiodarone,P-gp,inibidor,cloridrato de amiodarona,,,confirmada,busca_direta,FDA
+clarithromycin,P-gp,inibidor,claritromicina,,,confirmada,busca_direta,FDA
+cyclosporine,P-gp,inibidor,ciclosporina,,,confirmada,busca_direta,FDA
+erythromycin,P-gp,inibidor,estolato de eritromicina,,,confirmada,busca_direta,FDA
+itraconazole,P-gp,inibidor,itraconazol,,,confirmada,busca_direta,FDA
+ketoconazole,P-gp,inibidor,cetoconazol,,,confirmada,busca_direta,FDA
+lopinavir,P-gp,inibidor,lopinavir + ritonavir,,com ritonavir,confirmada,clinpgx_match_exato,FDA
+propafenone,P-gp,inibidor,cloridrato de propafenona,,,confirmada,busca_direta,FDA
+sofosbuvir,P-gp,inibidor,sofosbuvir; sofosbuvir + velpatasvir; sofosbuvir + velpatasvir + voxilaprevir,,com velpatasvir e voxilaprevir,confirmada,clinpgx_match_exato,FDA
+velpatasvir,P-gp,inibidor,sofosbuvir + velpatasvir; sofosbuvir + velpatasvir + voxilaprevir,,com sofosbuvir e voxilaprevir,confirmada,clinpgx_match_exato,FDA
+verapamil,P-gp,inibidor,cloridrato de verapamil,,,confirmada,clinpgx_match_exato,FDA
+voxilaprevir,P-gp,inibidor,sofosbuvir + velpatasvir + voxilaprevir,,com sofosbuvir e velpatasvir,confirmada,clinpgx_match_exato,FDA
+phenytoin,CYP2C9,substrato,fenitoína,moderado,,confirmada,busca_direta,FDA
+warfarin,CYP2C9,substrato,varfarina sódica,moderado,S-varfarina,confirmada,busca_direta,FDA
+metoprolol,CYP2D6,substrato,succinato de metoprolol; tartarato de metoprolol,moderado,,confirmada,clinpgx_match_exato,FDA
+nortriptyline,CYP2D6,substrato,cloridrato de nortriptilina,moderado,,confirmada,busca_direta,FDA
+propafenone,CYP2D6,substrato,cloridrato de propafenona,moderado,,confirmada,busca_direta,FDA
+propranolol,CYP2D6,substrato,cloridrato de propranolol,moderado,,confirmada,clinpgx_match_exato,FDA
+budesonide,CYP3A4,substrato,budesonida; fumarato de formoterol + budesonida,sensivel,,confirmada,busca_direta,FDA
+darunavir,CYP3A4,substrato,darunavir,sensivel,com ritonavir,confirmada,clinpgx_match_exato,FDA
+dasatinib,CYP3A4,substrato,dasatinibe,sensivel,,confirmada,busca_direta,FDA
+everolimus,CYP3A4,substrato,everolimo,sensivel,,confirmada,busca_direta,FDA
+isavuconazole,CYP3A4,substrato,sulfato de isavuconazônio,sensivel,,confirmada,busca_direta,FDA
+maraviroc,CYP3A4,substrato,maraviroque,sensivel,,confirmada,busca_direta,FDA
+midazolam,CYP3A4,substrato,midazolam,sensivel,,confirmada,clinpgx_match_exato,FDA
+quetiapine,CYP3A4,substrato,hemifumarato de quetiapina,sensivel,,confirmada,busca_direta,FDA
+sildenafil,CYP3A4,substrato,citrato de sildenafila,sensivel,,confirmada,busca_direta,FDA
+simvastatin,CYP3A4,substrato,sinvastatina,sensivel,,confirmada,busca_direta,FDA
+sirolimus,CYP3A4,substrato,sirolimo,sensivel,,confirmada,busca_direta,FDA
+tacrolimus,CYP3A4,substrato,tacrolimo,sensivel,,confirmada,busca_direta,FDA
+tipranavir,CYP3A4,substrato,tipranavir,sensivel,com ritonavir,confirmada,clinpgx_match_exato,FDA
+atorvastatin,CYP3A4,substrato,atorvastatina cálcica,moderado,,confirmada,busca_direta,FDA
+brigatinib,CYP3A4,substrato,brigatinibe,moderado,,confirmada,busca_direta,FDA
+larotrectinib,CYP3A4,substrato,larotrectinibe,moderado,,confirmada,busca_direta,FDA
+digoxin,P-gp,substrato,digoxina,,,confirmada,busca_direta,FDA
+oseltamivir,P-gp,substrato,fosfato de oseltamivir,,pró-fármaco é substrato da P-gp,confirmada,clinpgx_match_exato,FDA
+tenofovir,P-gp,substrato,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,,pró-fármaco (tenofovir desoproxila) é substrato da P-gp,confirmada,busca_direta,FDA
