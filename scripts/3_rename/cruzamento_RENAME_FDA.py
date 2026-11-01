@@ -14,27 +14,27 @@ import pandas as pd
 #      recuperar o que o cruzamento com o ClinPGx não encontrou
 #      (varfarina, tacrolimo, fenitoína...).
 #
-# Entrada : dados/rename_principios_ativos.csv
-#           resultados/medicamentos_RENAME_consolidados_DDI.csv
-#           dados/fda_interacoes.csv  (Table 1 da página "For Healthcare
+# Entrada : dados/manuais/rename_principios_ativos.csv
+#           resultados/3_rename/medicamentos_RENAME_consolidados_DDI.csv
+#           dados/manuais/fda_interacoes.csv  (Table 1 da página "For Healthcare
 #           Professionals | FDA's Examples of Drugs that Interact with
 #           CYP Enzymes and Transporter Systems", versão de 29/05/2026)
-#           dados/validacao_FDA_RENAME.csv  (opcional: revisão manual)
-# Saída   : resultados/resultados_RENAME_FDA/
+#           dados/manuais/validacao_FDA_RENAME.csv  (opcional: revisão manual)
+# Saída   : resultados/3_rename/resultados_RENAME_FDA/
 # ------------------------------------------------------------
 
 # ==========================================
 # 1. CAMINHOS E PARÂMETROS
 # ==========================================
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parents[2]
 
-ARQUIVO_RENAME = BASE_DIR / "dados" / "rename_principios_ativos.csv"
-ARQUIVO_RENAME_DDI = BASE_DIR / "resultados" / "medicamentos_RENAME_consolidados_DDI.csv"
-ARQUIVO_FDA = BASE_DIR / "dados" / "fda_interacoes.csv"
-ARQUIVO_VALIDACAO = BASE_DIR / "dados" / "validacao_FDA_RENAME.csv"
+ARQUIVO_RENAME = BASE_DIR / "dados" / "manuais" / "rename_principios_ativos.csv"
+ARQUIVO_RENAME_DDI = BASE_DIR / "resultados" / "3_rename" / "medicamentos_RENAME_consolidados_DDI.csv"
+ARQUIVO_FDA = BASE_DIR / "dados" / "manuais" / "fda_interacoes.csv"
+ARQUIVO_VALIDACAO = BASE_DIR / "dados" / "manuais" / "validacao_FDA_RENAME.csv"
 
-PASTA_SAIDA = BASE_DIR / "resultados" / "resultados_RENAME_FDA"
+PASTA_SAIDA = BASE_DIR / "resultados" / "3_rename" / "resultados_RENAME_FDA"
 PASTA_SAIDA.mkdir(parents=True, exist_ok=True)
 
 ENZIMAS = ["CYP3A4", "CYP2C9", "CYP2D6", "P-gp"]
@@ -154,7 +154,7 @@ candidatos["validacao_manual"] = candidatos["similaridade"].map(
     lambda n: "aceito_automatico" if n == 1 else "pendente"
 )
 
-# Revisão manual: dados/validacao_FDA_RENAME.csv com as colunas
+# Revisão manual: dados/manuais/validacao_FDA_RENAME.csv com as colunas
 # principio_ativo, farmaco, validacao_manual (aceito / rejeitado)
 if ARQUIVO_VALIDACAO.exists():
     validacao = pd.read_csv(ARQUIVO_VALIDACAO, encoding="utf-8-sig", dtype=str)
@@ -227,7 +227,7 @@ por_farmaco = (
     .reset_index()
 )
 
-# O que falta revisar à mão (já no formato de dados/validacao_FDA_RENAME.csv)
+# O que falta revisar à mão (já no formato de dados/manuais/validacao_FDA_RENAME.csv)
 revisao = (
     correspondencias[correspondencias["correspondencia"].eq("pendente")]
     .groupby(["principio_ativo", "farmaco"], as_index=False)

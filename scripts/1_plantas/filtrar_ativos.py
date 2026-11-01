@@ -1,12 +1,16 @@
 import re
 import unicodedata
+from pathlib import Path
 import pandas as pd
+
+# Caminhos a partir da raiz do projeto, para rodar de qualquer lugar
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 # ------------------------------------------------------------
 # Filtra as moléculas do COCONUT (já separadas por planta) para ficar
 # só com os ATIVOS PRINCIPAIS listados no seu CSV de pesquisa.
-# Entrada : resultados/plantas_coconut.csv  +  dados/plantas_ativos.csv
-# Saída   : resultados/ativos_principais.csv
+# Entrada : resultados/1_plantas/plantas_coconut.csv  +  dados/manuais/plantas_ativos.csv
+# Saída   : resultados/1_plantas/ativos_principais.csv
 # ------------------------------------------------------------
 
 def sem_acento(txt):
@@ -71,11 +75,11 @@ cas_por_chave = {
 }
 
 # 1) Ativos de cada planta a partir do seu CSV de pesquisa
-pesq = pd.read_csv("dados/plantas_ativos.csv", sep=",", encoding="utf-8-sig")
+pesq = pd.read_csv(BASE_DIR / "dados/manuais/plantas_ativos.csv", sep=",", encoding="utf-8-sig")
 print("CSV de pesquisa:", pesq.shape[0], "linhas x", pesq.shape[1], "colunas")
 if pesq.shape[1] < 2 or pesq.iloc[:, 1].isna().all():
     raise SystemExit(
-        "\nERRO: o arquivo dados/plantas_ativos.csv não está no formato certo "
+        "\nERRO: o arquivo dados/manuais/plantas_ativos.csv não está no formato certo "
         "(precisa de 12 linhas e 2 colunas: planta e principais ativos).\n"
         "Substitua pelo plantas_ativos.csv limpo e confira que a leitura usa sep=\",\"."
     )
@@ -103,7 +107,7 @@ for _, r in pesq.iterrows():
     alvos_cas[k] = sorted(set(cas_lista))
 
 # 2) Moléculas do COCONUT por planta -> filtrar pelos ativos
-df = pd.read_csv("resultados/plantas_coconut.csv", low_memory=False)
+df = pd.read_csv(BASE_DIR / "resultados/1_plantas/plantas_coconut.csv", low_memory=False)
 df["_nome"] = df["name"].fillna("").str.lower()
 df["_iupac"] = df["iupac_name"].fillna("").str.lower()
 df["_syn"] = df["synonyms"].fillna("").str.lower() if "synonyms" in df.columns else ""
@@ -144,7 +148,7 @@ for k in df["_k"].unique():
           f"(só pelo CAS: {int((m_cas & ~m_nome).sum())})")
 
 final = pd.concat(partes, ignore_index=True).drop(columns=["_nome", "_iupac", "_syn", "_k", "_cas"])
-final.to_csv("resultados/ativos_principais.csv", index=False)
+final.to_csv(BASE_DIR / "resultados/1_plantas/ativos_principais.csv", index=False)
 print("\nTotal:", len(final))
 
 if sem_traducao:

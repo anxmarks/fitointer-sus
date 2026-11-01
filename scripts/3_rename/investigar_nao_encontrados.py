@@ -9,15 +9,15 @@ from rapidfuzz import process, fuzz
 # 1. CAMINHOS
 # ==========================================
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parents[2]
 
-ARQUIVO_DDI = BASE_DIR / "dados" / "drugs.tsv"
+ARQUIVO_DDI = BASE_DIR / "dados" / "baixados" / "drugs.tsv"
 ARQUIVO_RENAME = (
-    BASE_DIR / "resultados" / "resultados_medicamentos_RENAME_DDI" /
+    BASE_DIR / "resultados" / "3_rename" / "resultados_medicamentos_RENAME_DDI" /
     "medicamentos_RENAME_nao_encontrados_DDI.csv"
 )
 
-PASTA_SAIDA = BASE_DIR / "resultados" / "resultados_investigacao_nao_encontrados_DDI"
+PASTA_SAIDA = BASE_DIR / "resultados" / "3_rename" / "resultados_investigacao_nao_encontrados_DDI"
 PASTA_SAIDA.mkdir(parents=True, exist_ok=True)
 
 

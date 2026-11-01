@@ -1,13 +1,27 @@
+from pathlib import Path
 import pandas as pd
 
+# Caminhos a partir da raiz do projeto, para rodar de qualquer lugar
+BASE_DIR = Path(__file__).resolve().parents[2]
+
 # 1) Ler os arquivos
-plantas = pd.read_csv("dados/fitodata - Página1.csv")
+plantas = pd.read_csv(BASE_DIR / "dados/manuais/fitodata - Página1.csv")
 plantas.columns = plantas.columns.str.strip()
 
 colunas = ["identifier", "name", "iupac_name", "molecular_formula",
            "chemical_class", "np_classifier_pathway", "np_classifier_class",
-           "organisms", "cas"]
-coco = pd.read_csv("dados/coconut_csv-10-2026.csv", usecols=colunas, low_memory=False)
+           "organisms", "cas", "canonical_smiles", "standard_inchi_key"]
+ARQUIVO_COCONUT = BASE_DIR / "dados/baixados/coconut_csv-11-2026.csv"
+if not ARQUIVO_COCONUT.exists():
+    raise SystemExit(
+        f"Arquivo não encontrado: {ARQUIVO_COCONUT}\n"
+        "Baixe o CSV completo (não o \"lite\") em coconut.naturalproducts.net > Download "
+        "e salve-o em dados/baixados/ com esse nome (veja o README)."
+    )
+
+# InChIKey e SMILES ligam o COCONUT ao ChEMBL (padronizar_compostos.py)
+coco = pd.read_csv(ARQUIVO_COCONUT, usecols=lambda c: c in colunas,
+                   low_memory=False)
 
 # 2) Espécies de busca (chave = nome popular em minúsculo)
 especies_fixas = {
@@ -51,5 +65,5 @@ for _, linha in plantas.iterrows():
     print(f"{linha['Nome popular']:<15} {len(achados):>6} moléculas")
 
 final = pd.concat(resultados, ignore_index=True)
-final.to_csv("resultados/plantas_coconut.csv", index=False)
+final.to_csv(BASE_DIR / "resultados/1_plantas/plantas_coconut.csv", index=False)
 print("\nTotal de linhas:", len(final))

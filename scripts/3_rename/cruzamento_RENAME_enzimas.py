@@ -4,23 +4,23 @@ import pandas as pd
 # ------------------------------------------------------------
 # Liga os medicamentos da RENAME (já cruzados com o ClinPGx) às
 # enzimas estudadas, usando as relações gene–fármaco do ClinPGx.
-# Entrada : resultados/medicamentos_RENAME_consolidados_DDI.csv
-#           dados/drugs.tsv
-#           dados/relationships.tsv  (ClinPGx > Downloads > relationships.zip)
-# Saída   : resultados/resultados_RENAME_enzimas/
+# Entrada : resultados/3_rename/medicamentos_RENAME_consolidados_DDI.csv
+#           dados/baixados/drugs.tsv
+#           dados/baixados/relationships.tsv  (ClinPGx > Downloads > relationships.zip)
+# Saída   : resultados/3_rename/resultados_RENAME_enzimas/
 # ------------------------------------------------------------
 
 # ==========================================
 # 1. CAMINHOS E PARÂMETROS
 # ==========================================
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parents[2]
 
-ARQUIVO_RENAME_DDI = BASE_DIR / "resultados" / "medicamentos_RENAME_consolidados_DDI.csv"
-ARQUIVO_DRUGS = BASE_DIR / "dados" / "drugs.tsv"
-ARQUIVO_RELACOES = BASE_DIR / "dados" / "relationships.tsv"
+ARQUIVO_RENAME_DDI = BASE_DIR / "resultados" / "3_rename" / "medicamentos_RENAME_consolidados_DDI.csv"
+ARQUIVO_DRUGS = BASE_DIR / "dados" / "baixados" / "drugs.tsv"
+ARQUIVO_RELACOES = BASE_DIR / "dados" / "baixados" / "relationships.tsv"
 
-PASTA_SAIDA = BASE_DIR / "resultados" / "resultados_RENAME_enzimas"
+PASTA_SAIDA = BASE_DIR / "resultados" / "3_rename" / "resultados_RENAME_enzimas"
 PASTA_SAIDA.mkdir(parents=True, exist_ok=True)
 
 # Gene no ClinPGx -> nome usado no projeto
@@ -43,7 +43,7 @@ if not ARQUIVO_RELACOES.exists():
     raise SystemExit(
         f"Arquivo não encontrado: {ARQUIVO_RELACOES}\n"
         "Baixe relationships.zip na página de downloads do ClinPGx "
-        "e salve o relationships.tsv dentro da pasta dados/."
+        "e salve o relationships.tsv dentro da pasta dados/baixados/."
     )
 
 rename = pd.read_csv(ARQUIVO_RENAME_DDI, encoding="utf-8-sig", dtype=str)

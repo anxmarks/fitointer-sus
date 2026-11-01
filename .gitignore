@@ -1,9 +1,9 @@
-dados/coconut_csv-10-2026.csv
-dados/coconut_csv_lite-10-2026.csv
 __pycache__/
-dados/lotusUniqueNaturalProduct.*
-coleta.py
-data/raw/atividades_cyp.csv
-data/raw/compostos_chembl.csv
-data/raw/compostos.csv
-dados/relationships.tsv
+
+# Arquivos grandes baixados de bases externas (ver README)
+dados/baixados/coconut_csv*.csv
+dados/baixados/lotusUniqueNaturalProduct.*
+dados/baixados/relationships.tsv
+
+# Saída antiga da coleta pelo Wikidata (não usada mais)
+data/

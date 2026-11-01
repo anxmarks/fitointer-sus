@@ -3,9 +3,9 @@
 from pathlib import Path
 import pandas as pd
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parents[2]
 
-PASTA_RESULTADOS = BASE_DIR / "resultados"
+PASTA_RESULTADOS = BASE_DIR / "resultados" / "3_rename"
 
 ARQUIVO_ENCONTRADOS = (
     PASTA_RESULTADOS /
@@ -221,7 +221,7 @@ auditoria = pd.DataFrame({
 # ==========================================
 
 # Ler novamente a base original do PharmGKB
-ARQUIVO_DDI_ORIGINAL = BASE_DIR / "dados" / "drugs.tsv"
+ARQUIVO_DDI_ORIGINAL = BASE_DIR / "dados" / "baixados" / "drugs.tsv"
 
 ddi_original = pd.read_csv(
     ARQUIVO_DDI_ORIGINAL,

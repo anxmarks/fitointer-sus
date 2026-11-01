@@ -1,14 +1,18 @@
 import re
+from pathlib import Path
 import pandas as pd
+
+# Caminhos a partir da raiz do projeto, para rodar de qualquer lugar
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 # ------------------------------------------------------------
 # Limpa a tabela de ativos: tira moléculas que não são o ativo,
 # preenche nomes vazios e junta duplicatas.
-# Entrada : resultados/ativos_principais.csv
-# Saída   : resultados/ativos_principais_final.csv
+# Entrada : resultados/1_plantas/ativos_principais.csv
+# Saída   : resultados/1_plantas/ativos_principais_final.csv
 # ------------------------------------------------------------
 
-df = pd.read_csv("resultados/ativos_principais.csv", low_memory=False)
+df = pd.read_csv(BASE_DIR / "resultados/1_plantas/ativos_principais.csv", low_memory=False)
 antes = len(df)
 
 # 1) Nome do composto: usa "name"; se vazio, tenta o CAS; senão o nome IUPAC
@@ -47,8 +51,9 @@ else:
 df = df.drop_duplicates(subset=["Nome popular", "_dup"]).drop(columns="_dup")
 
 cols = [c for c in ["Nome popular", "Nome cientifico", "composto", "cas", "identifier",
-                    "canonical_smiles", "molecular_formula", "encontrado_por"] if c in df.columns]
-df[cols].to_csv("resultados/ativos_principais_final.csv", index=False)
+                    "standard_inchi_key", "canonical_smiles", "molecular_formula",
+                    "encontrado_por"] if c in df.columns]
+df[cols].to_csv(BASE_DIR / "resultados/1_plantas/ativos_principais_final.csv", index=False)
 
 print(f"{antes} -> {len(df)} moléculas")
 print(df.groupby("Nome popular").size().to_string())

@@ -9,12 +9,12 @@ from pathlib import Path
 # 1. CAMINHOS DOS ARQUIVOS
 # ==========================================
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parents[2]
 
-ARQUIVO_DDI = BASE_DIR / "dados" / "drugs.tsv"
-ARQUIVO_RENAME = BASE_DIR / "dados" / "rename_principios_ativos.csv"
+ARQUIVO_DDI = BASE_DIR / "dados" / "baixados" / "drugs.tsv"
+ARQUIVO_RENAME = BASE_DIR / "dados" / "manuais" / "rename_principios_ativos.csv"
 
-PASTA_SAIDA = BASE_DIR / "resultados" / "resultados_medicamentos_RENAME_DDI"
+PASTA_SAIDA = BASE_DIR / "resultados" / "3_rename" / "resultados_medicamentos_RENAME_DDI"
 PASTA_SAIDA.mkdir(parents=True, exist_ok=True)
 
 
