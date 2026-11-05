@@ -1,0 +1,1606 @@
+﻿planta,nome,inchikey,ativo_principal,enzima,efeito,evidencia,forca,melhor_pX,ativos,inativos,registros,correspondencia,fontes
+Alho,DIALLYL DISULFIDE,PFRGXCVKLLPLIP-UHFFFAOYSA-N,True,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,DIALLYL DISULFIDE,PFRGXCVKLLPLIP-UHFFFAOYSA-N,True,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP1A2,inibicao,ativo,forte,6.6,3,0,3,exata,ChEMBL
+Alho,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2C19,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Alho,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Alho,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Alho,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Alho,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP3A4,inibicao,ativo,fraca,4.8,1,0,3,exata,ChEMBL
+Alho,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,P-gp,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Alho,"(3~{R},8~{R},10~{R},14~{R})-17-(1-hydroxy-1,5-dimethyl-hex-4-enyl)-4,4,8,10,14-pentamethyl-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1~{H}-cyclopenta[a]phenanthrene-3,12-diol",PYXFVCFISTUSOO-QRVZQXMZSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,1758-80-1,OGNSCSPNOLGXSM-VKHMYHEASA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,1758-80-1,OGNSCSPNOLGXSM-VKHMYHEASA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,1758-80-1,OGNSCSPNOLGXSM-VKHMYHEASA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,1758-80-1,OGNSCSPNOLGXSM-VKHMYHEASA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,1758-80-1,OGNSCSPNOLGXSM-VKHMYHEASA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP1A2,inibicao,ativo,moderada,5.1,1,0,1,exata,ChEMBL
+Alho,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Alho,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Alho,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Alho,"5-[(3aR,6S,6aS)-2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl]pentanoic acid",YBJHBAHKTGYVGT-ZKWXMUAHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,"5-[(3aR,6S,6aS)-2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl]pentanoic acid",YBJHBAHKTGYVGT-ZKWXMUAHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,"5-[(3aR,6S,6aS)-2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl]pentanoic acid",YBJHBAHKTGYVGT-ZKWXMUAHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,"5-[(3aR,6S,6aS)-2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl]pentanoic acid",YBJHBAHKTGYVGT-ZKWXMUAHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,"5-[(3aR,6S,6aS)-2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl]pentanoic acid",YBJHBAHKTGYVGT-ZKWXMUAHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,883-84-1,RBCOYOYDYNXAFA-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,883-84-1,RBCOYOYDYNXAFA-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,883-84-1,RBCOYOYDYNXAFA-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,883-84-1,RBCOYOYDYNXAFA-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,883-84-1,RBCOYOYDYNXAFA-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,ALLYL ALCOHOL,XXROGKLTLUQVRX-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,ALLYL ALCOHOL,XXROGKLTLUQVRX-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,ALLYL ALCOHOL,XXROGKLTLUQVRX-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,ALLYL ALCOHOL,XXROGKLTLUQVRX-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,ALLYL ALCOHOL,XXROGKLTLUQVRX-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Alho,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Alho,D-Aspartic acid,CKLJMWTZIZZHCS-UWTATZPHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-Aspartic acid,CKLJMWTZIZZHCS-UWTATZPHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-Aspartic acid,CKLJMWTZIZZHCS-UWTATZPHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-Aspartic acid,CKLJMWTZIZZHCS-UWTATZPHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-Aspartic acid,CKLJMWTZIZZHCS-UWTATZPHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-LEUCINE,ROHFNLRQFUQHCH-RXMQYKEDSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Alho,D-LEUCINE,ROHFNLRQFUQHCH-RXMQYKEDSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Alho,D-LEUCINE,ROHFNLRQFUQHCH-RXMQYKEDSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Alho,D-LEUCINE,ROHFNLRQFUQHCH-RXMQYKEDSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Alho,D-LEUCINE,ROHFNLRQFUQHCH-RXMQYKEDSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Alho,D-alanine,QNAYBMKLOCPYGJ-UWTATZPHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-alanine,QNAYBMKLOCPYGJ-UWTATZPHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-alanine,QNAYBMKLOCPYGJ-UWTATZPHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-alanine,QNAYBMKLOCPYGJ-UWTATZPHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-alanine,QNAYBMKLOCPYGJ-UWTATZPHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-glutamine,ZDXPYRJPNDTMRX-GSVOUGTGSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-glutamine,ZDXPYRJPNDTMRX-GSVOUGTGSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-glutamine,ZDXPYRJPNDTMRX-GSVOUGTGSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-glutamine,ZDXPYRJPNDTMRX-GSVOUGTGSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-glutamine,ZDXPYRJPNDTMRX-GSVOUGTGSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,D-glutamine,ZDXPYRJPNDTMRX-GSVOUGTGSA-N,False,CYP3A4,inibicao,inativo,,,0,1,3,exata,ChEMBL
+Alho,D-ornithine,AHLPHDHHMVZTML-SCSAIBSYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-ornithine,AHLPHDHHMVZTML-SCSAIBSYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-ornithine,AHLPHDHHMVZTML-SCSAIBSYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-ornithine,AHLPHDHHMVZTML-SCSAIBSYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-ornithine,AHLPHDHHMVZTML-SCSAIBSYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,D-phenylalanine,COLNVLDHVKWLRT-MRVPVSSYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,D-phenylalanine,COLNVLDHVKWLRT-MRVPVSSYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,D-phenylalanine,COLNVLDHVKWLRT-MRVPVSSYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,D-phenylalanine,COLNVLDHVKWLRT-MRVPVSSYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,D-phenylalanine,COLNVLDHVKWLRT-MRVPVSSYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,D-serine,MTCFGRXMJLQNBG-UWTATZPHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Alho,D-serine,MTCFGRXMJLQNBG-UWTATZPHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Alho,D-serine,MTCFGRXMJLQNBG-UWTATZPHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Alho,D-serine,MTCFGRXMJLQNBG-UWTATZPHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Alho,D-serine,MTCFGRXMJLQNBG-UWTATZPHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Alho,DIALLYL SULFIDE,UBJVUCKUDDKUJF-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,2,0,2,exata,ChEMBL
+Alho,DTOSIQBPPRVQHS-PDBXOOCHSA-N,DTOSIQBPPRVQHS-PDBXOOCHSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,DTOSIQBPPRVQHS-PDBXOOCHSA-N,DTOSIQBPPRVQHS-PDBXOOCHSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,1,exata,ChEMBL
+Alho,Diallyl trisulfide,UBAXRAHSPKWNCX-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,Diallyl trisulfide,UBAXRAHSPKWNCX-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP1A2,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Alho,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2C19,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Alho,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2C9,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Alho,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2D6,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Alho,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP3A4,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Alho,Isoeugenitol,XSSGQRFNGHRFBC-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,Isoeugenitol,XSSGQRFNGHRFBC-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.6,1,0,1,exata,ChEMBL
+Alho,Isorhamnetin,IZQSVPBOUDKVDZ-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,moderada,5.9,1,1,2,exata,ChEMBL
+Alho,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,L-asparagine,DCXYFEDJOCDNAF-REOHCLBHSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Alho,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP3A4,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Alho,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Alho,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Alho,Lariciresinol,MHXCIKYXNYCMHY-AUSJPIAWSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Alho,Lariciresinol,MHXCIKYXNYCMHY-AUSJPIAWSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Alho,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Alho,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,RUTIN,IKGXIBQEEMLURG-NVPNHPEKSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Alho,RUTIN,IKGXIBQEEMLURG-NVPNHPEKSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Alho,S-Ethyl-L-cysteine,ULXKXLZEOGLCRJ-BYPYZUCNSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,S-Ethyl-L-cysteine,ULXKXLZEOGLCRJ-BYPYZUCNSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,S-Ethyl-L-cysteine,ULXKXLZEOGLCRJ-BYPYZUCNSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,S-Ethyl-L-cysteine,ULXKXLZEOGLCRJ-BYPYZUCNSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,S-Ethyl-L-cysteine,ULXKXLZEOGLCRJ-BYPYZUCNSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,Se-methylselenocysteine,XDSSPSLGNGIIHP-VKHMYHEASA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,Se-methylselenocysteine,XDSSPSLGNGIIHP-VKHMYHEASA-N,False,CYP2C19,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Alho,Se-methylselenocysteine,XDSSPSLGNGIIHP-VKHMYHEASA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,Se-methylselenocysteine,XDSSPSLGNGIIHP-VKHMYHEASA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,Se-methylselenocysteine,XDSSPSLGNGIIHP-VKHMYHEASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Alho,Se-methylselenocysteine,XDSSPSLGNGIIHP-VKHMYHEASA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Alho,Secoisolariciresinol,PUETUDUXMCLALY-HOTGVXAUSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Alho,Secoisolariciresinol,PUETUDUXMCLALY-HOTGVXAUSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Alho,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Alho,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Alho,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Alho,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP2D6,inibicao,inativo,,,0,1,3,esqueleto,ChEMBL
+Alho,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Alho,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Alho,alpha-D-Galacturonic acid,AEMOLEFTQBMNLQ-BKBMJHBISA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,alpha-D-Galacturonic acid,AEMOLEFTQBMNLQ-BKBMJHBISA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,alpha-D-Galacturonic acid,AEMOLEFTQBMNLQ-BKBMJHBISA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,alpha-D-Galacturonic acid,AEMOLEFTQBMNLQ-BKBMJHBISA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,alpha-D-Galacturonic acid,AEMOLEFTQBMNLQ-BKBMJHBISA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP1A2,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Alho,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2C19,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Alho,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2C9,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Alho,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2D6,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Alho,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Alho,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,inducao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,inibicao,ativo,fraca,4.75,5,2,10,exata,ChEMBL
+Alho,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,substrato,ativo,,,1,0,1,exata,ChEMBL
+Alho,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Alho,genistein,TZBJGXHYKVUXJN-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,moderada,5.3,1,2,3,exata,ChEMBL
+Alho,genistein,TZBJGXHYKVUXJN-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,fraca,4.7,1,2,5,exata,ChEMBL
+Alho,genistein,TZBJGXHYKVUXJN-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Alho,genistein,TZBJGXHYKVUXJN-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Alho,genistein,TZBJGXHYKVUXJN-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Alho,genistein,TZBJGXHYKVUXJN-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.9,2,2,5,exata,ChEMBL
+Alho,genistein,TZBJGXHYKVUXJN-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,2,0,3,exata,ChEMBL
+Alho,genistein,TZBJGXHYKVUXJN-UHFFFAOYSA-N,False,P-gp,ligacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Alho,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Alho,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Alho,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Alho,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,5,exata,ChEMBL
+Alho,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,7.1,2,1,3,exata,ChEMBL
+Alho,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Alho,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.22,2,0,4,exata,ChEMBL
+Alho,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,moderada,5.0,3,0,3,exata,ChEMBL
+Alho,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Alho,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,3,exata,ChEMBL
+Alho,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.17,1,0,1,exata,ChEMBL
+Alho,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Alho,linoleic acid,OYHQOLUKZRVURQ-IXWMQOLASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Alho,linoleic acid,OYHQOLUKZRVURQ-IXWMQOLASA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Alho,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,moderada,5.7,2,0,2,exata,ChEMBL
+Alho,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,moderada,5.0,1,0,5,exata,ChEMBL
+Alho,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.0,5,0,5,exata,ChEMBL
+Alho,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Alho,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,3,3,exata,ChEMBL
+Alho,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,5,exata,ChEMBL
+Alho,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Alho,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Alho,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Alho,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Alho,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,5,exata,ChEMBL
+Alho,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,protopine,GPTFURBXHJWNHR-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,moderada,5.0,1,0,1,exata,ChEMBL
+Alho,protopine,GPTFURBXHJWNHR-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,forte,7.3,1,0,1,exata,ChEMBL
+Alho,protopine,GPTFURBXHJWNHR-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,protopine,GPTFURBXHJWNHR-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,pyridoxamine,NHZMQXZHNVQTQA-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,pyridoxamine,NHZMQXZHNVQTQA-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,pyridoxamine,NHZMQXZHNVQTQA-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,pyridoxamine,NHZMQXZHNVQTQA-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,pyridoxamine,NHZMQXZHNVQTQA-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Alho,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.5,3,3,6,exata,ChEMBL
+Alho,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,fraca,4.8,2,1,4,exata,ChEMBL
+Alho,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.1,2,2,6,exata,ChEMBL
+Alho,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,3,6,exata,ChEMBL
+Alho,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Alho,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.68,3,2,5,exata,ChEMBL
+Alho,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,3,1,5,exata,ChEMBL
+Alho,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.15,1,0,1,exata,ChEMBL
+Alho,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Babosa,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP1A2,inibicao,ativo,forte,7.2,4,0,4,exata,ChEMBL
+Babosa,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2C19,inibicao,ativo,moderada,5.1,2,0,4,exata,ChEMBL
+Babosa,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2C9,inibicao,inativo,,,0,1,4,exata,ChEMBL
+Babosa,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,4,exata,ChEMBL
+Babosa,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP3A4,ativacao,inativo,,,0,3,3,exata,ChEMBL
+Babosa,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP3A4,inibicao,ativo,moderada,5.9,5,0,5,exata,ChEMBL
+Babosa,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,P-gp,inibicao,inativo,,,0,1,2,exata,ChEMBL
+Babosa,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,P-gp,ligacao,ativo,moderada,5.0,1,0,1,exata,ChEMBL
+Babosa,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Babosa,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Babosa,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Babosa,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Babosa,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Babosa,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,4,esqueleto,ChEMBL
+Babosa,.beta.-Sitosterol,KZJWDPNRJALLNS-GDQWMHGZSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,.beta.-Sitosterol,KZJWDPNRJALLNS-GDQWMHGZSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,.beta.-Sitosterol,KZJWDPNRJALLNS-GDQWMHGZSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,.beta.-Sitosterol,KZJWDPNRJALLNS-GDQWMHGZSA-N,False,CYP2D6,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Babosa,.beta.-Sitosterol,KZJWDPNRJALLNS-GDQWMHGZSA-N,False,CYP3A4,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Babosa,.beta.-Sitosterol,KZJWDPNRJALLNS-GDQWMHGZSA-N,False,P-gp,substrato,inativo,,,0,1,1,esqueleto,ChEMBL
+Babosa,149153-08-2,CIWBSHSKHKDKBQ-DOAHDZERSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,149153-08-2,CIWBSHSKHKDKBQ-DOAHDZERSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,149153-08-2,CIWBSHSKHKDKBQ-DOAHDZERSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,149153-08-2,CIWBSHSKHKDKBQ-DOAHDZERSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,149153-08-2,CIWBSHSKHKDKBQ-DOAHDZERSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2~{S},3~{R},4~{S},5~{S},6~{R})-3,4,5-trihydroxy-6-[[(2~{R},3~{S},4~{S},5~{R},6~{S})-3,4,5-trihydroxy-6-methyl-tetrahydropyran-2-yl]oxymethyl]tetrahydropyran-2-yl]oxy-chromen-4-one",IKGXIBQEEMLURG-FNKLJWKFSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Babosa,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2~{S},3~{R},4~{S},5~{S},6~{R})-3,4,5-trihydroxy-6-[[(2~{R},3~{S},4~{S},5~{R},6~{S})-3,4,5-trihydroxy-6-methyl-tetrahydropyran-2-yl]oxymethyl]tetrahydropyran-2-yl]oxy-chromen-4-one",IKGXIBQEEMLURG-FNKLJWKFSA-N,False,CYP3A4,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Babosa,"3,4-Dihydroxyphenylacetic acid",CFFZDZCDUFSOFZ-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,"3,4-Dihydroxyphenylacetic acid",CFFZDZCDUFSOFZ-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,"3,4-Dihydroxyphenylacetic acid",CFFZDZCDUFSOFZ-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,"3,4-Dihydroxyphenylacetic acid",CFFZDZCDUFSOFZ-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,"3,4-Dihydroxyphenylacetic acid",CFFZDZCDUFSOFZ-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,4-aminobutyric acid,BTCSSZJGUNDROE-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,4-aminobutyric acid,BTCSSZJGUNDROE-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,4-aminobutyric acid,BTCSSZJGUNDROE-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,4-aminobutyric acid,BTCSSZJGUNDROE-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,4-aminobutyric acid,BTCSSZJGUNDROE-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP1A2,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Babosa,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP2C19,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Babosa,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP2C9,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Babosa,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP2D6,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Babosa,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP3A4,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Babosa,Chrysophanol,LQGUBLBATBMXHT-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,Chrysophanol,LQGUBLBATBMXHT-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,D-(+)-malic acid,BJEPYKJPYRNKOW-UWTATZPHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,D-(+)-malic acid,BJEPYKJPYRNKOW-UWTATZPHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,D-(+)-malic acid,BJEPYKJPYRNKOW-UWTATZPHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,D-(+)-malic acid,BJEPYKJPYRNKOW-UWTATZPHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,D-(+)-malic acid,BJEPYKJPYRNKOW-UWTATZPHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,D-Aspartic acid,CKLJMWTZIZZHCS-UWTATZPHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,D-Aspartic acid,CKLJMWTZIZZHCS-UWTATZPHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,D-Aspartic acid,CKLJMWTZIZZHCS-UWTATZPHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,D-Aspartic acid,CKLJMWTZIZZHCS-UWTATZPHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,D-Aspartic acid,CKLJMWTZIZZHCS-UWTATZPHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,D-Lactic acid,JVTAAEKCZFNVCJ-UWTATZPHSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,D-Lactic acid,JVTAAEKCZFNVCJ-UWTATZPHSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,D-Lactic acid,JVTAAEKCZFNVCJ-UWTATZPHSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,D-Lactic acid,JVTAAEKCZFNVCJ-UWTATZPHSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,D-Lactic acid,JVTAAEKCZFNVCJ-UWTATZPHSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Babosa,D-alanine,QNAYBMKLOCPYGJ-UWTATZPHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,D-alanine,QNAYBMKLOCPYGJ-UWTATZPHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,D-alanine,QNAYBMKLOCPYGJ-UWTATZPHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,D-alanine,QNAYBMKLOCPYGJ-UWTATZPHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,D-alanine,QNAYBMKLOCPYGJ-UWTATZPHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,DEZFNHCVIZBHBI-KHPPLWFESA-N,DEZFNHCVIZBHBI-KHPPLWFESA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,DEZFNHCVIZBHBI-KHPPLWFESA-N,DEZFNHCVIZBHBI-KHPPLWFESA-N,False,CYP2C19,inibicao,ativo,moderada,5.7,1,0,2,exata,ChEMBL
+Babosa,DEZFNHCVIZBHBI-KHPPLWFESA-N,DEZFNHCVIZBHBI-KHPPLWFESA-N,False,CYP2C9,inibicao,ativo,forte,6.2,1,0,2,exata,ChEMBL
+Babosa,DEZFNHCVIZBHBI-KHPPLWFESA-N,DEZFNHCVIZBHBI-KHPPLWFESA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,DEZFNHCVIZBHBI-KHPPLWFESA-N,DEZFNHCVIZBHBI-KHPPLWFESA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,DEZFNHCVIZBHBI-KHPPLWFESA-N,DEZFNHCVIZBHBI-KHPPLWFESA-N,False,CYP3A4,inibicao,ativo,moderada,5.2,2,0,2,exata,ChEMBL
+Babosa,DTOSIQBPPRVQHS-PDBXOOCHSA-N,DTOSIQBPPRVQHS-PDBXOOCHSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,DTOSIQBPPRVQHS-PDBXOOCHSA-N,DTOSIQBPPRVQHS-PDBXOOCHSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,1,exata,ChEMBL
+Babosa,Dimethyl sulfone,HHVIBTZHLRERCL-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,Dimethyl sulfone,HHVIBTZHLRERCL-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,Galangin,VCCRNZQBSJXYJD-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,7.4,1,0,1,exata,ChEMBL
+Babosa,Galangin,VCCRNZQBSJXYJD-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,moderada,5.4,1,0,1,exata,ChEMBL
+Babosa,Galangin,VCCRNZQBSJXYJD-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.5,1,0,1,exata,ChEMBL
+Babosa,Galangin,VCCRNZQBSJXYJD-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,fraca,4.7,1,0,1,exata,ChEMBL
+Babosa,Galangin,VCCRNZQBSJXYJD-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,Galangin,VCCRNZQBSJXYJD-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,1,exata,ChEMBL
+Babosa,Galangin,VCCRNZQBSJXYJD-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,1,0,1,exata,ChEMBL
+Babosa,Galangin,VCCRNZQBSJXYJD-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.23,1,0,1,exata,ChEMBL
+Babosa,Homovanillic acid,QRMZSPFSDQBLIX-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,Homovanillic acid,QRMZSPFSDQBLIX-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,Homovanillic acid,QRMZSPFSDQBLIX-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,Homovanillic acid,QRMZSPFSDQBLIX-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,Homovanillic acid,QRMZSPFSDQBLIX-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,moderada,5.3,1,3,4,exata,ChEMBL
+Babosa,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Babosa,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Babosa,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Babosa,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.7,1,2,4,exata,ChEMBL
+Babosa,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,Phlorizin,IOUVKUPGCMBWBT-QNDFHXLGSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,Phlorizin,IOUVKUPGCMBWBT-QNDFHXLGSA-N,False,CYP2C9,inibicao,ativo,fraca,4.5,1,0,1,esqueleto,ChEMBL
+Babosa,Phlorizin,IOUVKUPGCMBWBT-QNDFHXLGSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Babosa,Phlorizin,IOUVKUPGCMBWBT-QNDFHXLGSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Babosa,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Babosa,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,Rhein,FCDLCPWAQCPTKC-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,Rhein,FCDLCPWAQCPTKC-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,YZXBAPSDXZZRGB-DOFZRALJSA-N,YZXBAPSDXZZRGB-DOFZRALJSA-N,False,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,YZXBAPSDXZZRGB-DOFZRALJSA-N,YZXBAPSDXZZRGB-DOFZRALJSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Babosa,alpha-L-Rhamnose,SHZGCJCMOBCMKK-HGVZOGFYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,alpha-L-Rhamnose,SHZGCJCMOBCMKK-HGVZOGFYSA-N,False,CYP2C19,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Babosa,alpha-L-Rhamnose,SHZGCJCMOBCMKK-HGVZOGFYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,alpha-L-Rhamnose,SHZGCJCMOBCMKK-HGVZOGFYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,alpha-L-Rhamnose,SHZGCJCMOBCMKK-HGVZOGFYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,azelaic acid,BDJRBEYXGGNYIS-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,azelaic acid,BDJRBEYXGGNYIS-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,azelaic acid,BDJRBEYXGGNYIS-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,azelaic acid,BDJRBEYXGGNYIS-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,azelaic acid,BDJRBEYXGGNYIS-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,beta-D-Glucopyranuronic acid,AEMOLEFTQBMNLQ-QIUUJYRFSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,beta-D-Glucopyranuronic acid,AEMOLEFTQBMNLQ-QIUUJYRFSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,beta-D-Glucopyranuronic acid,AEMOLEFTQBMNLQ-QIUUJYRFSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,beta-D-Glucopyranuronic acid,AEMOLEFTQBMNLQ-QIUUJYRFSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,beta-D-Glucopyranuronic acid,AEMOLEFTQBMNLQ-QIUUJYRFSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,cholesterol,HVYWMOMLDIMFJA-DPAQBDIFSA-N,False,P-gp,inibicao,ativo,moderada,5.09,1,0,1,exata,ChEMBL
+Babosa,cis-chlorogenic acid,CWVRJTMFETXNAD-XYXZIBEBSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,cis-chlorogenic acid,CWVRJTMFETXNAD-XYXZIBEBSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,cis-chlorogenic acid,CWVRJTMFETXNAD-XYXZIBEBSA-N,False,CYP2C9,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Babosa,cis-chlorogenic acid,CWVRJTMFETXNAD-XYXZIBEBSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,cis-chlorogenic acid,CWVRJTMFETXNAD-XYXZIBEBSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Babosa,citric acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,citric acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,citric acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,citric acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,citric acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,d-Tartaric acid,FEWJPZIEWOKRBE-LWMBPPNESA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,d-Tartaric acid,FEWJPZIEWOKRBE-LWMBPPNESA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,d-Tartaric acid,FEWJPZIEWOKRBE-LWMBPPNESA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,d-Tartaric acid,FEWJPZIEWOKRBE-LWMBPPNESA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,d-Tartaric acid,FEWJPZIEWOKRBE-LWMBPPNESA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,emodin,RHMXXJGYXNZAPX-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,moderada,5.43,1,0,1,exata,ChEMBL
+Babosa,emodin,RHMXXJGYXNZAPX-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,moderada,5.1,1,0,2,exata,ChEMBL
+Babosa,emodin,RHMXXJGYXNZAPX-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.4,2,0,2,exata,ChEMBL
+Babosa,emodin,RHMXXJGYXNZAPX-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,fraca,4.9,2,0,2,exata,ChEMBL
+Babosa,emodin,RHMXXJGYXNZAPX-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,emodin,RHMXXJGYXNZAPX-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.0,1,0,1,exata,ChEMBL
+Babosa,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,glycerol,PEDCQBHIVMGVHV-UHFFFAOYSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,glycolic acid,AEMRFAOFKBGASW-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,glycolic acid,AEMRFAOFKBGASW-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,glycolic acid,AEMRFAOFKBGASW-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,glycolic acid,AEMRFAOFKBGASW-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,glycolic acid,AEMRFAOFKBGASW-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,False,CYP3A4,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Babosa,hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,False,P-gp,inibicao,ativo,,,1,4,7,exata,ChEMBL
+Babosa,hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,False,P-gp,substrato,ativo,,,3,0,3,exata,ChEMBL
+Babosa,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,7.1,2,1,3,exata,ChEMBL
+Babosa,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Babosa,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.22,2,0,4,exata,ChEMBL
+Babosa,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,moderada,5.0,3,0,3,exata,ChEMBL
+Babosa,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,3,exata,ChEMBL
+Babosa,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.17,1,0,1,exata,ChEMBL
+Babosa,linoleic acid,OYHQOLUKZRVURQ-HZJYTTRNSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,linoleic acid,OYHQOLUKZRVURQ-HZJYTTRNSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,palmitic acid,IPCSVZSSVZVIGE-UHFFFAOYSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Babosa,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,pyrocatechol,YCIMNLLNPGFGHC-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,pyrocatechol,YCIMNLLNPGFGHC-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,pyrocatechol,YCIMNLLNPGFGHC-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,pyrocatechol,YCIMNLLNPGFGHC-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Babosa,pyrocatechol,YCIMNLLNPGFGHC-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,pyrocatechol,YCIMNLLNPGFGHC-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Babosa,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.5,3,3,6,exata,ChEMBL
+Babosa,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,fraca,4.8,2,1,4,exata,ChEMBL
+Babosa,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.1,2,2,6,exata,ChEMBL
+Babosa,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,3,6,exata,ChEMBL
+Babosa,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Babosa,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.68,3,2,5,exata,ChEMBL
+Babosa,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,3,1,5,exata,ChEMBL
+Babosa,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.15,1,0,1,exata,ChEMBL
+Babosa,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP1A2,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP2C19,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP2D6,inibicao,inativo,,,0,1,3,esqueleto,ChEMBL
+Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP3A4,ativacao,inativo,,,0,3,3,esqueleto,ChEMBL
+Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP3A4,inibicao,ativo,fraca,4.9,5,0,5,esqueleto,ChEMBL
+Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,P-gp,inibicao,inativo,,,0,1,2,exata,ChEMBL
+Boldo-brasileiro,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Boldo-brasileiro,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Boldo-brasileiro,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Boldo-brasileiro,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Boldo-brasileiro,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Boldo-brasileiro,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,Bisabolol,RGZSQWQPBWRIAQ-LOACHALJSA-N,True,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,Bisabolol,RGZSQWQPBWRIAQ-LOACHALJSA-N,True,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP1A2,inibicao,ativo,forte,7.2,4,0,4,exata,ChEMBL
+Camomila,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2C19,inibicao,ativo,moderada,5.1,2,0,4,exata,ChEMBL
+Camomila,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2C9,inibicao,inativo,,,0,1,4,exata,ChEMBL
+Camomila,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,4,exata,ChEMBL
+Camomila,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP3A4,ativacao,inativo,,,0,3,3,exata,ChEMBL
+Camomila,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP3A4,inibicao,ativo,moderada,5.9,5,0,5,exata,ChEMBL
+Camomila,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,P-gp,inibicao,inativo,,,0,1,2,exata,ChEMBL
+Camomila,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,P-gp,ligacao,ativo,moderada,5.0,1,0,1,exata,ChEMBL
+Camomila,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP1A2,inibicao,ativo,forte,6.6,3,0,3,exata,ChEMBL
+Camomila,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2C19,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Camomila,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Camomila,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Camomila,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP3A4,inibicao,ativo,fraca,4.8,1,0,3,exata,ChEMBL
+Camomila,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,P-gp,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Camomila,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Camomila,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Camomila,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Camomila,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,4,exata,ChEMBL
+Camomila,(-)-Epicatechin gallate,LSHVYAFMTMFKBA-TZIWHRDSSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Camomila,(-)-Epicatechin gallate,LSHVYAFMTMFKBA-TZIWHRDSSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,(-)-Epigallocatechin gallate,WMBWREPUVVBILR-WIYYLYMNSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Camomila,(-)-Epigallocatechin gallate,WMBWREPUVVBILR-WIYYLYMNSA-N,False,CYP3A4,inibicao,ativo,fraca,4.7,1,0,1,esqueleto,ChEMBL
+Camomila,(-)-Epigallocatechin gallate,WMBWREPUVVBILR-WIYYLYMNSA-N,False,P-gp,inibicao,ativo,forte,6.91,2,0,4,exata,ChEMBL
+Camomila,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP1A2,inibicao,ativo,moderada,5.5,1,1,2,esqueleto,ChEMBL
+Camomila,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP2C19,inibicao,ativo,moderada,5.1,1,0,3,esqueleto,ChEMBL
+Camomila,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Camomila,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP3A4,ativacao,inativo,,,0,3,3,esqueleto,ChEMBL
+Camomila,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP3A4,inibicao,ativo,moderada,5.3,4,0,4,esqueleto,ChEMBL
+Camomila,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,P-gp,inibicao,ativo,,,2,0,4,esqueleto,ChEMBL
+Camomila,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,P-gp,substrato,ativo,,,1,0,1,esqueleto,ChEMBL
+Camomila,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Camomila,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Camomila,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Camomila,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Camomila,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Camomila,BETA-SITOSTEROL,KZJWDPNRJALLNS-VJSFXXLFSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,BETA-SITOSTEROL,KZJWDPNRJALLNS-VJSFXXLFSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,BETA-SITOSTEROL,KZJWDPNRJALLNS-VJSFXXLFSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,BETA-SITOSTEROL,KZJWDPNRJALLNS-VJSFXXLFSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,BETA-SITOSTEROL,KZJWDPNRJALLNS-VJSFXXLFSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,BETA-SITOSTEROL,KZJWDPNRJALLNS-VJSFXXLFSA-N,False,P-gp,substrato,inativo,,,0,1,1,exata,ChEMBL
+Camomila,CRDAMVZIKSXKFV-YFVJMOTDSA-N,CRDAMVZIKSXKFV-YFVJMOTDSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,CRDAMVZIKSXKFV-YFVJMOTDSA-N,CRDAMVZIKSXKFV-YFVJMOTDSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,Caryophyllene oxide,NVEQFIOZRFFVFW-RGCMKSIDSA-N,False,CYP2C19,inibicao,ativo,fraca,4.9,1,0,1,esqueleto,ChEMBL
+Camomila,Caryophyllene oxide,NVEQFIOZRFFVFW-RGCMKSIDSA-N,False,CYP2C9,inibicao,ativo,fraca,4.6,1,0,1,esqueleto,ChEMBL
+Camomila,Caryophyllene oxide,NVEQFIOZRFFVFW-RGCMKSIDSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Camomila,Caryophyllene oxide,NVEQFIOZRFFVFW-RGCMKSIDSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,ERIODICTYOL,SBHXYTNGIZCORC-ZDUSSCGKSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,ERIODICTYOL,SBHXYTNGIZCORC-ZDUSSCGKSA-N,False,CYP2C19,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,ERIODICTYOL,SBHXYTNGIZCORC-ZDUSSCGKSA-N,False,CYP2C9,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,ERIODICTYOL,SBHXYTNGIZCORC-ZDUSSCGKSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,ERIODICTYOL,SBHXYTNGIZCORC-ZDUSSCGKSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Camomila,ERIODICTYOL,SBHXYTNGIZCORC-ZDUSSCGKSA-N,False,CYP3A4,inibicao,ativo,fraca,4.4,1,0,1,esqueleto,ChEMBL
+Camomila,Esculetin,ILEDWLMCKZNDJK-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,Esculetin,ILEDWLMCKZNDJK-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,Esculetin,ILEDWLMCKZNDJK-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,Esculetin,ILEDWLMCKZNDJK-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,Esculetin,ILEDWLMCKZNDJK-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,Esculetin,ILEDWLMCKZNDJK-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Camomila,Estragole,ZFMSMUAANRJZFM-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,Estragole,ZFMSMUAANRJZFM-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP1A2,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Camomila,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2C19,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Camomila,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2C9,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Camomila,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2D6,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Camomila,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP3A4,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Camomila,Hyperoside,OVSQVDMCBVZWGM-DTGCRPNFSA-N,False,CYP2D6,inibicao,ativo,moderada,5.92,1,0,1,exata,ChEMBL
+Camomila,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,Neochlorogenic acid,CWVRJTMFETXNAD-NXLLHMKUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,Neochlorogenic acid,CWVRJTMFETXNAD-NXLLHMKUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,Neochlorogenic acid,CWVRJTMFETXNAD-NXLLHMKUSA-N,False,CYP2C9,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Camomila,Neochlorogenic acid,CWVRJTMFETXNAD-NXLLHMKUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,Neochlorogenic acid,CWVRJTMFETXNAD-NXLLHMKUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,OLEANOLIC ACID,MIJYXULNPSFWEK-GTOFXWBISA-N,False,P-gp,inibicao,indeterminado,,,0,0,4,exata,ChEMBL
+Camomila,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Camomila,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Camomila,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,RUTIN,IKGXIBQEEMLURG-NVPNHPEKSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Camomila,RUTIN,IKGXIBQEEMLURG-NVPNHPEKSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,UNII-1IA46M0D13,IPMYMEWFZKHGAX-ZKSIBHASSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Camomila,UNII-1IA46M0D13,IPMYMEWFZKHGAX-ZKSIBHASSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,1,esqueleto,ChEMBL
+Camomila,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Camomila,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Camomila,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Camomila,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Camomila,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Camomila,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Camomila,methyl salicylate,OSWPMRLSEDHDFF-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,methyl salicylate,OSWPMRLSEDHDFF-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,methyl salicylate,OSWPMRLSEDHDFF-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,methyl salicylate,OSWPMRLSEDHDFF-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,methyl salicylate,OSWPMRLSEDHDFF-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.5,3,3,6,exata,ChEMBL
+Camomila,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,fraca,4.8,2,1,4,exata,ChEMBL
+Camomila,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.1,2,2,6,exata,ChEMBL
+Camomila,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,3,6,exata,ChEMBL
+Camomila,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Camomila,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.68,3,2,5,exata,ChEMBL
+Camomila,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,3,1,5,exata,ChEMBL
+Camomila,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.15,1,0,1,exata,ChEMBL
+Camomila,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Camomila,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Camomila,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,P-gp,substrato,inativo,,,0,1,1,exata,ChEMBL
+Camomila,scopoletin,RODXRVNMMDRFIK-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,scopoletin,RODXRVNMMDRFIK-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,scopoletin,RODXRVNMMDRFIK-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,scopoletin,RODXRVNMMDRFIK-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Camomila,scopoletin,RODXRVNMMDRFIK-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP1A2,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP2C19,inibicao,ativo,moderada,5.6,1,0,1,esqueleto,ChEMBL
+Cúrcuma,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP2C9,inibicao,ativo,moderada,5.37,1,0,1,exata,ChEMBL
+Cúrcuma,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP3A4,ativacao,inativo,,,0,3,3,exata,ChEMBL
+Cúrcuma,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP3A4,inibicao,ativo,fraca,4.9,1,1,4,exata,ChEMBL
+Cúrcuma,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,P-gp,inibicao,ativo,forte,6.0,4,1,6,exata,ChEMBL
+Cúrcuma,demethoxycurcumin,HJTVQHVGMGKONQ-LUZURFALSA-N,True,P-gp,inibicao,ativo,moderada,5.81,2,0,2,exata,ChEMBL
+Cúrcuma,(-)-menthofuran,YGWKXXYGDYYFJU-ZETCQYMHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,(-)-menthofuran,YGWKXXYGDYYFJU-ZETCQYMHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,(-)-menthofuran,YGWKXXYGDYYFJU-ZETCQYMHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,(-)-menthofuran,YGWKXXYGDYYFJU-ZETCQYMHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,(-)-menthofuran,YGWKXXYGDYYFJU-ZETCQYMHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Cúrcuma,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,CYP1A2,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,CYP2C19,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,CYP2C9,inibicao,inativo,,,0,2,5,exata,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,CYP3A4,inducao,ativo,,,1,0,2,exata,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,CYP3A4,inibicao,inativo,,,0,2,5,exata,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,P-gp,inibicao,ativo,moderada,5.59,2,3,12,exata,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,P-gp,outro,indeterminado,,,0,0,3,exata,ChEMBL
+Cúrcuma,33069-62-4,RCINICONZNJXQF-MZXODVADSA-N,False,P-gp,substrato,ativo,forte,7.85,12,1,18,exata,ChEMBL
+Cúrcuma,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP1A2,inibicao,ativo,moderada,5.1,1,0,1,exata,ChEMBL
+Cúrcuma,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Cúrcuma,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Cúrcuma,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Cúrcuma,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,CHLOROTHALONIL,CRQQGFGUEAVUIL-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,CHLOROTHALONIL,CRQQGFGUEAVUIL-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.5,1,0,1,exata,ChEMBL
+Cúrcuma,CRDAMVZIKSXKFV-YFVJMOTDSA-N,CRDAMVZIKSXKFV-YFVJMOTDSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,CRDAMVZIKSXKFV-YFVJMOTDSA-N,CRDAMVZIKSXKFV-YFVJMOTDSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP1A2,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Cúrcuma,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP2C19,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Cúrcuma,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP2C9,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Cúrcuma,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP2D6,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Cúrcuma,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP3A4,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Cúrcuma,Caryophylene oxide,NVEQFIOZRFFVFW-SFDCQRBFSA-N,False,CYP2C19,inibicao,ativo,fraca,4.9,1,0,1,exata,ChEMBL
+Cúrcuma,Caryophylene oxide,NVEQFIOZRFFVFW-SFDCQRBFSA-N,False,CYP2C9,inibicao,ativo,fraca,4.6,1,0,1,exata,ChEMBL
+Cúrcuma,Caryophylene oxide,NVEQFIOZRFFVFW-SFDCQRBFSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Cúrcuma,Caryophylene oxide,NVEQFIOZRFFVFW-SFDCQRBFSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,DTOSIQBPPRVQHS-PDBXOOCHSA-N,DTOSIQBPPRVQHS-PDBXOOCHSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,DTOSIQBPPRVQHS-PDBXOOCHSA-N,DTOSIQBPPRVQHS-PDBXOOCHSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,1,exata,ChEMBL
+Cúrcuma,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP1A2,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Cúrcuma,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2C19,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Cúrcuma,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2C9,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Cúrcuma,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2D6,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Cúrcuma,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP3A4,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Cúrcuma,GIHNTRQPEMKFKO-SKTNYSRSSA-N,GIHNTRQPEMKFKO-SKTNYSRSSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,GIHNTRQPEMKFKO-SKTNYSRSSA-N,GIHNTRQPEMKFKO-SKTNYSRSSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,ISIMGBQRFXXNON-VHOZIDCHSA-N,ISIMGBQRFXXNON-VHOZIDCHSA-N,False,CYP1A2,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Cúrcuma,ISIMGBQRFXXNON-VHOZIDCHSA-N,ISIMGBQRFXXNON-VHOZIDCHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,ISIMGBQRFXXNON-VHOZIDCHSA-N,ISIMGBQRFXXNON-VHOZIDCHSA-N,False,CYP2D6,inibicao,ativo,forte,6.22,1,0,2,esqueleto,ChEMBL
+Cúrcuma,ISIMGBQRFXXNON-VHOZIDCHSA-N,ISIMGBQRFXXNON-VHOZIDCHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,L-Octanoylcarnitine,CXTATJFJDMJMIY-CYBMUJFWSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,L-Octanoylcarnitine,CXTATJFJDMJMIY-CYBMUJFWSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,L-Octanoylcarnitine,CXTATJFJDMJMIY-CYBMUJFWSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,L-Octanoylcarnitine,CXTATJFJDMJMIY-CYBMUJFWSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,L-Octanoylcarnitine,CXTATJFJDMJMIY-CYBMUJFWSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,LEVOMENOL,RGZSQWQPBWRIAQ-CABCVRRESA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Cúrcuma,LEVOMENOL,RGZSQWQPBWRIAQ-CABCVRRESA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Cúrcuma,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Cúrcuma,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,RUVINXPYWBROJD-ARJAWSKDSA-N,RUVINXPYWBROJD-ARJAWSKDSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,RUVINXPYWBROJD-ARJAWSKDSA-N,RUVINXPYWBROJD-ARJAWSKDSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,Stigmast-4-en-3-one,RUVUHIUYGJBLGI-XJZKHKOHSA-N,False,P-gp,inibicao,indeterminado,,,0,0,4,exata,ChEMBL
+Cúrcuma,YZXBAPSDXZZRGB-DOFZRALJSA-N,YZXBAPSDXZZRGB-DOFZRALJSA-N,False,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,YZXBAPSDXZZRGB-DOFZRALJSA-N,YZXBAPSDXZZRGB-DOFZRALJSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Cúrcuma,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,beta-alanine,UCMIRNVEIXFBKS-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,beta-alanine,UCMIRNVEIXFBKS-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,beta-alanine,UCMIRNVEIXFBKS-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,beta-alanine,UCMIRNVEIXFBKS-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,beta-alanine,UCMIRNVEIXFBKS-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Cúrcuma,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Cúrcuma,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Cúrcuma,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Cúrcuma,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Cúrcuma,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP1A2,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Cúrcuma,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2C19,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Cúrcuma,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2C9,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Cúrcuma,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2D6,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Cúrcuma,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Cúrcuma,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,inducao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,inibicao,ativo,fraca,4.75,5,2,10,exata,ChEMBL
+Cúrcuma,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,substrato,ativo,,,1,0,1,exata,ChEMBL
+Cúrcuma,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Cúrcuma,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Cúrcuma,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,linoleic acid,OYHQOLUKZRVURQ-HZJYTTRNSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,linoleic acid,OYHQOLUKZRVURQ-HZJYTTRNSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,moderada,5.7,2,0,2,exata,ChEMBL
+Cúrcuma,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,moderada,5.0,1,0,5,exata,ChEMBL
+Cúrcuma,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.0,5,0,5,exata,ChEMBL
+Cúrcuma,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Cúrcuma,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,3,3,exata,ChEMBL
+Cúrcuma,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,5,exata,ChEMBL
+Cúrcuma,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Cúrcuma,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Cúrcuma,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Cúrcuma,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Cúrcuma,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,5,exata,ChEMBL
+Cúrcuma,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,palmitic acid,IPCSVZSSVZVIGE-UHFFFAOYSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,phenylmethan(^{18}O)ol,WVDDGKGOMKODPV-PPJXEINESA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,phenylmethan(^{18}O)ol,WVDDGKGOMKODPV-PPJXEINESA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,phenylmethan(^{18}O)ol,WVDDGKGOMKODPV-PPJXEINESA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,phenylmethan(^{18}O)ol,WVDDGKGOMKODPV-PPJXEINESA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,phenylmethan(^{18}O)ol,WVDDGKGOMKODPV-PPJXEINESA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Cúrcuma,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Cúrcuma,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.5,3,3,6,exata,ChEMBL
+Cúrcuma,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,fraca,4.8,2,1,4,exata,ChEMBL
+Cúrcuma,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.1,2,2,6,exata,ChEMBL
+Cúrcuma,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,3,6,exata,ChEMBL
+Cúrcuma,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Cúrcuma,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.68,3,2,5,exata,ChEMBL
+Cúrcuma,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,3,1,5,exata,ChEMBL
+Cúrcuma,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.15,1,0,1,exata,ChEMBL
+Cúrcuma,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Cúrcuma,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Cúrcuma,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,P-gp,substrato,inativo,,,0,1,1,exata,ChEMBL
+Garra-do-diabo,Prestwick2_000988,KVRQGMOSZKPBNS-FOSABISFSA-N,True,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Garra-do-diabo,Prestwick2_000988,KVRQGMOSZKPBNS-FOSABISFSA-N,True,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Garra-do-diabo,Prestwick2_000988,KVRQGMOSZKPBNS-FOSABISFSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Garra-do-diabo,Prestwick2_000988,KVRQGMOSZKPBNS-FOSABISFSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Garra-do-diabo,Prestwick2_000988,KVRQGMOSZKPBNS-FOSABISFSA-N,True,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Garra-do-diabo,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Garra-do-diabo,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Garra-do-diabo,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Garra-do-diabo,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Garra-do-diabo,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Garra-do-diabo,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Garra-do-diabo,estradiol,VOXZDWNPVJITMN-ZBRFXRBCSA-N,False,CYP1A2,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Garra-do-diabo,estradiol,VOXZDWNPVJITMN-ZBRFXRBCSA-N,False,CYP2C19,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Garra-do-diabo,estradiol,VOXZDWNPVJITMN-ZBRFXRBCSA-N,False,CYP2C9,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Garra-do-diabo,estradiol,VOXZDWNPVJITMN-ZBRFXRBCSA-N,False,CYP2D6,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Garra-do-diabo,estradiol,VOXZDWNPVJITMN-ZBRFXRBCSA-N,False,CYP3A4,ativacao,indeterminado,,,0,0,1,exata,ChEMBL
+Garra-do-diabo,estradiol,VOXZDWNPVJITMN-ZBRFXRBCSA-N,False,CYP3A4,inibicao,inativo,,,0,3,5,exata,ChEMBL
+Garra-do-diabo,estradiol,VOXZDWNPVJITMN-ZBRFXRBCSA-N,False,P-gp,substrato,ativo,,,1,1,2,exata,ChEMBL
+Gengibre,(S)-6-gingerol,LPRPIMHDDACJHT-AWEZNQCLSA-N,True,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,(S)-6-gingerol,LPRPIMHDDACJHT-AWEZNQCLSA-N,True,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,10-Gingerol,AIULWNKTYPZYAN-SFHVURJKSA-N,True,CYP2C19,inibicao,ativo,moderada,5.18,1,1,2,exata,ChEMBL
+Gengibre,10-Gingerol,AIULWNKTYPZYAN-SFHVURJKSA-N,True,CYP2C9,inibicao,ativo,moderada,5.12,1,1,2,exata,ChEMBL
+Gengibre,10-Gingerol,AIULWNKTYPZYAN-SFHVURJKSA-N,True,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,10-Gingerol,AIULWNKTYPZYAN-SFHVURJKSA-N,True,CYP3A4,inibicao,ativo,moderada,5.15,1,3,4,exata,ChEMBL
+Gengibre,10-Gingerol,AIULWNKTYPZYAN-SFHVURJKSA-N,True,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,6-Gingerol,NLDDIKRKFXEWBK-AWEZNQCLSA-N,True,CYP1A2,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,6-Gingerol,NLDDIKRKFXEWBK-AWEZNQCLSA-N,True,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,6-Gingerol,NLDDIKRKFXEWBK-AWEZNQCLSA-N,True,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,6-Gingerol,NLDDIKRKFXEWBK-AWEZNQCLSA-N,True,CYP3A4,inibicao,inativo,,,0,5,5,exata,ChEMBL
+Gengibre,6-Gingerol,NLDDIKRKFXEWBK-AWEZNQCLSA-N,True,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,8-Gingerol,BCIWKKMTBRYQJU-INIZCTEOSA-N,True,CYP1A2,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,8-Gingerol,BCIWKKMTBRYQJU-INIZCTEOSA-N,True,CYP2C19,inibicao,ativo,moderada,5.09,1,1,2,exata,ChEMBL
+Gengibre,8-Gingerol,BCIWKKMTBRYQJU-INIZCTEOSA-N,True,CYP2C9,inibicao,ativo,moderada,5.17,2,0,2,exata,ChEMBL
+Gengibre,8-Gingerol,BCIWKKMTBRYQJU-INIZCTEOSA-N,True,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,8-Gingerol,BCIWKKMTBRYQJU-INIZCTEOSA-N,True,CYP3A4,inibicao,ativo,moderada,5.09,2,2,4,exata,ChEMBL
+Gengibre,8-Gingerol,BCIWKKMTBRYQJU-INIZCTEOSA-N,True,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP1A2,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP2C19,inibicao,ativo,moderada,5.6,1,0,1,esqueleto,ChEMBL
+Gengibre,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP2C9,inibicao,ativo,moderada,5.37,1,0,1,exata,ChEMBL
+Gengibre,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP3A4,ativacao,inativo,,,0,3,3,exata,ChEMBL
+Gengibre,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,CYP3A4,inibicao,ativo,fraca,4.9,1,1,4,exata,ChEMBL
+Gengibre,curcumin,VFLDPWHFBUODDF-FCXRPNKRSA-N,True,P-gp,inibicao,ativo,forte,6.0,4,1,6,exata,ChEMBL
+Gengibre,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Gengibre,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Gengibre,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Gengibre,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Gengibre,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,(+)-Epicatechin,PFTAWBLQPZVEMU-ZFWWWQNUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,4,esqueleto,ChEMBL
+Gengibre,"(1S,3R,4E,7E,11R)-3-hydroxy-1,5,9,9-tetramethyl-12-oxabicyclo[9.1.0]dodeca-4,7-dien-6-one",RTKZIRJGSBHFAV-BKHUMSDISA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"(1S,3R,4E,7E,11R)-3-hydroxy-1,5,9,9-tetramethyl-12-oxabicyclo[9.1.0]dodeca-4,7-dien-6-one",RTKZIRJGSBHFAV-BKHUMSDISA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"(2E,4R,6E,10E)-4-hydroxy-2,6,9,9-tetramethylcycloundeca-2,6,10-trien-1-one",NBVYFPSAUFQMAK-XVCAIJIUSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"(2E,4R,6E,10E)-4-hydroxy-2,6,9,9-tetramethylcycloundeca-2,6,10-trien-1-one",NBVYFPSAUFQMAK-XVCAIJIUSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"(2S,3R)-3,5,7-trihydroxy-2-(4-hydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-4-one",PADQINQHPQKXNL-GJZGRUSLSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP1A2,inibicao,ativo,moderada,5.5,1,1,2,esqueleto,ChEMBL
+Gengibre,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP2C19,inibicao,ativo,moderada,5.1,1,0,3,esqueleto,ChEMBL
+Gengibre,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Gengibre,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP3A4,ativacao,inativo,,,0,3,3,esqueleto,ChEMBL
+Gengibre,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,CYP3A4,inibicao,ativo,moderada,5.3,4,0,4,esqueleto,ChEMBL
+Gengibre,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,P-gp,inibicao,ativo,,,2,0,4,esqueleto,ChEMBL
+Gengibre,(R)-naringenin,FTVWIRXFELQLPI-CYBMUJFWSA-N,False,P-gp,substrato,ativo,,,1,0,1,esqueleto,ChEMBL
+Gengibre,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Gengibre,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Gengibre,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Gengibre,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Gengibre,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Gengibre,"4',5,7-Trimethoxyflavone",ZXJJBDHPUHUUHD-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,moderada,5.85,1,0,1,exata,ChEMBL
+Gengibre,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP1A2,inibicao,ativo,moderada,5.1,1,0,1,exata,ChEMBL
+Gengibre,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Gengibre,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Gengibre,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Gengibre,"5,7-dihydroxy-2-(4-hydroxyphenyl)-3-[(2~{S},3~{S},4~{R},5~{R},6~{S})-3,4,5-trihydroxy-6-methyl-tetrahydropyran-2-yl]oxy-chromen-4-one",SOSLMHZOJATCCP-PADPQNGGSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,"5,7-dihydroxy-2-(4-hydroxyphenyl)-3-[(2~{S},3~{S},4~{R},5~{R},6~{S})-3,4,5-trihydroxy-6-methyl-tetrahydropyran-2-yl]oxy-chromen-4-one",SOSLMHZOJATCCP-PADPQNGGSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,"5-allyl-1,3-benzodioxole",ZMQAAUBTXCXRIC-LUBZLUIDSA-N,False,CYP1A2,inibicao,ativo,moderada,5.0,2,0,2,esqueleto,ChEMBL
+Gengibre,"5-allyl-1,3-benzodioxole",ZMQAAUBTXCXRIC-LUBZLUIDSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Gengibre,"5-allyl-1,3-benzodioxole",ZMQAAUBTXCXRIC-LUBZLUIDSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Gengibre,"5-allyl-1,3-benzodioxole",ZMQAAUBTXCXRIC-LUBZLUIDSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Gengibre,"5-allyl-1,3-benzodioxole",ZMQAAUBTXCXRIC-LUBZLUIDSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,"5-allyl-1,3-benzodioxole",ZMQAAUBTXCXRIC-LUBZLUIDSA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,esqueleto,ChEMBL
+Gengibre,77307-50-7,SXOZSDJHGMAEGZ-IGKKHSBFSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,77307-50-7,SXOZSDJHGMAEGZ-IGKKHSBFSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Gengibre,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Gengibre,BJIOGJUNALELMI-ARJAWSKDSA-N,BJIOGJUNALELMI-ARJAWSKDSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,BJIOGJUNALELMI-ARJAWSKDSA-N,BJIOGJUNALELMI-ARJAWSKDSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,BJIOGJUNALELMI-ARJAWSKDSA-N,BJIOGJUNALELMI-ARJAWSKDSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,BJIOGJUNALELMI-ARJAWSKDSA-N,BJIOGJUNALELMI-ARJAWSKDSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,BJIOGJUNALELMI-ARJAWSKDSA-N,BJIOGJUNALELMI-ARJAWSKDSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,CRDAMVZIKSXKFV-YFVJMOTDSA-N,CRDAMVZIKSXKFV-YFVJMOTDSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,CRDAMVZIKSXKFV-YFVJMOTDSA-N,CRDAMVZIKSXKFV-YFVJMOTDSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP1A2,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Gengibre,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP2C19,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Gengibre,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP2C9,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Gengibre,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP2D6,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Gengibre,"Camphor, (1S,4S)-(-)-",DSSYKIVIOFKYAU-OMNKOJBGSA-N,False,CYP3A4,inibicao,inativo,,,0,4,4,esqueleto,ChEMBL
+Gengibre,Caryophylene oxide,NVEQFIOZRFFVFW-SFDCQRBFSA-N,False,CYP2C19,inibicao,ativo,fraca,4.9,1,0,1,exata,ChEMBL
+Gengibre,Caryophylene oxide,NVEQFIOZRFFVFW-SFDCQRBFSA-N,False,CYP2C9,inibicao,ativo,fraca,4.6,1,0,1,exata,ChEMBL
+Gengibre,Caryophylene oxide,NVEQFIOZRFFVFW-SFDCQRBFSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,Caryophylene oxide,NVEQFIOZRFFVFW-SFDCQRBFSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,DTOSIQBPPRVQHS-PDBXOOCHSA-N,DTOSIQBPPRVQHS-PDBXOOCHSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,DTOSIQBPPRVQHS-PDBXOOCHSA-N,DTOSIQBPPRVQHS-PDBXOOCHSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,1,exata,ChEMBL
+Gengibre,Dehydroglaucine,RZUHGAKUNBFQJS-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,forte,7.3,1,0,1,exata,ChEMBL
+Gengibre,Dehydroglaucine,RZUHGAKUNBFQJS-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,forte,6.1,1,0,1,exata,ChEMBL
+Gengibre,Dehydroglaucine,RZUHGAKUNBFQJS-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,moderada,5.4,1,0,1,exata,ChEMBL
+Gengibre,Dehydroglaucine,RZUHGAKUNBFQJS-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Dehydroglaucine,RZUHGAKUNBFQJS-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.4,1,0,1,exata,ChEMBL
+Gengibre,Ermanin,RJCJVIFSIXKSAH-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Ermanin,RJCJVIFSIXKSAH-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,FADFGCOCHHNRHF-VAWYXSNFSA-N,FADFGCOCHHNRHF-VAWYXSNFSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FATBGEAMYMYZAF-KTKRTIGZSA-N,FATBGEAMYMYZAF-KTKRTIGZSA-N,False,CYP1A2,inibicao,ativo,moderada,5.2,1,0,1,exata,ChEMBL
+Gengibre,FATBGEAMYMYZAF-KTKRTIGZSA-N,FATBGEAMYMYZAF-KTKRTIGZSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Gengibre,FATBGEAMYMYZAF-KTKRTIGZSA-N,FATBGEAMYMYZAF-KTKRTIGZSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FATBGEAMYMYZAF-KTKRTIGZSA-N,FATBGEAMYMYZAF-KTKRTIGZSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FATBGEAMYMYZAF-KTKRTIGZSA-N,FATBGEAMYMYZAF-KTKRTIGZSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,FATBGEAMYMYZAF-KTKRTIGZSA-N,FATBGEAMYMYZAF-KTKRTIGZSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Gengibre,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,FZWNRFAUDBWSKY-YUKZMVOFSA-N,FZWNRFAUDBWSKY-YUKZMVOFSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,Farnesiferol A,FCWYNTDTQPCVPG-WTMJVXIESA-N,False,CYP2C19,inibicao,ativo,moderada,5.2,1,0,1,esqueleto,ChEMBL
+Gengibre,Farnesiferol A,FCWYNTDTQPCVPG-WTMJVXIESA-N,False,CYP2C9,inibicao,ativo,moderada,5.4,1,0,1,esqueleto,ChEMBL
+Gengibre,Fisetin,XHEFDIBZLJXQHF-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,fraca,4.7,1,0,2,exata,ChEMBL
+Gengibre,Fisetin,XHEFDIBZLJXQHF-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,Fisetin,XHEFDIBZLJXQHF-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.4,1,0,2,exata,ChEMBL
+Gengibre,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP1A2,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Gengibre,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2C19,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Gengibre,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2C9,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Gengibre,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP2D6,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Gengibre,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,GERANIOL,GLZPCOQZEFWAFX-JXMROGBWSA-N,False,CYP3A4,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,GIHNTRQPEMKFKO-RTTFEGKLSA-N,GIHNTRQPEMKFKO-RTTFEGKLSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,GIHNTRQPEMKFKO-RTTFEGKLSA-N,GIHNTRQPEMKFKO-RTTFEGKLSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.2,2,0,2,exata,ChEMBL
+Gengibre,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Gengibre,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Gengibre,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,moderada,5.0,2,1,6,exata,ChEMBL
+Gengibre,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.4,2,0,3,exata,ChEMBL
+Gengibre,Homovanillic acid,QRMZSPFSDQBLIX-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Homovanillic acid,QRMZSPFSDQBLIX-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Homovanillic acid,QRMZSPFSDQBLIX-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Homovanillic acid,QRMZSPFSDQBLIX-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Homovanillic acid,QRMZSPFSDQBLIX-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Isoginkgetin,HUOOMAOYXQFIDQ-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Isoginkgetin,HUOOMAOYXQFIDQ-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Isokaempferide,VJJZJBUCDWKPLC-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,moderada,5.33,1,0,1,exata,ChEMBL
+Gengibre,Isokaempferide,VJJZJBUCDWKPLC-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS-HWKANZROSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,L-Octanoylcarnitine,CXTATJFJDMJMIY-CYBMUJFWSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,L-Octanoylcarnitine,CXTATJFJDMJMIY-CYBMUJFWSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,L-Octanoylcarnitine,CXTATJFJDMJMIY-CYBMUJFWSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,L-Octanoylcarnitine,CXTATJFJDMJMIY-CYBMUJFWSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,L-Octanoylcarnitine,CXTATJFJDMJMIY-CYBMUJFWSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-asparagine,DCXYFEDJOCDNAF-REOHCLBHSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,L-aspartic acid,CKLJMWTZIZZHCS-REOHCLBHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-aspartic acid,CKLJMWTZIZZHCS-REOHCLBHSA-N,False,CYP2C19,inibicao,inativo,,,0,1,2,exata,ChEMBL
+Gengibre,L-aspartic acid,CKLJMWTZIZZHCS-REOHCLBHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-aspartic acid,CKLJMWTZIZZHCS-REOHCLBHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-aspartic acid,CKLJMWTZIZZHCS-REOHCLBHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP3A4,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-serine,MTCFGRXMJLQNBG-REOHCLBHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Gengibre,L-serine,MTCFGRXMJLQNBG-REOHCLBHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Gengibre,L-serine,MTCFGRXMJLQNBG-REOHCLBHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Gengibre,L-serine,MTCFGRXMJLQNBG-REOHCLBHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Gengibre,L-serine,MTCFGRXMJLQNBG-REOHCLBHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Gengibre,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Gengibre,LEVOMENOL,RGZSQWQPBWRIAQ-CABCVRRESA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,LEVOMENOL,RGZSQWQPBWRIAQ-CABCVRRESA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,LGZSMXJRMTYABD-MDZDMXLPSA-N,LGZSMXJRMTYABD-MDZDMXLPSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,moderada,5.3,1,3,4,exata,ChEMBL
+Gengibre,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Gengibre,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Gengibre,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.7,1,2,4,exata,ChEMBL
+Gengibre,Melatonin,DRLFMBDRBRZALE-UHFFFAOYSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,OQWKEEOHDMUXEO-BQYQJAHWSA-N,OQWKEEOHDMUXEO-BQYQJAHWSA-N,False,CYP1A2,inibicao,ativo,moderada,5.6,1,1,2,exata,ChEMBL
+Gengibre,OQWKEEOHDMUXEO-BQYQJAHWSA-N,OQWKEEOHDMUXEO-BQYQJAHWSA-N,False,CYP2C19,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,OQWKEEOHDMUXEO-BQYQJAHWSA-N,OQWKEEOHDMUXEO-BQYQJAHWSA-N,False,CYP2C9,inibicao,ativo,moderada,5.48,1,1,2,exata,ChEMBL
+Gengibre,OQWKEEOHDMUXEO-BQYQJAHWSA-N,OQWKEEOHDMUXEO-BQYQJAHWSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,OQWKEEOHDMUXEO-BQYQJAHWSA-N,OQWKEEOHDMUXEO-BQYQJAHWSA-N,False,CYP3A4,inibicao,ativo,moderada,5.4,2,2,4,exata,ChEMBL
+Gengibre,OQWKEEOHDMUXEO-BQYQJAHWSA-N,OQWKEEOHDMUXEO-BQYQJAHWSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,PA-1329-E2,GFFGJBXGBJISGV-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,PSQYTAPXSHCGMF-BQYQJAHWSA-N,PSQYTAPXSHCGMF-BQYQJAHWSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,Paradol,CZNLTCTYLMYLHL-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,moderada,5.15,2,2,16,exata,ChEMBL
+Gengibre,Paradol,CZNLTCTYLMYLHL-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,moderada,5.44,3,1,16,exata,ChEMBL
+Gengibre,Paradol,CZNLTCTYLMYLHL-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.0,2,2,16,exata,ChEMBL
+Gengibre,Paradol,CZNLTCTYLMYLHL-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,14,exata,ChEMBL
+Gengibre,Paradol,CZNLTCTYLMYLHL-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,4,28,exata,ChEMBL
+Gengibre,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Gengibre,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Quercetin pentamethyl ether,ALGDHWVALRSLBT-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Quercetin pentamethyl ether,ALGDHWVALRSLBT-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.9,1,0,1,exata,ChEMBL
+Gengibre,Quercetin pentamethyl ether,ALGDHWVALRSLBT-UHFFFAOYSA-N,False,P-gp,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,RUTIN,IKGXIBQEEMLURG-NVPNHPEKSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,RUTIN,IKGXIBQEEMLURG-NVPNHPEKSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Retusin,HHGPYJLEJGNWJA-UHFFFAOYSA-N,False,P-gp,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,SOVNCTNQAWWYAQ-OQLLNIDSSA-N,SOVNCTNQAWWYAQ-OQLLNIDSSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,SOVNCTNQAWWYAQ-OQLLNIDSSA-N,SOVNCTNQAWWYAQ-OQLLNIDSSA-N,False,CYP3A4,inibicao,ativo,moderada,5.9,1,0,1,exata,ChEMBL
+Gengibre,Secoisolariciresinol,PUETUDUXMCLALY-HOTGVXAUSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Secoisolariciresinol,PUETUDUXMCLALY-HOTGVXAUSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Stigmast-5-en-3-ol,KZJWDPNRJALLNS-BWRKXDIJSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,Stigmast-5-en-3-ol,KZJWDPNRJALLNS-BWRKXDIJSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,Stigmast-5-en-3-ol,KZJWDPNRJALLNS-BWRKXDIJSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,Stigmast-5-en-3-ol,KZJWDPNRJALLNS-BWRKXDIJSA-N,False,CYP2D6,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Gengibre,Stigmast-5-en-3-ol,KZJWDPNRJALLNS-BWRKXDIJSA-N,False,CYP3A4,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Gengibre,Stigmast-5-en-3-ol,KZJWDPNRJALLNS-BWRKXDIJSA-N,False,P-gp,substrato,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,TANNIC ACID,LRBQNJMCXXYXIU-PPKXGCFTSA-N,False,CYP1A2,inibicao,ativo,forte,6.04,2,0,2,exata,ChEMBL
+Gengibre,TANNIC ACID,LRBQNJMCXXYXIU-PPKXGCFTSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,TANNIC ACID,LRBQNJMCXXYXIU-PPKXGCFTSA-N,False,CYP2C9,inibicao,ativo,moderada,5.34,2,0,2,exata,ChEMBL
+Gengibre,TANNIC ACID,LRBQNJMCXXYXIU-PPKXGCFTSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,TANNIC ACID,LRBQNJMCXXYXIU-PPKXGCFTSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,Tectochrysin,IRZVHDLBAYNPCT-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,forte,6.4,1,0,1,exata,ChEMBL
+Gengibre,Tectochrysin,IRZVHDLBAYNPCT-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,Tectochrysin,IRZVHDLBAYNPCT-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,Tectochrysin,IRZVHDLBAYNPCT-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.0,1,0,1,exata,ChEMBL
+Gengibre,Tectochrysin,IRZVHDLBAYNPCT-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.2,1,0,1,exata,ChEMBL
+Gengibre,Zerumbone epoxide,UXYYOHOTPOQJPD-BVYZMQRMSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,Zerumbone epoxide,UXYYOHOTPOQJPD-BVYZMQRMSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,"[(2S,3R,4R,5R,6S)-2-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-4,5-dihydroxy-6-methyloxan-3-yl] acetate",QGPZJURATJCKHO-KNRSITRYSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3R,4R,5R,6S)-2-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-4,5-dihydroxy-6-methyloxan-3-yl] acetate",QGPZJURATJCKHO-KNRSITRYSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3R,4R,5R,6S)-5-acetyloxy-6-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-4-hydroxy-2-methyloxan-3-yl] acetate",VWQNZPASHLNLEM-WKSZPJAWSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3R,4R,5R,6S)-5-acetyloxy-6-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-4-hydroxy-2-methyloxan-3-yl] acetate",VWQNZPASHLNLEM-WKSZPJAWSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3R,4R,5S,6S)-2-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-3,5-dihydroxy-6-methyloxan-4-yl] acetate",APRVHMRKRPHQLM-NDUFOHEISA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3R,4R,5S,6S)-2-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-3,5-dihydroxy-6-methyloxan-4-yl] acetate",APRVHMRKRPHQLM-NDUFOHEISA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3R,4R,5S,6S)-3-acetyloxy-2-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-5-hydroxy-6-methyloxan-4-yl] acetate",BHCRVKVXJRBQJR-YPDHAKIYSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3R,4R,5S,6S)-3-acetyloxy-2-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-5-hydroxy-6-methyloxan-4-yl] acetate",BHCRVKVXJRBQJR-YPDHAKIYSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3R,4S,5R,6S)-6-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-4,5-dihydroxy-2-methyloxan-3-yl] acetate",AGQLGMXLTFMOAP-OEHKQELHSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3R,4S,5R,6S)-6-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-4,5-dihydroxy-2-methyloxan-3-yl] acetate",AGQLGMXLTFMOAP-OEHKQELHSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3S,4R,5R,6S)-4,5-diacetyloxy-6-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-2-methyloxan-3-yl] acetate",OFWDHNGVKNRLFY-LHZKXVGGSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,"[(2S,3S,4R,5R,6S)-4,5-diacetyloxy-6-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-2-methyloxan-3-yl] acetate",OFWDHNGVKNRLFY-LHZKXVGGSA-N,False,CYP3A4,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,alpha-Tocopherol,GVJHHUAWPYXKBD-IEOSBIPESA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,citropten,NXJCRELRQHZBQA-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,citropten,NXJCRELRQHZBQA-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.5,1,0,1,exata,ChEMBL
+Gengibre,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP1A2,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Gengibre,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2C19,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Gengibre,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2C9,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Gengibre,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2D6,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Gengibre,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,inducao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,inibicao,ativo,fraca,4.75,5,2,10,exata,ChEMBL
+Gengibre,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,substrato,ativo,,,1,0,1,exata,ChEMBL
+Gengibre,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Gengibre,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Gengibre,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,5,exata,ChEMBL
+Gengibre,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,7.1,2,1,3,exata,ChEMBL
+Gengibre,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Gengibre,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.22,2,0,4,exata,ChEMBL
+Gengibre,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,moderada,5.0,3,0,3,exata,ChEMBL
+Gengibre,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,3,exata,ChEMBL
+Gengibre,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.17,1,0,1,exata,ChEMBL
+Gengibre,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,linoleic acid,OYHQOLUKZRVURQ-IXWMQOLASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,linoleic acid,OYHQOLUKZRVURQ-IXWMQOLASA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Gengibre,morin,YXOLAZRVSSWPPT-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.0,1,0,1,exata,ChEMBL
+Gengibre,morin,YXOLAZRVSSWPPT-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Gengibre,morin,YXOLAZRVSSWPPT-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,morin,YXOLAZRVSSWPPT-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,1,0,2,exata,ChEMBL
+Gengibre,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Gengibre,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,5,exata,ChEMBL
+Gengibre,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,palmitic acid,IPCSVZSSVZVIGE-UHFFFAOYSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,phenol,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Gengibre,rac-Cubebin,DIYWRNLYKJKHAM-VKWYCSODSA-N,False,CYP2D6,inibicao,inativo,,,0,1,1,esqueleto,ChEMBL
+Gengibre,rac-Cubebin,DIYWRNLYKJKHAM-VKWYCSODSA-N,False,CYP3A4,inibicao,ativo,moderada,5.04,1,0,1,esqueleto,ChEMBL
+Gengibre,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Gengibre,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,P-gp,substrato,inativo,,,0,1,1,exata,ChEMBL
+Guaraná,"3,7-di((113C)methyl)purine-2,6-dione",YAPQBXQYLJRXSA-ZDOIIHCHSA-N,True,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Guaraná,"3,7-di((113C)methyl)purine-2,6-dione",YAPQBXQYLJRXSA-ZDOIIHCHSA-N,True,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Guaraná,"3,7-di((113C)methyl)purine-2,6-dione",YAPQBXQYLJRXSA-ZDOIIHCHSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Guaraná,"3,7-di((113C)methyl)purine-2,6-dione",YAPQBXQYLJRXSA-ZDOIIHCHSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Guaraná,"3,7-di((113C)methyl)purine-2,6-dione",YAPQBXQYLJRXSA-ZDOIIHCHSA-N,True,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Guaraná,"3,7-di((113C)methyl)purine-2,6-dione",YAPQBXQYLJRXSA-ZDOIIHCHSA-N,True,CYP3A4,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Guaraná,caffeine,RYYVLZVUVIJVGH-UHFFFAOYSA-N,True,CYP1A2,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Guaraná,caffeine,RYYVLZVUVIJVGH-UHFFFAOYSA-N,True,CYP1A2,substrato,ativo,,,1,0,1,exata,ChEMBL
+Guaraná,caffeine,RYYVLZVUVIJVGH-UHFFFAOYSA-N,True,CYP2C19,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Guaraná,caffeine,RYYVLZVUVIJVGH-UHFFFAOYSA-N,True,CYP2C9,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Guaraná,caffeine,RYYVLZVUVIJVGH-UHFFFAOYSA-N,True,CYP2D6,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Guaraná,caffeine,RYYVLZVUVIJVGH-UHFFFAOYSA-N,True,CYP3A4,inibicao,inativo,,,0,3,5,exata,ChEMBL
+Guaraná,caffeine,RYYVLZVUVIJVGH-UHFFFAOYSA-N,True,P-gp,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Guaraná,caffeine,RYYVLZVUVIJVGH-UHFFFAOYSA-N,True,P-gp,substrato,inativo,,,0,1,1,exata,ChEMBL
+Guaraná,9-(5-O-phosphono-beta-D-xylofuranosyl)-9H-purin-6-amine,UDMBCSSLTHHNCD-GAWUUDPSSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Guaraná,Adenine,GFFGJBXGBJISGV-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Guaraná,paraxanthine,QUNWUDVFRNGTCO-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Guaraná,paraxanthine,QUNWUDVFRNGTCO-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Guaraná,paraxanthine,QUNWUDVFRNGTCO-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Guaraná,paraxanthine,QUNWUDVFRNGTCO-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Guaraná,paraxanthine,QUNWUDVFRNGTCO-UHFFFAOYSA-N,False,CYP3A4,ativacao,indeterminado,,,0,0,1,exata,ChEMBL
+Guaraná,paraxanthine,QUNWUDVFRNGTCO-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,1,2,exata,ChEMBL
+Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP1A2,inibicao,ativo,forte,7.2,4,0,4,exata,ChEMBL
+Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2C19,inibicao,ativo,moderada,5.1,2,0,4,exata,ChEMBL
+Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2C9,inibicao,inativo,,,0,1,4,exata,ChEMBL
+Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,4,exata,ChEMBL
+Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP3A4,ativacao,inativo,,,0,3,3,exata,ChEMBL
+Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP3A4,inibicao,ativo,moderada,5.9,5,0,5,exata,ChEMBL
+Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,P-gp,inibicao,inativo,,,0,1,2,exata,ChEMBL
+Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,P-gp,ligacao,ativo,moderada,5.0,1,0,1,exata,ChEMBL
+Hortelã-pimenta,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP1A2,inibicao,ativo,forte,6.6,3,0,3,exata,ChEMBL
+Hortelã-pimenta,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2C19,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Hortelã-pimenta,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Hortelã-pimenta,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Hortelã-pimenta,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP3A4,inibicao,ativo,fraca,4.8,1,0,3,exata,ChEMBL
+Hortelã-pimenta,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,P-gp,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Hortelã-pimenta,(+)-Menthofuran,YGWKXXYGDYYFJU-SSDOTTSWSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,(+)-Menthofuran,YGWKXXYGDYYFJU-SSDOTTSWSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,(+)-Menthofuran,YGWKXXYGDYYFJU-SSDOTTSWSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,(+)-Menthofuran,YGWKXXYGDYYFJU-SSDOTTSWSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,(+)-Menthofuran,YGWKXXYGDYYFJU-SSDOTTSWSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Hortelã-pimenta,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Hortelã-pimenta,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,4,exata,ChEMBL
+Hortelã-pimenta,(-)-Epicatechin gallate,LSHVYAFMTMFKBA-TZIWHRDSSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Hortelã-pimenta,(-)-Epicatechin gallate,LSHVYAFMTMFKBA-TZIWHRDSSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,(-)-Epigallocatechin gallate,WMBWREPUVVBILR-WIYYLYMNSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Hortelã-pimenta,(-)-Epigallocatechin gallate,WMBWREPUVVBILR-WIYYLYMNSA-N,False,CYP3A4,inibicao,ativo,fraca,4.7,1,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,(-)-Epigallocatechin gallate,WMBWREPUVVBILR-WIYYLYMNSA-N,False,P-gp,inibicao,ativo,forte,6.91,2,0,4,exata,ChEMBL
+Hortelã-pimenta,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Hortelã-pimenta,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Hortelã-pimenta,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Hortelã-pimenta,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Hortelã-pimenta,"1,8-Cineole",WEEGYLXZBRQIMU-WAAGHKOSSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Hortelã-pimenta,21763-80-4,QEWSAPKRFOFQIU-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.11,3,0,3,exata,ChEMBL
+Hortelã-pimenta,21763-80-4,QEWSAPKRFOFQIU-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,21763-80-4,QEWSAPKRFOFQIU-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,21763-80-4,QEWSAPKRFOFQIU-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,21763-80-4,QEWSAPKRFOFQIU-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP1A2,inibicao,ativo,moderada,5.1,1,0,1,exata,ChEMBL
+Hortelã-pimenta,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Hortelã-pimenta,"4-hydroxy-7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridin-2-one",AUNGANRZJHBGPY-SCRDCRAPSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Hortelã-pimenta,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Hortelã-pimenta,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Hortelã-pimenta,BETA-D-GALACTOPYRANURONIC ACID,AEMOLEFTQBMNLQ-DTEWXJGMSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,BETA-D-GALACTOPYRANURONIC ACID,AEMOLEFTQBMNLQ-DTEWXJGMSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,BETA-D-GALACTOPYRANURONIC ACID,AEMOLEFTQBMNLQ-DTEWXJGMSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,BETA-D-GALACTOPYRANURONIC ACID,AEMOLEFTQBMNLQ-DTEWXJGMSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,BETA-D-GALACTOPYRANURONIC ACID,AEMOLEFTQBMNLQ-DTEWXJGMSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,Caryophyllene oxide,NVEQFIOZRFFVFW-RGCMKSIDSA-N,False,CYP2C19,inibicao,ativo,fraca,4.9,1,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,Caryophyllene oxide,NVEQFIOZRFFVFW-RGCMKSIDSA-N,False,CYP2C9,inibicao,ativo,fraca,4.6,1,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,Caryophyllene oxide,NVEQFIOZRFFVFW-RGCMKSIDSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Hortelã-pimenta,Caryophyllene oxide,NVEQFIOZRFFVFW-RGCMKSIDSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,Demethylnobiletin,DOFJNFPSMUCECH-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Hortelã-pimenta,Demethylnobiletin,DOFJNFPSMUCECH-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Hortelã-pimenta,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-aspartic acid,CKLJMWTZIZZHCS-REOHCLBHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-aspartic acid,CKLJMWTZIZZHCS-REOHCLBHSA-N,False,CYP2C19,inibicao,inativo,,,0,1,2,exata,ChEMBL
+Hortelã-pimenta,L-aspartic acid,CKLJMWTZIZZHCS-REOHCLBHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-aspartic acid,CKLJMWTZIZZHCS-REOHCLBHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-aspartic acid,CKLJMWTZIZZHCS-REOHCLBHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Hortelã-pimenta,L-glutamic acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Hortelã-pimenta,L-histidine,HNDVDQJCIGZPNO-YFKPBYRVSA-N,False,CYP3A4,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Hortelã-pimenta,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-serine,MTCFGRXMJLQNBG-REOHCLBHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,L-serine,MTCFGRXMJLQNBG-REOHCLBHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,L-serine,MTCFGRXMJLQNBG-REOHCLBHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,L-serine,MTCFGRXMJLQNBG-REOHCLBHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,L-serine,MTCFGRXMJLQNBG-REOHCLBHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Hortelã-pimenta,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Hortelã-pimenta,L-tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Hortelã-pimenta,PSQYTAPXSHCGMF-BQYQJAHWSA-N,PSQYTAPXSHCGMF-BQYQJAHWSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,PYRIDINE,JUJWROOIHBZHMG-UHFFFAOYSA-N,False,CYP3A4,ligacao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,PYRIDINE,JUJWROOIHBZHMG-UHFFFAOYSA-N,False,CYP3A4,outro,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Hortelã-pimenta,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Hortelã-pimenta,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,RUVINXPYWBROJD-ARJAWSKDSA-N,RUVINXPYWBROJD-ARJAWSKDSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Hortelã-pimenta,RUVINXPYWBROJD-ARJAWSKDSA-N,RUVINXPYWBROJD-ARJAWSKDSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,Rosmarinate,DOUMFZQKYFQNTF-GIZXNFQBSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,Rosmarinate,DOUMFZQKYFQNTF-GIZXNFQBSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,Rosmarinate,DOUMFZQKYFQNTF-GIZXNFQBSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,Rosmarinate,DOUMFZQKYFQNTF-GIZXNFQBSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,Rosmarinate,DOUMFZQKYFQNTF-GIZXNFQBSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,SGJNQVTUYXCBKH-HNQUOIGGSA-N,SGJNQVTUYXCBKH-HNQUOIGGSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,SGJNQVTUYXCBKH-HNQUOIGGSA-N,SGJNQVTUYXCBKH-HNQUOIGGSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,SGJNQVTUYXCBKH-HNQUOIGGSA-N,SGJNQVTUYXCBKH-HNQUOIGGSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Hortelã-pimenta,SGJNQVTUYXCBKH-HNQUOIGGSA-N,SGJNQVTUYXCBKH-HNQUOIGGSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,SGJNQVTUYXCBKH-HNQUOIGGSA-N,SGJNQVTUYXCBKH-HNQUOIGGSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Hortelã-pimenta,SGJNQVTUYXCBKH-HNQUOIGGSA-N,SGJNQVTUYXCBKH-HNQUOIGGSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Hortelã-pimenta,UNII-1IA46M0D13,IPMYMEWFZKHGAX-ZKSIBHASSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Hortelã-pimenta,UNII-1IA46M0D13,IPMYMEWFZKHGAX-ZKSIBHASSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,acacetin,DANYIYRPLHHOCZ-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,7.2,3,0,3,exata,ChEMBL
+Hortelã-pimenta,acacetin,DANYIYRPLHHOCZ-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,forte,6.0,1,0,2,exata,ChEMBL
+Hortelã-pimenta,acacetin,DANYIYRPLHHOCZ-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Hortelã-pimenta,acacetin,DANYIYRPLHHOCZ-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,fraca,4.9,2,0,2,exata,ChEMBL
+Hortelã-pimenta,acacetin,DANYIYRPLHHOCZ-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,3,3,exata,ChEMBL
+Hortelã-pimenta,acacetin,DANYIYRPLHHOCZ-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.6,4,0,4,exata,ChEMBL
+Hortelã-pimenta,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Hortelã-pimenta,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Hortelã-pimenta,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Hortelã-pimenta,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP2D6,inibicao,inativo,,,0,1,3,esqueleto,ChEMBL
+Hortelã-pimenta,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Hortelã-pimenta,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Hortelã-pimenta,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,ellagic acid,AFSDNFLWKVMVRB-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,fraca,4.5,1,0,1,exata,ChEMBL
+Hortelã-pimenta,ellagic acid,AFSDNFLWKVMVRB-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP1A2,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Hortelã-pimenta,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2C19,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Hortelã-pimenta,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2C9,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Hortelã-pimenta,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP2D6,inibicao,inativo,,,0,3,4,exata,ChEMBL
+Hortelã-pimenta,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Hortelã-pimenta,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,inducao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,inibicao,ativo,fraca,4.75,5,2,10,exata,ChEMBL
+Hortelã-pimenta,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,CYP3A4,substrato,ativo,,,1,0,1,exata,ChEMBL
+Hortelã-pimenta,ethinyl estradiol,BFPYWIDHMRZLRN-SLHNCBLASA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Hortelã-pimenta,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Hortelã-pimenta,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Hortelã-pimenta,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Hortelã-pimenta,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Hortelã-pimenta,glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,5,exata,ChEMBL
+Hortelã-pimenta,hesperidin,QUQPHWDTPGMPEX-REDIAKJPSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,hesperidin,QUQPHWDTPGMPEX-REDIAKJPSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,hesperidin,QUQPHWDTPGMPEX-REDIAKJPSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,hesperidin,QUQPHWDTPGMPEX-REDIAKJPSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,hesperidin,QUQPHWDTPGMPEX-REDIAKJPSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Hortelã-pimenta,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,nerol,GLZPCOQZEFWAFX-YFHOEESVSA-N,False,CYP1A2,inibicao,inativo,,,0,2,3,esqueleto,ChEMBL
+Hortelã-pimenta,nerol,GLZPCOQZEFWAFX-YFHOEESVSA-N,False,CYP2C19,inibicao,inativo,,,0,2,3,esqueleto,ChEMBL
+Hortelã-pimenta,nerol,GLZPCOQZEFWAFX-YFHOEESVSA-N,False,CYP2C9,inibicao,inativo,,,0,2,3,esqueleto,ChEMBL
+Hortelã-pimenta,nerol,GLZPCOQZEFWAFX-YFHOEESVSA-N,False,CYP2D6,inibicao,inativo,,,0,2,3,esqueleto,ChEMBL
+Hortelã-pimenta,nerol,GLZPCOQZEFWAFX-YFHOEESVSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Hortelã-pimenta,nerol,GLZPCOQZEFWAFX-YFHOEESVSA-N,False,CYP3A4,inibicao,inativo,,,0,2,4,esqueleto,ChEMBL
+Hortelã-pimenta,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Hortelã-pimenta,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Hortelã-pimenta,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Hortelã-pimenta,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Hortelã-pimenta,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,5,exata,ChEMBL
+Hortelã-pimenta,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Hortelã-pimenta,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Hortelã-pimenta,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,P-gp,substrato,inativo,,,0,1,1,exata,ChEMBL
+Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP1A2,inibicao,ativo,forte,7.2,4,0,4,exata,ChEMBL
+Maracujá,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2C19,inibicao,ativo,moderada,5.1,2,0,4,exata,ChEMBL
+Maracujá,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2C9,inibicao,inativo,,,0,1,4,exata,ChEMBL
+Maracujá,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,4,exata,ChEMBL
+Maracujá,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP3A4,ativacao,inativo,,,0,3,3,exata,ChEMBL
+Maracujá,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP3A4,inibicao,ativo,moderada,5.9,5,0,5,exata,ChEMBL
+Maracujá,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,P-gp,inibicao,inativo,,,0,1,2,exata,ChEMBL
+Maracujá,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,P-gp,ligacao,ativo,moderada,5.0,1,0,1,exata,ChEMBL
+Maracujá,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP1A2,inibicao,ativo,forte,6.6,3,0,3,exata,ChEMBL
+Maracujá,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2C19,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Maracujá,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Maracujá,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Maracujá,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,CYP3A4,inibicao,ativo,fraca,4.8,1,0,3,exata,ChEMBL
+Maracujá,luteolin,IQPNAANSBPBGFQ-UHFFFAOYSA-N,True,P-gp,inibicao,inativo,,,0,1,1,exata,ChEMBL
+Maracujá,(+)-L-Tartaric acid,FEWJPZIEWOKRBE-JCYAYHJZSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,(+)-L-Tartaric acid,FEWJPZIEWOKRBE-JCYAYHJZSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,(+)-L-Tartaric acid,FEWJPZIEWOKRBE-JCYAYHJZSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,(+)-L-Tartaric acid,FEWJPZIEWOKRBE-JCYAYHJZSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,(+)-L-Tartaric acid,FEWJPZIEWOKRBE-JCYAYHJZSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,(20S)-Protopanaxadiol,PYXFVCFISTUSOO-HKUCOEKDSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,"(2~{R},3~{S},4~{S},5~{S},6~{R})-2-[[(3~{R},5~{R},8~{R},9~{R},10~{S},12~{S},13~{R},14~{S},17~{R})-12-hydroxy-17-[(1~{S})-1-hydroxy-1,5-dimethyl-hex-4-enyl]-4,4,8,10,14-pentamethyl-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1~{H}-cyclopenta[a]phenanthren-3-yl]oxy]-6-(hydroxymethyl)tetrahydropyran-3,4,5-triol",CKUVNOCSBYYHIS-HSRKOSTGSA-N,False,CYP1A2,substrato,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,"(2~{R},3~{S},4~{S},5~{S},6~{R})-2-[[(3~{R},5~{R},8~{R},9~{R},10~{S},12~{S},13~{R},14~{S},17~{R})-12-hydroxy-17-[(1~{S})-1-hydroxy-1,5-dimethyl-hex-4-enyl]-4,4,8,10,14-pentamethyl-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1~{H}-cyclopenta[a]phenanthren-3-yl]oxy]-6-(hydroxymethyl)tetrahydropyran-3,4,5-triol",CKUVNOCSBYYHIS-HSRKOSTGSA-N,False,CYP2C19,substrato,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,"(2~{R},3~{S},4~{S},5~{S},6~{R})-2-[[(3~{R},5~{R},8~{R},9~{R},10~{S},12~{S},13~{R},14~{S},17~{R})-12-hydroxy-17-[(1~{S})-1-hydroxy-1,5-dimethyl-hex-4-enyl]-4,4,8,10,14-pentamethyl-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1~{H}-cyclopenta[a]phenanthren-3-yl]oxy]-6-(hydroxymethyl)tetrahydropyran-3,4,5-triol",CKUVNOCSBYYHIS-HSRKOSTGSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,"(2~{R},3~{S},4~{S},5~{S},6~{R})-2-[[(3~{R},5~{R},8~{R},9~{R},10~{S},12~{S},13~{R},14~{S},17~{R})-12-hydroxy-17-[(1~{S})-1-hydroxy-1,5-dimethyl-hex-4-enyl]-4,4,8,10,14-pentamethyl-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1~{H}-cyclopenta[a]phenanthren-3-yl]oxy]-6-(hydroxymethyl)tetrahydropyran-3,4,5-triol",CKUVNOCSBYYHIS-HSRKOSTGSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,"2,6-Di-tert-butyl-4-methylphenol",NLZUEZXRPGMBCV-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,"2,6-Di-tert-butyl-4-methylphenol",NLZUEZXRPGMBCV-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,"2,6-Di-tert-butyl-4-methylphenol",NLZUEZXRPGMBCV-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,"2,6-Di-tert-butyl-4-methylphenol",NLZUEZXRPGMBCV-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,"2,6-Di-tert-butyl-4-methylphenol",NLZUEZXRPGMBCV-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Maracujá,"5-[(3aR,6S,6aS)-2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl]pentanoic acid",YBJHBAHKTGYVGT-ZKWXMUAHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,"5-[(3aR,6S,6aS)-2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl]pentanoic acid",YBJHBAHKTGYVGT-ZKWXMUAHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,"5-[(3aR,6S,6aS)-2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl]pentanoic acid",YBJHBAHKTGYVGT-ZKWXMUAHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,"5-[(3aR,6S,6aS)-2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl]pentanoic acid",YBJHBAHKTGYVGT-ZKWXMUAHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,"5-[(3aR,6S,6aS)-2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl]pentanoic acid",YBJHBAHKTGYVGT-ZKWXMUAHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,97-67-6,BJEPYKJPYRNKOW-REOHCLBHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,97-67-6,BJEPYKJPYRNKOW-REOHCLBHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,97-67-6,BJEPYKJPYRNKOW-REOHCLBHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,97-67-6,BJEPYKJPYRNKOW-REOHCLBHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,97-67-6,BJEPYKJPYRNKOW-REOHCLBHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Maracujá,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Maracujá,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Maracujá,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Maracujá,BJIOGJUNALELMI-ONEGZZNKSA-N,BJIOGJUNALELMI-ONEGZZNKSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,esqueleto,ChEMBL
+Maracujá,D-phenylalanine,COLNVLDHVKWLRT-MRVPVSSYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,D-phenylalanine,COLNVLDHVKWLRT-MRVPVSSYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,D-phenylalanine,COLNVLDHVKWLRT-MRVPVSSYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,D-phenylalanine,COLNVLDHVKWLRT-MRVPVSSYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,D-phenylalanine,COLNVLDHVKWLRT-MRVPVSSYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,FSL0569,OVBPIULPVIDEAO-LBPRGKRZSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,Gomisin A,ZWRRJEICIPUPHZ-MYODQAERSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,HARMINE,BXNJHAXVSOCGBA-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.4,1,0,1,exata,ChEMBL
+Maracujá,HARMINE,BXNJHAXVSOCGBA-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,HARMINE,BXNJHAXVSOCGBA-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,HARMINE,BXNJHAXVSOCGBA-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,1,3,exata,ChEMBL
+Maracujá,HARMINE,BXNJHAXVSOCGBA-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,3,3,exata,ChEMBL
+Maracujá,HARMINE,BXNJHAXVSOCGBA-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,4,exata,ChEMBL
+Maracujá,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.2,2,0,2,exata,ChEMBL
+Maracujá,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Maracujá,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,exata,ChEMBL
+Maracujá,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,moderada,5.0,2,1,6,exata,ChEMBL
+Maracujá,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Maracujá,Harman,PSFDQSOCUJVVGF-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.4,2,0,3,exata,ChEMBL
+Maracujá,Harmol,LBBJNGFCXDOYMQ-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,Harmol,LBBJNGFCXDOYMQ-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,Harmol,LBBJNGFCXDOYMQ-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,fraca,4.8,1,1,2,exata,ChEMBL
+Maracujá,Harmol,LBBJNGFCXDOYMQ-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Maracujá,Harmol,LBBJNGFCXDOYMQ-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,L-alanine,QNAYBMKLOCPYGJ-REOHCLBHSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,L-glutamine,ZDXPYRJPNDTMRX-VKHMYHEASA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,L-glutamine,ZDXPYRJPNDTMRX-VKHMYHEASA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,L-glutamine,ZDXPYRJPNDTMRX-VKHMYHEASA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,L-glutamine,ZDXPYRJPNDTMRX-VKHMYHEASA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,L-glutamine,ZDXPYRJPNDTMRX-VKHMYHEASA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Maracujá,L-glutamine,ZDXPYRJPNDTMRX-VKHMYHEASA-N,False,CYP3A4,inibicao,inativo,,,0,3,3,exata,ChEMBL
+Maracujá,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,PSQYTAPXSHCGMF-BQYQJAHWSA-N,PSQYTAPXSHCGMF-BQYQJAHWSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,RUVINXPYWBROJD-ONEGZZNKSA-N,RUVINXPYWBROJD-ONEGZZNKSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Maracujá,RUVINXPYWBROJD-ONEGZZNKSA-N,RUVINXPYWBROJD-ONEGZZNKSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,TRIPALMITIN,PVNIQBQSYATKKL-UHFFFAOYSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,a-d-glucopyranuronic acid,AEMOLEFTQBMNLQ-WAXACMCWSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,a-d-glucopyranuronic acid,AEMOLEFTQBMNLQ-WAXACMCWSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,a-d-glucopyranuronic acid,AEMOLEFTQBMNLQ-WAXACMCWSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,a-d-glucopyranuronic acid,AEMOLEFTQBMNLQ-WAXACMCWSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,a-d-glucopyranuronic acid,AEMOLEFTQBMNLQ-WAXACMCWSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Maracujá,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Maracujá,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
+Maracujá,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP2D6,inibicao,inativo,,,0,1,3,esqueleto,ChEMBL
+Maracujá,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Maracujá,adenosine,OIRDTQYFTABQOQ-KQYNXXCUSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,3,esqueleto,ChEMBL
+Maracujá,alpha-L-Rhamnose,SHZGCJCMOBCMKK-HGVZOGFYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,alpha-L-Rhamnose,SHZGCJCMOBCMKK-HGVZOGFYSA-N,False,CYP2C19,inibicao,inativo,,,0,1,2,esqueleto,ChEMBL
+Maracujá,alpha-L-Rhamnose,SHZGCJCMOBCMKK-HGVZOGFYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,alpha-L-Rhamnose,SHZGCJCMOBCMKK-HGVZOGFYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,alpha-L-Rhamnose,SHZGCJCMOBCMKK-HGVZOGFYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,benzyl alcohol,WVDDGKGOMKODPV-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,choline,OEYIOHPDSNJKLS-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,citric acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,citric acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,citric acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,citric acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,citric acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Maracujá,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,3,exata,ChEMBL
+Maracujá,gomisin N,RTZKSTLPRTWFEV-OLZOCXBDSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,harmaline,RERZNCLIYCABFS-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,moderada,5.4,1,0,1,exata,ChEMBL
+Maracujá,harmaline,RERZNCLIYCABFS-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Maracujá,harmaline,RERZNCLIYCABFS-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,harmalol,RHVPEFQDYMMNSY-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,harmalol,RHVPEFQDYMMNSY-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Maracujá,harmalol,RHVPEFQDYMMNSY-UHFFFAOYSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,7.1,2,1,3,exata,ChEMBL
+Maracujá,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Maracujá,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.22,2,0,4,exata,ChEMBL
+Maracujá,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP2D6,inibicao,ativo,moderada,5.0,3,0,3,exata,ChEMBL
+Maracujá,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,fraca,4.8,1,0,3,exata,ChEMBL
+Maracujá,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.17,1,0,1,exata,ChEMBL
+Maracujá,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,l-ascorbic acid,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,linoleic acid,OYHQOLUKZRVURQ-HZJYTTRNSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Maracujá,linoleic acid,OYHQOLUKZRVURQ-HZJYTTRNSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,methyl salicylate,OSWPMRLSEDHDFF-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,methyl salicylate,OSWPMRLSEDHDFF-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,methyl salicylate,OSWPMRLSEDHDFF-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,methyl salicylate,OSWPMRLSEDHDFF-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,methyl salicylate,OSWPMRLSEDHDFF-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Maracujá,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Maracujá,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Maracujá,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2C9,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,4,exata,ChEMBL
+Maracujá,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP2D6,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,5,exata,ChEMBL
+Maracujá,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,False,CYP3A4,substrato,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,palmitic acid,IPCSVZSSVZVIGE-UHFFFAOYSA-N,False,P-gp,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
+Maracujá,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.5,3,3,6,exata,ChEMBL
+Maracujá,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,fraca,4.8,2,1,4,exata,ChEMBL
+Maracujá,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.1,2,2,6,exata,ChEMBL
+Maracujá,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,3,6,exata,ChEMBL
+Maracujá,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Maracujá,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.68,3,2,5,exata,ChEMBL
+Maracujá,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,3,1,5,exata,ChEMBL
+Maracujá,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.15,1,0,1,exata,ChEMBL
+Maracujá,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Maracujá,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP1A2,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C19,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
+Maracujá,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,P-gp,substrato,inativo,,,0,1,1,exata,ChEMBL
+Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.5,3,3,6,exata,ChEMBL
+Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,fraca,4.8,2,1,4,exata,ChEMBL
+Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.1,2,2,6,exata,ChEMBL
+Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,3,6,exata,ChEMBL
+Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,moderada,5.68,3,2,5,exata,ChEMBL
+Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,3,1,5,exata,ChEMBL
+Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.15,1,0,1,exata,ChEMBL
+Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Unha-de-gato,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Unha-de-gato,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Unha-de-gato,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Unha-de-gato,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
+Unha-de-gato,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,exata,ChEMBL
+Unha-de-gato,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,4,exata,ChEMBL
+Unha-de-gato,(-)-Epigallocatechin gallate,WMBWREPUVVBILR-WIYYLYMNSA-N,False,CYP3A4,ativacao,inativo,,,0,1,1,esqueleto,ChEMBL
+Unha-de-gato,(-)-Epigallocatechin gallate,WMBWREPUVVBILR-WIYYLYMNSA-N,False,CYP3A4,inibicao,ativo,fraca,4.7,1,0,1,esqueleto,ChEMBL
+Unha-de-gato,(-)-Epigallocatechin gallate,WMBWREPUVVBILR-WIYYLYMNSA-N,False,P-gp,inibicao,ativo,forte,6.91,2,0,4,exata,ChEMBL
+Unha-de-gato,AKOS015965499,WCGUUGGRBIKTOS-GZUNIXTQSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Unha-de-gato,AKOS015965499,WCGUUGGRBIKTOS-GZUNIXTQSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Unha-de-gato,AKOS015965499,WCGUUGGRBIKTOS-GZUNIXTQSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Unha-de-gato,AKOS015965499,WCGUUGGRBIKTOS-GZUNIXTQSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Unha-de-gato,AKOS015965499,WCGUUGGRBIKTOS-GZUNIXTQSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Unha-de-gato,OLEANOLIC ACID,MIJYXULNPSFWEK-GTOFXWBISA-N,False,P-gp,inibicao,indeterminado,,,0,0,4,exata,ChEMBL
+Unha-de-gato,Proanthocyanidin B4,XFZJEEAOWLFHDH-PWWSGAPCSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Unha-de-gato,Proanthocyanidin B4,XFZJEEAOWLFHDH-PWWSGAPCSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Unha-de-gato,Proanthocyanidin B4,XFZJEEAOWLFHDH-PWWSGAPCSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Unha-de-gato,Proanthocyanidin B4,XFZJEEAOWLFHDH-PWWSGAPCSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Unha-de-gato,Proanthocyanidin B4,XFZJEEAOWLFHDH-PWWSGAPCSA-N,False,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Unha-de-gato,Tetrahydroalstonine,GRTOGORTSDXSFK-DLLGKBFGSA-N,False,CYP2D6,inibicao,ativo,moderada,5.96,1,0,1,exata,ChEMBL
+Unha-de-gato,"methyl (~{Z})-2-[(2~{S},3~{R},12~{b}~{R})-3-ethyl-1,2,3,4,6,7,12,12~{b}-octahydroindolo[2,3-a]quinolizin-2-yl]-3-methoxy-prop-2-enoate",NMLUOJBSAYAYEM-NFYKLEGGSA-N,False,CYP2D6,inibicao,ativo,moderada,5.55,1,0,1,esqueleto,ChEMBL

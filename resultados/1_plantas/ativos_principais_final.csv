@@ -1,68 +1,57 @@
-Nome popular,Nome cientifico,composto,cas,identifier,molecular_formula,encontrado_por
-Alho,Allium sativum L.,Alliin,,CNP0583631.2,C6H11NO3S,nome
-Alho,Allium sativum L.,gamma-Glutamyl-S-allylcysteine,91216-95-4,CNP0261331.1,C11H18N2O5S,nome
-Alho,Allium sativum L.,Allicin,,CNP0527119.1,C6H10OS2,nome
-Alho,Allium sativum L.,DIALLYL DISULFIDE,2179-57-9,CNP0311793.0,C6H10S2,nome
-Alho,Allium sativum L.,S-allyl-L-cysteine,21593-77-1,CNP0206886.2,C6H11NO2S,cas
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),Acemannan,,CNP0474633.1,C66H101NO49,nome
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),Aloe-emodin,481-72-1,CNP0316445.0,C15H10O5,nome
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),10-Hydroxyaloin B,134863-92-6,CNP0154057.1,C21H22O10,nome
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),10-Hydroxyaloin A,134863-91-5,CNP0154057.2,C21H22O10,nome
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),nataloe-emodin,478-46-6,CNP0153433.0,C15H10O5,nome
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),aloin,5133-19-7|8015-61-0,CNP0186983.4,C21H22O9,nome
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),ALOINOSIDE B,11006-91-0,CNP0184790.2,C27H32O13,nome
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),Aloin B,28371-16-6|8015-61-0,CNP0186983.2,C21H22O9,nome
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),Aloinoside A,56645-88-6,CNP0184790.1,C27H32O13,nome
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),7-Hydroxyaloin,82461-12-9,CNP0294678.2,C21H22O10,nome
-babosa,Aloe vera (L.) Burm. f. (ou Aloe barbadensis),5-Hydroxyaloin A,138373-23-6,CNP0319861.1,C21H22O10,nome
-Boldo,Plectranthus barbatus Andrews,forskolin,66575-29-9|64657-11-0,CNP0150668.1,C22H34O7,nome
-Camomila,Matricaria chamomilla,luteolin,491-70-3|1318-21-4,CNP0279503.0,C15H10O6,nome
-Camomila,Matricaria chamomilla,Chamazulenecarboxylic acid,489-87-2,CNP0176710.1,C15H16O2,nome
-Camomila,Matricaria chamomilla,Bisabolol oxide A,22567-36-8,CNP0249765.1,C15H26O2,nome
-Camomila,Matricaria chamomilla,(-)-Bisabolol oxide B,26184-88-3,CNP0390102.1,C15H26O2,nome
-Camomila,Matricaria chamomilla,Bisabolol,515-69-5,CNP0160123.3,C15H26O,nome
-Camomila,Matricaria chamomilla,Chamazulene,529-05-5,CNP0214576.0,C14H16,nome
-Camomila,Matricaria chamomilla,apigenin,520-36-5|8002-66-2,CNP0251015.0,C15H10O5,nome
-Camomila,Matricaria chamomilla,(-)-epi-alpha-Bisabolol,78148-59-1,CNP0160123.2,C15H26O,nome
-Camomila,Matricaria chamomilla,alpha-Bisabolol,515-69-5|23178-88-3|25428-43-7,CNP0160123.1,C15H26O,nome
-Camomila,Matricaria chamomilla,6-Epi-beta-bisabolol,235421-59-7,CNP0223705.1,C15H26O,nome
-Camomila,Matricaria chamomilla,Matricin,29041-35-8,CNP0172588.4,C17H22O5,nome
-Cúrcuma,Curcuma longa L.,demethoxycurcumin,22608-11-3,CNP0352332.1,C20H18O5,cas
-Cúrcuma,Curcuma longa L.,ar-Turmerone,532-65-0,CNP0132504.2,C15H20O,nome
-Cúrcuma,Curcuma longa L.,(+)-(S)-dihydro-ar-turmerone,,CNP0106641.1,C15H22O,nome
-Cúrcuma,Curcuma longa L.,Tetrahydrocurcumin,36062-04-1,CNP0288229.0,C21H24O6,nome
-Cúrcuma,Curcuma longa L.,8-Hydroxy-ar-turmerone,949081-09-8,CNP0150211.1,C15H20O2,nome
-Cúrcuma,Curcuma longa L.,(S)-Turmerone,56485-42-8,CNP0311911.1,C15H22O,nome
-Cúrcuma,Curcuma longa L.,(+)-alpha-Turmerone,,CNP0422169.3,C15H22O,nome
-Cúrcuma,Curcuma longa L.,curcumin,458-37-7,CNP0337918.1,C21H20O6,cas
-Garra do diabo,Harpagophytum procumbens,Harpagide,,CNP0262747.3,C15H24O10,nome
-Garra do diabo,Harpagophytum procumbens,Harpagoside,19210-12-9,CNP0262102.1,C24H30O11,nome
-Garra do diabo,Harpagophytum procumbens,8-p-Coumaroylharpagide,87686-74-6,CNP0389333.3,C24H30O12,nome
-gengibre,Zingiber officinale Roscoe,6-Gingerol,23513-14-6|1391-73-7,CNP0314204.1,C17H26O4,nome
-gengibre,Zingiber officinale Roscoe,Methyl-8-gingerol,,CNP0109714.0,C20H32O4,nome
-gengibre,Zingiber officinale Roscoe,10-Gingerol,23513-15-7,CNP0273695.1,C21H34O4,nome
-gengibre,Zingiber officinale Roscoe,ZINGERONE,122-48-5,CNP0193523.0,C11H14O3,nome
-gengibre,Zingiber officinale Roscoe,[6]-Gingerol monoacetate,,CNP0137064.1,C19H28O5,nome
-gengibre,Zingiber officinale Roscoe,(4)-Gingerol,41743-68-4,CNP0146901.1,C15H22O4,nome
-gengibre,Zingiber officinale Roscoe,8-Gingerol,23513-08-8,CNP0238417.1,C19H30O4,nome
-gengibre,Zingiber officinale Roscoe,Methyl-10-gingerol,,CNP0003379.0,C22H36O4,nome
-gengibre,Zingiber officinale Roscoe,Methyl-6-Gingerol,23513-10-2,CNP0124042.1,C18H28O4,nome
-guaraná,Paullinia cupana,caffeine,58-08-2|95789-13-2|114303-55-8,CNP0228556.0,C8H10N4O2,nome
-guaraná,Paullinia cupana,theophylline,58-55-9|75448-53-2|58-55-9 (ANHYDROUS)|50857-74-4|8061-56-1,CNP0597189.0,C7H8N4O2,nome
-guaraná,Paullinia cupana,theobromine,83-67-0|519-41-5,CNP0328305.0,C7H8N4O2,nome
-hortelã,Mentha ou  piperita L.,(+)-Neomenthol,2216-52-6|3623-51-6|89-78-1,CNP0243697.5,C10H20O,nome
-hortelã,Mentha ou  piperita L.,Isomenthone,18309-28-9|36977-92-1|491-07-6|1074-95-9,CNP0219935.5,C10H18O,nome
-hortelã,Mentha ou  piperita L.,(+)-Isomenthol,23283-97-8|63903-52-6|89-78-1,CNP0243697.10,C10H20O,nome
-hortelã,Mentha ou  piperita L.,Neoisomenthol,20752-34-5|491-02-1|89-78-1|490-99-3,CNP0243697.1,C10H20O,nome
-hortelã,Mentha ou  piperita L.,l-Menthol,2216-51-5|89-78-1|98167-53-4|114376-98-6,CNP0243697.6,C10H20O,nome
-hortelã,Mentha ou  piperita L.,Isomenthol acetate,20777-45-1,CNP0201633.7,C12H22O2,nome
-hortelã,Mentha ou  piperita L.,(+)-Menthone,3391-87-5|89-80-5,CNP0219935.3,C10H18O,nome
-Maracujá,Passiflora alata,Isoorientin,4261-42-1,CNP0222527.1,C21H20O11,nome
-Maracujá,Passiflora alata,Isovitexin,38953-85-4|29702-25-8,CNP0198174.1,C21H20O10,nome
-Maracujá,Passiflora alata,Vitexin,3681-93-4,CNP0190943.1,C21H20O10,nome
-Maracujá,Passiflora alata,Orientin,28608-75-5,CNP0221949.2,C21H20O11,nome
-Pata-de-vaca,Bauhinia forficata,Kaempferitrin,482-38-2,CNP0219489.1,C27H30O14,nome
-Unha de Gato,Uncaria tomentosa,ISOMITRAPHYLLINE,4963-01-3,CNP0159273.2,C21H24N2O4,nome
-Unha de Gato,Uncaria tomentosa,Isopteropodine,5171-37-9,CNP0159273.9,C21H24N2O4,nome
-Unha de Gato,Uncaria tomentosa,Pteropodine,5629-60-7,CNP0159273.8,C21H24N2O4,nome
-Unha de Gato,Uncaria tomentosa,Mitraphylline,509-80-8,CNP0159273.3,C21H24N2O4,nome
+Nome popular,Nome cientifico,composto,cas,identifier,standard_inchi_key,canonical_smiles,molecular_formula,encontrado_por
+Alho,Allium sativum L.,Alliin,,CNP0583631.2,XUHLIQGRKRUKPH-DYEAUMGKSA-N,C=CC[S@+]([O-])C[C@H](N)C(=O)O,C6H11NO3S,nome
+Alho,Allium sativum L.,gamma-Glutamyl-S-allylcysteine,91216-95-4,CNP0261331.1,FUTHBNRZCFKVQZ-YUMQZZPRSA-N,C=CCSC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)O,C11H18N2O5S,nome
+Alho,Allium sativum L.,Allicin,,CNP0527119.1,JDLKFOPOAOFWQN-VIFPVBQESA-N,C=CCS[S@+]([O-])CC=C,C6H10OS2,nome
+Alho,Allium sativum L.,DIALLYL DISULFIDE,2179-57-9,CNP0311793.0,PFRGXCVKLLPLIP-UHFFFAOYSA-N,C=CCSSCC=C,C6H10S2,nome
+Alho,Allium sativum L.,S-allyl-L-cysteine,21593-77-1,CNP0206886.2,ZFAHNWWNDFHPOH-YFKPBYRVSA-N,C=CCSC[C@H](N)C(=O)O,C6H11NO2S,cas
+babosa,Aloe vera (L.) Burm. f.  Aloe barbadensis,Acemannan,,CNP0474633.1,XOYXESIZZFUVRD-UVSAJTFZSA-N,CO[C@H]1O[C@H](CO)[C@@H](O[C@H]2O[C@H](CO)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O[C@H]4O[C@H](CO)[C@@H](O[C@H]5O[C@H](CO)[C@@H](O[C@H]6O[C@H](C(=O)O)[C@@H](O[C@H]7O[C@H](CO)[C@@H](O[C@H]8O[C@H](CO)[C@@H](OC)[C@H](OC(C)=O)[C@@H]8O)[C@H](OC(C)=O)[C@@H]7O)[C@H](OC(C)=O)[C@@H]6O)[C@H](OC(C)=O)[C@@H]5O)[C@H](O)[C@@H]4NC(C)=O)[C@H](OC(C)=O)[C@@H]3O)[C@H](OC(C)=O)[C@@H]2O)[C@H](OC(C)=O)[C@@H]1O,C66H101NO49,nome
+babosa,Aloe vera (L.) Burm. f.  Aloe barbadensis,Aloe-emodin,481-72-1,CNP0316445.0,YDQWDHRMZQUTBA-UHFFFAOYSA-N,O=C1C2=CC=CC(O)=C2C(=O)C2=C(O)C=C(CO)C=C12,C15H10O5,nome
+babosa,Aloe vera (L.) Burm. f.  Aloe barbadensis,10-Hydroxyaloin B,134863-92-6,CNP0154057.1,WRQPROLXESIJKE-YHFJPUIQSA-N,O=C1C2=C(O)C=CC=C2[C@@](O)([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C2=CC(CO)=CC(O)=C12,C21H22O10,nome
+babosa,Aloe vera (L.) Burm. f.  Aloe barbadensis,nataloe-emodin,478-46-6,CNP0153433.0,WLOSKKPZIOUGFB-UHFFFAOYSA-N,CC1=CC(O)=C2C(=O)C3=C(O)C(O)=CC=C3C(=O)C2=C1,C15H10O5,nome
+babosa,Aloe vera (L.) Burm. f.  Aloe barbadensis,aloin,5133-19-7|8015-61-0,CNP0186983.4,AFHJQYHRLPMKHU-GCLVLASRSA-N,O=C1C2=C(O)C=CC=C2[C@@H]([C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@@H]2O)C2=CC(CO)=CC(O)=C12,C21H22O9,nome
+babosa,Aloe vera (L.) Burm. f.  Aloe barbadensis,ALOINOSIDE B,11006-91-0,CNP0184790.2,BUPDVJFRVYWYEV-SGAFVUFDSA-N,C[C@@H]1O[C@@H](OCC2=CC(O)=C3C(=O)C4=C(O)C=CC=C4[C@@H]([C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)C3=C2)[C@H](O)[C@H](O)[C@H]1O,C27H32O13,nome
+babosa,Aloe vera (L.) Burm. f.  Aloe barbadensis,7-Hydroxyaloin,82461-12-9,CNP0294678.2,HKKOALUTOMGGMT-UUBBYFPSSA-N,O=C1C2=C(O)C=C(CO)C=C2[C@H]([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C2=CC=C(O)C(O)=C12,C21H22O10,nome
+babosa,Aloe vera (L.) Burm. f.  Aloe barbadensis,5-Hydroxyaloin A,138373-23-6,CNP0319861.1,LJCDCYLYUCZUGL-UQBALUMJSA-N,O=C1C2=C(O)C=C(CO)C=C2[C@@H]([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C2=C(O)C=CC(O)=C12,C21H22O10,nome
+Boldo,Plectranthus barbatus Andrews,forskolin,66575-29-9|64657-11-0,CNP0150668.1,OHCQJHSOBUTRHG-KGGHGJDLSA-N,C=C[C@@]1(C)CC(=O)[C@]2(O)[C@@]3(C)[C@@H](O)CCC(C)(C)[C@@H]3[C@H](O)[C@H](OC(C)=O)[C@@]2(C)O1,C22H34O7,nome
+Camomila,Matricaria chamomilla,luteolin,491-70-3|1318-21-4,CNP0279503.0,IQPNAANSBPBGFQ-UHFFFAOYSA-N,O=C1C=C(C2=CC=C(O)C(O)=C2)OC2=CC(O)=CC(O)=C12,C15H10O6,nome
+Camomila,Matricaria chamomilla,Chamazulenecarboxylic acid,489-87-2,CNP0176710.1,VEHBLYQIKWPOQM-NSHDSACASA-N,CC1=CC=C([C@H](C)C(=O)O)C=C2C(C)=CC=C12,C15H16O2,nome
+Camomila,Matricaria chamomilla,Bisabolol oxide A,22567-36-8,CNP0249765.1,WJHRAVIQWFQMKF-IPYPFGDCSA-N,CC1=CC[C@@H]([C@]2(C)CC[C@H](O)C(C)(C)O2)CC1,C15H26O2,nome
+Camomila,Matricaria chamomilla,(-)-Bisabolol oxide B,26184-88-3,CNP0390102.1,RKBAYVATPNYHLW-IPYPFGDCSA-N,CC1=CC[C@@H]([C@]2(C)CC[C@@H](C(C)(C)O)O2)CC1,C15H26O2,nome
+Camomila,Matricaria chamomilla,Bisabolol,515-69-5,CNP0160123.3,RGZSQWQPBWRIAQ-LOACHALJSA-N,CC(C)=CCC[C@](C)(O)C1CC=C(C)CC1,C15H26O,nome
+Camomila,Matricaria chamomilla,Chamazulene,529-05-5,CNP0214576.0,GXGJIOMUZAGVEH-UHFFFAOYSA-N,CCC1=CC=C(C)C2=CC=C(C)C2=C1,C14H16,nome
+Camomila,Matricaria chamomilla,apigenin,520-36-5|8002-66-2,CNP0251015.0,KZNIFHPLKGYRTM-UHFFFAOYSA-N,O=C1C=C(C2=CC=C(O)C=C2)OC2=CC(O)=CC(O)=C12,C15H10O5,nome
+Camomila,Matricaria chamomilla,6-Epi-beta-bisabolol,235421-59-7,CNP0223705.1,WTVHAMTYZJGJLJ-GJZGRUSLSA-N,CC(C)=CCC[C@H](C)[C@]1(O)CC=C(C)CC1,C15H26O,nome
+Camomila,Matricaria chamomilla,Matricin,29041-35-8,CNP0172588.4,SYTRJRUSWMMZLV-VQGWEXQJSA-N,CC(=O)O[C@H]1CC(C)=C2C=C[C@@](C)(O)[C@@H]2[C@H]2OC(=O)[C@@H](C)[C@@H]21,C17H22O5,nome
+Cúrcuma,Curcuma longa L.,demethoxycurcumin,22608-11-3,CNP0352332.1,HJTVQHVGMGKONQ-LUZURFALSA-N,COC1=CC(/C=C/C(=O)CC(=O)/C=C/C2=CC=C(O)C=C2)=CC=C1O,C20H18O5,cas
+Cúrcuma,Curcuma longa L.,ar-Turmerone,532-65-0,CNP0132504.2,NAAJVHHFAXWBOK-ZDUSSCGKSA-N,CC(C)=CC(=O)C[C@H](C)C1=CC=C(C)C=C1,C15H20O,nome
+Cúrcuma,Curcuma longa L.,(+)-(S)-dihydro-ar-turmerone,,CNP0106641.1,FWSUEHMNQCROMJ-ZDUSSCGKSA-N,CC1=CC=C([C@@H](C)CC(=O)CC(C)C)C=C1,C15H22O,nome
+Cúrcuma,Curcuma longa L.,Tetrahydrocurcumin,36062-04-1,CNP0288229.0,LBTVHXHERHESKG-UHFFFAOYSA-N,COC1=CC(CCC(=O)CC(=O)CCC2=CC=C(O)C(OC)=C2)=CC=C1O,C21H24O6,nome
+Cúrcuma,Curcuma longa L.,8-Hydroxy-ar-turmerone,949081-09-8,CNP0150211.1,GEYUWGLUFTZZAX-IUODEOHRSA-N,CC(C)=CC(=O)[C@H](O)[C@H](C)C1=CC=C(C)C=C1,C15H20O2,nome
+Cúrcuma,Curcuma longa L.,(S)-Turmerone,56485-42-8,CNP0311911.1,FZPYMZUVXJUAQA-ZDUSSCGKSA-N,CC(C)=CC(=O)C[C@H](C)C1=CCC(C)=CC1,C15H22O,nome
+Cúrcuma,Curcuma longa L.,(+)-alpha-Turmerone,,CNP0422169.3,XOCANRBEOZQNAQ-UONOGXRCSA-N,CC(C)=CC(=O)C[C@H](C)[C@@H]1C=CC(C)=CC1,C15H22O,nome
+Cúrcuma,Curcuma longa L.,curcumin,458-37-7,CNP0337918.1,VFLDPWHFBUODDF-FCXRPNKRSA-N,COC1=CC(/C=C/C(=O)CC(=O)/C=C/C2=CC=C(O)C(OC)=C2)=CC=C1O,C21H20O6,cas
+Garra do diabo,Harpagophytum procumbens,Harpagide,,CNP0262747.3,XUWSHXDEJOOIND-HZIDLYDXSA-N,C[C@]1(O)C[C@@H](O)[C@]2(O)C=COC(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)[C@@H]21,C15H24O10,nome
+Garra do diabo,Harpagophytum procumbens,Harpagoside,19210-12-9,CNP0262102.1,KVRQGMOSZKPBNS-FMHLWDFHSA-N,C[C@]1(OC(=O)/C=C/C2=CC=CC=C2)C[C@@H](O)[C@]2(O)C=CO[C@@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)[C@@H]21,C24H30O11,nome
+Garra do diabo,Harpagophytum procumbens,8-p-Coumaroylharpagide,87686-74-6,CNP0389333.3,AZKQDXZMKREFDY-CBLWINFVSA-N,C[C@]1(OC(=O)/C=C/C2=CC=C(O)C=C2)C[C@@H](O)[C@]2(O)C=CO[C@@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)[C@@H]21,C24H30O12,nome
+gengibre,Zingiber officinale Roscoe,6-Gingerol,23513-14-6|1391-73-7,CNP0314204.1,NLDDIKRKFXEWBK-AWEZNQCLSA-N,CCCCC[C@H](O)CC(=O)CCC1=CC=C(O)C(OC)=C1,C17H26O4,nome
+gengibre,Zingiber officinale Roscoe,Methyl-8-gingerol,,CNP0109714.0,IKXQNPSOQKPFAU-UHFFFAOYSA-N,CCCCCCCC(O)CC(=O)CCC1=CC=C(OC)C(OC)=C1,C20H32O4,nome
+gengibre,Zingiber officinale Roscoe,10-Gingerol,23513-15-7,CNP0273695.1,AIULWNKTYPZYAN-SFHVURJKSA-N,CCCCCCCCC[C@H](O)CC(=O)CCC1=CC=C(O)C(OC)=C1,C21H34O4,nome
+gengibre,Zingiber officinale Roscoe,ZINGERONE,122-48-5,CNP0193523.0,OJYLAHXKWMRDGS-UHFFFAOYSA-N,COC1=CC(CCC(C)=O)=CC=C1O,C11H14O3,nome
+gengibre,Zingiber officinale Roscoe,(S)-6-gingerol,,CNP0294782.1,LPRPIMHDDACJHT-AWEZNQCLSA-N,CCCCC[C@H](O)CC(=O)CCC1=CC=C(OC)C(O)=C1,C17H26O4,nome
+gengibre,Zingiber officinale Roscoe,[6]-Gingerol monoacetate,,CNP0137064.1,DTUNXJRSMOTKGD-KRWDZBQOSA-N,CCCCC[C@@H](CC(=O)CCC1=CC=C(O)C(OC)=C1)OC(C)=O,C19H28O5,nome
+gengibre,Zingiber officinale Roscoe,(4)-Gingerol,41743-68-4,CNP0146901.1,GDRKZARFCIYVCI-LBPRGKRZSA-N,CCC[C@H](O)CC(=O)CCC1=CC=C(O)C(OC)=C1,C15H22O4,nome
+gengibre,Zingiber officinale Roscoe,8-Gingerol,23513-08-8,CNP0238417.1,BCIWKKMTBRYQJU-INIZCTEOSA-N,CCCCCCC[C@H](O)CC(=O)CCC1=CC=C(O)C(OC)=C1,C19H30O4,nome
+gengibre,Zingiber officinale Roscoe,Methyl-10-gingerol,,CNP0003379.0,YCMYNWSNMYONMK-UHFFFAOYSA-N,CCCCCCCCCC(O)CC(=O)CCC1=CC=C(OC)C(OC)=C1,C22H36O4,nome
+gengibre,Zingiber officinale Roscoe,Methyl-6-Gingerol,23513-10-2,CNP0124042.1,CTGAPJBPSCUFRO-HNNXBMFYSA-N,CCCCC[C@H](O)CC(=O)CCC1=CC=C(OC)C(OC)=C1,C18H28O4,nome
+guaraná,Paullinia cupana,caffeine,58-08-2|95789-13-2|114303-55-8,CNP0228556.0,RYYVLZVUVIJVGH-UHFFFAOYSA-N,CN1C(=O)C2=C(N=CN2C)N(C)C1=O,C8H10N4O2,nome
+guaraná,Paullinia cupana,theophylline,58-55-9|75448-53-2|58-55-9 (ANHYDROUS)|50857-74-4|8061-56-1,CNP0597189.0,ZFXYFBGIUFBOJW-UHFFFAOYSA-N,CN1C(=O)C2=C(N=CN2)N(C)C1=O,C7H8N4O2,nome
+guaraná,Paullinia cupana,theobromine,83-67-0|519-41-5,CNP0328305.0,YAPQBXQYLJRXSA-UHFFFAOYSA-N,CN1C=NC2=C1C(=O)NC(=O)N2C,C7H8N4O2,nome
+hortelã,Mentha x piperita L.,(+)-Neomenthol,2216-52-6|3623-51-6|89-78-1,CNP0243697.5,NOOLISFMXDJSKH-UTLUCORTSA-N,CC(C)[C@@H]1CC[C@@H](C)C[C@@H]1O,C10H20O,nome
+hortelã,Mentha x piperita L.,Isomenthone,18309-28-9|36977-92-1|491-07-6|1074-95-9,CNP0219935.5,NFLGAXVYCFJBMK-IUCAKERBSA-N,CC(C)[C@@H]1CC[C@H](C)CC1=O,C10H18O,nome
+hortelã,Mentha x piperita L.,Isomenthol acetate,20777-45-1,CNP0201633.7,XHXUANMFYXWVNG-ZMLRMANQSA-N,CC(=O)O[C@@H]1C[C@@H](C)CC[C@H]1C(C)C,C12H22O2,nome
+Maracujá,Passiflora alata,Isoorientin,4261-42-1,CNP0222527.1,ODBRNZZJSYPIDI-VJXVFPJBSA-N,O=C1C=C(C2=CC=C(O)C(O)=C2)OC2=CC(O)=C([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C(O)=C12,C21H20O11,nome
+Maracujá,Passiflora alata,Isovitexin,38953-85-4|29702-25-8,CNP0198174.1,MYXNWGACZJSMBT-VJXVFPJBSA-N,O=C1C=C(C2=CC=C(O)C=C2)OC2=CC(O)=C([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C(O)=C12,C21H20O10,nome
+Maracujá,Passiflora alata,Vitexin,3681-93-4,CNP0190943.1,SGEWCQFRYRRZDC-VPRICQMDSA-N,O=C1C=C(C2=CC=C(O)C=C2)OC2=C([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C(O)=CC(O)=C12,C21H20O10,nome
+Maracujá,Passiflora alata,Orientin,28608-75-5,CNP0221949.2,PLAPMLGJVGLZOV-VPRICQMDSA-N,O=C1C=C(C2=CC=C(O)C(O)=C2)OC2=C([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C(O)=CC(O)=C12,C21H20O11,nome
+Pata-de-vaca,Bauhinia forficata,Kaempferitrin,482-38-2,CNP0219489.1,PUPKKEQDLNREIM-QNSQPKOQSA-N,C[C@@H]1O[C@@H](OC2=CC(O)=C3C(=O)C(O[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)=C(C4=CC=C(O)C=C4)OC3=C2)[C@H](O)[C@H](O)[C@H]1O,C27H30O14,nome
+Unha de Gato,Uncaria tomentosa,ISOMITRAPHYLLINE,4963-01-3,CNP0159273.2,JMIAZDVHNCCPDM-NWQITLLVSA-N,COC(=O)C1=CO[C@@H](C)[C@H]2CN3CC[C@@]4(C(=O)NC5=CC=CC=C54)[C@@H]3C[C@H]12,C21H24N2O4,nome

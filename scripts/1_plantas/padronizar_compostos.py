@@ -94,10 +94,14 @@ print("Ativos principais:", len(ativos), "linhas")
 # 4. COMPOSTOS
 # ==========================================
 
+# Nome: o do COCONUT; se vazio, o já escolhido em finalizar_ativos.py (ex.: curcumina
+# pelo CAS); senão o nome IUPAC
+nome_ativo = coconut["identifier"].map(ativos.drop_duplicates("identifier").set_index("identifier")["composto"])
+
 coconut = pd.DataFrame({
     "planta": coconut["Nome popular"].apply(planta_padrao),
     "inchikey": coconut["standard_inchi_key"],
-    "nome": coconut["name"].fillna(coconut["iupac_name"]),
+    "nome": coconut["name"].fillna(nome_ativo).fillna(coconut["iupac_name"]),
     "coconut_id": coconut["identifier"],
     "smiles": coconut.get("canonical_smiles"),
     "formula": coconut["molecular_formula"],

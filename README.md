@@ -20,7 +20,7 @@ Os scripts podem ser rodados de qualquer pasta, por exemplo `python scripts/1_pl
 ### Ordem de execução
 
 1. Plantas: `cruzar_plantas.py` → `filtrar_ativos.py` → `finalizar_ativos.py` → `padronizar_compostos.py`
-2. ChEMBL: `coleta_chembl.py`
+2. ChEMBL: `coleta_chembl.py` → `padronizar_atividades.py` (dados da literatura entram por `dados/manuais/atividades_literatura.csv`)
 3. RENAME: `cruzamento_DDI-RENAME.py` → `investigar_nao_encontrados.py` → `consolidar_resultados_DDI_RENAME.py` → `cruzamento_RENAME_enzimas.py` e `cruzamento_RENAME_FDA.py`
 
 ## Arquivos que precisam ser baixados
