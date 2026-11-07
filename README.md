@@ -7,12 +7,15 @@ scripts/
   1_plantas/     plantas → compostos (COCONUT)
   2_chembl/      compostos → atividade em CYPs e P-gp (ChEMBL)
   3_rename/      fármacos da RENAME → enzimas (ClinPGx e FDA)
+  4_interacoes/  planta × fármaco pela enzima
+  5_banco/       banco SQLite com tudo
   utilitarios/   scripts só para olhar os dados
 dados/
   baixados/      arquivos de bases externas, não editar à mão
   manuais/       tabelas montadas ou revisadas pela equipe
 resultados/
-  1_plantas/  2_chembl/  3_rename/   saídas de cada etapa
+  1_plantas/  2_chembl/  3_rename/  4_interacoes/   saídas de cada etapa
+  fitointer.db                                     banco SQLite
 ```
 
 Os scripts podem ser rodados de qualquer pasta, por exemplo `python scripts/1_plantas/cruzar_plantas.py`.
@@ -22,6 +25,8 @@ Os scripts podem ser rodados de qualquer pasta, por exemplo `python scripts/1_pl
 1. Plantas: `cruzar_plantas.py` → `filtrar_ativos.py` → `finalizar_ativos.py` → `padronizar_compostos.py`
 2. ChEMBL: `coleta_chembl.py` → `padronizar_atividades.py` (dados da literatura entram por `dados/manuais/atividades_literatura.csv`)
 3. RENAME: `cruzamento_DDI-RENAME.py` → `investigar_nao_encontrados.py` → `consolidar_resultados_DDI_RENAME.py` → `cruzamento_RENAME_enzimas.py` e `cruzamento_RENAME_FDA.py`
+4. Interações: `cruzar_plantas_farmacos.py`
+5. Banco: `montar_banco.py` (gera `resultados/fitointer.db`; a view `vw_interacoes` junta planta, composto e fármaco)
 
 ## Arquivos que precisam ser baixados
 

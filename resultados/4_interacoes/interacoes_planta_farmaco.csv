@@ -1,0 +1,236 @@
+﻿planta,farmaco,nomes_rename,nivel_evidencia,mecanismos,enzimas,compostos,ativos_principais,principais_compostos
+Babosa,budesonide,budesonida; fumarato de formoterol + budesonida,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,darunavir,darunavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,dasatinib,dasatinibe,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,everolimus,everolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,isavuconazole,sulfato de isavuconazônio,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,maraviroc,maraviroque,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,midazolam,midazolam,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,quetiapine,hemifumarato de quetiapina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,sildenafil,citrato de sildenafila,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,simvastatin,sinvastatina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,sirolimus,sirolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,tacrolimus,tacrolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,tipranavir,tipranavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Camomila,budesonide,budesonida; fumarato de formoterol + budesonida,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,darunavir,darunavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,dasatinib,dasatinibe,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,everolimus,everolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,isavuconazole,sulfato de isavuconazônio,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,maraviroc,maraviroque,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,midazolam,midazolam,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,quetiapine,hemifumarato de quetiapina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,sildenafil,citrato de sildenafila,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,simvastatin,sinvastatina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,sirolimus,sirolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,tacrolimus,tacrolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,tipranavir,tipranavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Gengibre,budesonide,budesonida; fumarato de formoterol + budesonida,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,darunavir,darunavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,dasatinib,dasatinibe,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,everolimus,everolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,isavuconazole,sulfato de isavuconazônio,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,maraviroc,maraviroque,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,midazolam,midazolam,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,quetiapine,hemifumarato de quetiapina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,sildenafil,citrato de sildenafila,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,simvastatin,sinvastatina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,sirolimus,sirolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,tacrolimus,tacrolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,tipranavir,tipranavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Hortelã-pimenta,budesonide,budesonida; fumarato de formoterol + budesonida,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,darunavir,darunavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,dasatinib,dasatinibe,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,everolimus,everolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,isavuconazole,sulfato de isavuconazônio,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,maraviroc,maraviroque,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,midazolam,midazolam,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,quetiapine,hemifumarato de quetiapina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,sildenafil,citrato de sildenafila,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,simvastatin,sinvastatina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,sirolimus,sirolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,tacrolimus,tacrolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,tipranavir,tipranavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Maracujá,budesonide,budesonida; fumarato de formoterol + budesonida,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,darunavir,darunavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,dasatinib,dasatinibe,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,everolimus,everolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,isavuconazole,sulfato de isavuconazônio,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,maraviroc,maraviroque,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,midazolam,midazolam,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,quetiapine,hemifumarato de quetiapina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,sildenafil,citrato de sildenafila,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,simvastatin,sinvastatina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,sirolimus,sirolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,tacrolimus,tacrolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,tipranavir,tipranavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Alho,metoprolol,succinato de metoprolol; tartarato de metoprolol,media,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,protopine; kaempferol
+Alho,nortriptyline,cloridrato de nortriptilina,media,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,protopine; kaempferol
+Alho,propafenone,cloridrato de propafenona,media,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,protopine; kaempferol
+Alho,propranolol,cloridrato de propranolol,media,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,protopine; kaempferol
+Babosa,atorvastatin,atorvastatina cálcica,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,brigatinib,brigatinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,larotrectinib,larotrectinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,8,apigenin,apigenin; quercetin; DEZFNHCVIZBHBI-KHPPLWFESA-N; emodin; DTOSIQBPPRVQHS-PDBXOOCHSA-N
+Babosa,phenytoin,fenitoína,media,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,6,,DEZFNHCVIZBHBI-KHPPLWFESA-N; Galangin; emodin; kaempferol; quercetin
+Babosa,warfarin,varfarina sódica,media,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,6,,DEZFNHCVIZBHBI-KHPPLWFESA-N; Galangin; emodin; kaempferol; quercetin
+Camomila,atorvastatin,atorvastatina cálcica,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,brigatinib,brigatinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,digoxin,digoxina,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,3,,(-)-Epigallocatechin gallate; (R)-naringenin; quercetin
+Camomila,larotrectinib,larotrectinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; luteolin,apigenin; quercetin; (R)-naringenin; luteolin; UNII-1IA46M0D13
+Camomila,oseltamivir,fosfato de oseltamivir,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,3,,(-)-Epigallocatechin gallate; (R)-naringenin; quercetin
+Camomila,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,3,,(-)-Epigallocatechin gallate; (R)-naringenin; quercetin
+Cúrcuma,digoxin,digoxina,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,4,curcumin; demethoxycurcumin,curcumin; demethoxycurcumin; 33069-62-4; quercetin
+Cúrcuma,oseltamivir,fosfato de oseltamivir,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,4,curcumin; demethoxycurcumin,curcumin; demethoxycurcumin; 33069-62-4; quercetin
+Cúrcuma,phenytoin,fenitoína,media,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,4,curcumin,curcumin; quercetin; myricetin; Caryophylene oxide
+Cúrcuma,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,4,curcumin; demethoxycurcumin,curcumin; demethoxycurcumin; 33069-62-4; quercetin
+Cúrcuma,warfarin,varfarina sódica,media,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,4,curcumin,curcumin; quercetin; myricetin; Caryophylene oxide
+Gengibre,atorvastatin,atorvastatina cálcica,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,brigatinib,brigatinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,digoxin,digoxina,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,4,curcumin,"curcumin; 4',5,7-Trimethoxyflavone; (R)-naringenin; morin"
+Gengibre,larotrectinib,larotrectinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,17,8-Gingerol; 10-Gingerol; curcumin,8-Gingerol; Quercetin pentamethyl ether; SOVNCTNQAWWYAQ-OQLLNIDSSA-N; Dehydroglaucine; Harman
+Gengibre,oseltamivir,fosfato de oseltamivir,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,4,curcumin,"curcumin; 4',5,7-Trimethoxyflavone; (R)-naringenin; morin"
+Gengibre,phenytoin,fenitoína,media,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,12,curcumin; 8-Gingerol; 10-Gingerol,Dehydroglaucine; curcumin; 8-Gingerol; 10-Gingerol; OQWKEEOHDMUXEO-BQYQJAHWSA-N
+Gengibre,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,4,curcumin,"curcumin; 4',5,7-Trimethoxyflavone; (R)-naringenin; morin"
+Gengibre,warfarin,varfarina sódica,media,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,12,curcumin; 8-Gingerol; 10-Gingerol,Dehydroglaucine; curcumin; 8-Gingerol; 10-Gingerol; OQWKEEOHDMUXEO-BQYQJAHWSA-N
+Hortelã-pimenta,atorvastatin,atorvastatina cálcica,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,brigatinib,brigatinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,digoxin,digoxina,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,(-)-Epigallocatechin gallate
+Hortelã-pimenta,larotrectinib,larotrectinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
+Hortelã-pimenta,oseltamivir,fosfato de oseltamivir,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,(-)-Epigallocatechin gallate
+Hortelã-pimenta,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,(-)-Epigallocatechin gallate
+Maracujá,atorvastatin,atorvastatina cálcica,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,brigatinib,brigatinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Maracujá,larotrectinib,larotrectinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; quercetin; Harman; luteolin; HARMINE
+Unha-de-gato,digoxin,digoxina,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,oseltamivir,fosfato de oseltamivir,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,(-)-Epigallocatechin gallate
+Alho,atorvastatin,atorvastatina cálcica,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,brigatinib,brigatinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,budesonide,budesonida; fumarato de formoterol + budesonida,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,darunavir,darunavir,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,dasatinib,dasatinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,digoxin,digoxina,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,3,,DIALLYL SULFIDE; genistein; quercetin
+Alho,everolimus,everolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,isavuconazole,sulfato de isavuconazônio,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,larotrectinib,larotrectinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,maraviroc,maraviroque,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,midazolam,midazolam,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,oseltamivir,fosfato de oseltamivir,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,3,,DIALLYL SULFIDE; genistein; quercetin
+Alho,phenytoin,fenitoína,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,3,,kaempferol; quercetin; myricetin
+Alho,quetiapine,hemifumarato de quetiapina,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,sildenafil,citrato de sildenafila,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,simvastatin,sinvastatina,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,sirolimus,sirolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,tacrolimus,tacrolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,3,,DIALLYL SULFIDE; genistein; quercetin
+Alho,tipranavir,tipranavir,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,luteolin,quercetin; genistein; luteolin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; kaempferol
+Alho,warfarin,varfarina sódica,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,3,,kaempferol; quercetin; myricetin
+Babosa,digoxin,digoxina,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,4,,cholesterol; Galangin; hydrocortisone; quercetin
+Babosa,metoprolol,succinato de metoprolol; tartarato de metoprolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,3,,kaempferol; emodin; Galangin
+Babosa,nortriptyline,cloridrato de nortriptilina,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,3,,kaempferol; emodin; Galangin
+Babosa,oseltamivir,fosfato de oseltamivir,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,4,,cholesterol; Galangin; hydrocortisone; quercetin
+Babosa,propafenone,cloridrato de propafenona,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,3,,kaempferol; emodin; Galangin
+Babosa,propranolol,cloridrato de propranolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,3,,kaempferol; emodin; Galangin
+Babosa,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,4,,cholesterol; Galangin; hydrocortisone; quercetin
+Boldo-brasileiro,atorvastatin,atorvastatina cálcica,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,brigatinib,brigatinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,budesonide,budesonida; fumarato de formoterol + budesonida,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,darunavir,darunavir,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,dasatinib,dasatinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,everolimus,everolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,isavuconazole,sulfato de isavuconazônio,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,larotrectinib,larotrectinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,maraviroc,maraviroque,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,midazolam,midazolam,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,quetiapine,hemifumarato de quetiapina,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,sildenafil,citrato de sildenafila,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,simvastatin,sinvastatina,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,sirolimus,sirolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,tacrolimus,tacrolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Boldo-brasileiro,tipranavir,tipranavir,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,forskolin,forskolin
+Camomila,metoprolol,succinato de metoprolol; tartarato de metoprolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,Hyperoside
+Camomila,nortriptyline,cloridrato de nortriptilina,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,Hyperoside
+Camomila,phenytoin,fenitoína,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,2,,quercetin; Caryophyllene oxide
+Camomila,propafenone,cloridrato de propafenona,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,Hyperoside
+Camomila,propranolol,cloridrato de propranolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,Hyperoside
+Camomila,warfarin,varfarina sódica,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,2,,quercetin; Caryophyllene oxide
+Cúrcuma,atorvastatin,atorvastatina cálcica,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,brigatinib,brigatinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,budesonide,budesonida; fumarato de formoterol + budesonida,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,darunavir,darunavir,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,dasatinib,dasatinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,everolimus,everolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,isavuconazole,sulfato de isavuconazônio,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,larotrectinib,larotrectinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,maraviroc,maraviroque,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,metoprolol,succinato de metoprolol; tartarato de metoprolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,ISIMGBQRFXXNON-VHOZIDCHSA-N
+Cúrcuma,midazolam,midazolam,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,nortriptyline,cloridrato de nortriptilina,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,ISIMGBQRFXXNON-VHOZIDCHSA-N
+Cúrcuma,propafenone,cloridrato de propafenona,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,ISIMGBQRFXXNON-VHOZIDCHSA-N
+Cúrcuma,propranolol,cloridrato de propranolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,ISIMGBQRFXXNON-VHOZIDCHSA-N
+Cúrcuma,quetiapine,hemifumarato de quetiapina,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,sildenafil,citrato de sildenafila,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,simvastatin,sinvastatina,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,sirolimus,sirolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,tacrolimus,tacrolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Cúrcuma,tipranavir,tipranavir,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco; indução da CYP3A4 -> redução da exposição ao fármaco,CYP3A4,6,curcumin,quercetin; CHLOROTHALONIL; curcumin; DTOSIQBPPRVQHS-PDBXOOCHSA-N; ethinyl estradiol
+Gengibre,metoprolol,succinato de metoprolol; tartarato de metoprolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,Dehydroglaucine; Isokaempferide; Harman; kaempferol
+Gengibre,nortriptyline,cloridrato de nortriptilina,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,Dehydroglaucine; Isokaempferide; Harman; kaempferol
+Gengibre,propafenone,cloridrato de propafenona,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,Dehydroglaucine; Isokaempferide; Harman; kaempferol
+Gengibre,propranolol,cloridrato de propranolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,Dehydroglaucine; Isokaempferide; Harman; kaempferol
+Hortelã-pimenta,metoprolol,succinato de metoprolol; tartarato de metoprolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,acacetin
+Hortelã-pimenta,nortriptyline,cloridrato de nortriptilina,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,acacetin
+Hortelã-pimenta,phenytoin,fenitoína,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,1,,Caryophyllene oxide
+Hortelã-pimenta,propafenone,cloridrato de propafenona,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,acacetin
+Hortelã-pimenta,propranolol,cloridrato de propranolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,acacetin
+Hortelã-pimenta,warfarin,varfarina sódica,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,1,,Caryophyllene oxide
+Maracujá,digoxin,digoxina,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
+Maracujá,metoprolol,succinato de metoprolol; tartarato de metoprolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,harmaline; Harman; kaempferol; Harmol
+Maracujá,nortriptyline,cloridrato de nortriptilina,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,harmaline; Harman; kaempferol; Harmol
+Maracujá,oseltamivir,fosfato de oseltamivir,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
+Maracujá,phenytoin,fenitoína,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,2,,kaempferol; quercetin
+Maracujá,propafenone,cloridrato de propafenona,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,harmaline; Harman; kaempferol; Harmol
+Maracujá,propranolol,cloridrato de propranolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,harmaline; Harman; kaempferol; Harmol
+Maracujá,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
+Maracujá,warfarin,varfarina sódica,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,2,,kaempferol; quercetin
+Pata-de-vaca,atorvastatin,atorvastatina cálcica,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,brigatinib,brigatinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,budesonide,budesonida; fumarato de formoterol + budesonida,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,darunavir,darunavir,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,dasatinib,dasatinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,digoxin,digoxina,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
+Pata-de-vaca,everolimus,everolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,isavuconazole,sulfato de isavuconazônio,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,larotrectinib,larotrectinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,maraviroc,maraviroque,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,midazolam,midazolam,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,oseltamivir,fosfato de oseltamivir,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
+Pata-de-vaca,phenytoin,fenitoína,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,1,,quercetin
+Pata-de-vaca,quetiapine,hemifumarato de quetiapina,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,sildenafil,citrato de sildenafila,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,simvastatin,sinvastatina,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,sirolimus,sirolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,tacrolimus,tacrolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
+Pata-de-vaca,tipranavir,tipranavir,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,quercetin
+Pata-de-vaca,warfarin,varfarina sódica,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,1,,quercetin
+Unha-de-gato,atorvastatin,atorvastatina cálcica,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,brigatinib,brigatinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,budesonide,budesonida; fumarato de formoterol + budesonida,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,darunavir,darunavir,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,dasatinib,dasatinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,everolimus,everolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,isavuconazole,sulfato de isavuconazônio,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,larotrectinib,larotrectinibe,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,maraviroc,maraviroque,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,metoprolol,succinato de metoprolol; tartarato de metoprolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,"Tetrahydroalstonine; methyl (~{Z})-2-[(2~{S},3~{R},12~{b}~{R})-3-ethyl-1,2,3,4,6,7,12,12~{b}-octahydroindolo[2,3-a]quinolizin-2-yl]-3-methoxy-prop-2-enoate"
+Unha-de-gato,midazolam,midazolam,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,nortriptyline,cloridrato de nortriptilina,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,"Tetrahydroalstonine; methyl (~{Z})-2-[(2~{S},3~{R},12~{b}~{R})-3-ethyl-1,2,3,4,6,7,12,12~{b}-octahydroindolo[2,3-a]quinolizin-2-yl]-3-methoxy-prop-2-enoate"
+Unha-de-gato,propafenone,cloridrato de propafenona,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,"Tetrahydroalstonine; methyl (~{Z})-2-[(2~{S},3~{R},12~{b}~{R})-3-ethyl-1,2,3,4,6,7,12,12~{b}-octahydroindolo[2,3-a]quinolizin-2-yl]-3-methoxy-prop-2-enoate"
+Unha-de-gato,propranolol,cloridrato de propranolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,"Tetrahydroalstonine; methyl (~{Z})-2-[(2~{S},3~{R},12~{b}~{R})-3-ethyl-1,2,3,4,6,7,12,12~{b}-octahydroindolo[2,3-a]quinolizin-2-yl]-3-methoxy-prop-2-enoate"
+Unha-de-gato,quetiapine,hemifumarato de quetiapina,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,sildenafil,citrato de sildenafila,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,simvastatin,sinvastatina,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,sirolimus,sirolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,tacrolimus,tacrolimo,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
+Unha-de-gato,tipranavir,tipranavir,baixa,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,1,,(-)-Epigallocatechin gallate
