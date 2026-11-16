@@ -11,7 +11,7 @@ from pathlib import Path
 # pX é o pchembl_value (-log10 da concentração molar); quando ele falta,
 # é calculado do valor em nM.
 # Dados da literatura entram por dados/manuais/atividades_literatura.csv,
-# com fonte = "literatura".
+# com fonte = "literatura" (só as linhas com status = "conferido").
 # Entrada : resultados/1_plantas/compostos.csv
 #           resultados/2_chembl/compostos_chembl.csv  (coleta_chembl.py)
 #           resultados/2_chembl/atividades_cyp.csv    (coleta_chembl.py)
@@ -179,6 +179,11 @@ tabela = chembl[colunas]
 literatura = pd.DataFrame()
 if ARQUIVO_LITERATURA.exists():
     literatura = pd.read_csv(ARQUIVO_LITERATURA, encoding="utf-8-sig")
+    # Só entram as linhas que alguém conferiu no artigo (status = "conferido")
+    if "status" in literatura.columns:
+        pendentes = (literatura["status"] != "conferido").sum()
+        literatura = literatura[literatura["status"] == "conferido"]
+        print("Registros da literatura ainda a conferir (não entram):", int(pendentes))
 if len(literatura):
     literatura["fonte"] = "literatura"
     literatura["correspondencia"] = "literatura"
