@@ -7,11 +7,13 @@ from pathlib import Path
 #   plantas, compostos, atividades          (Checkpoint 2)
 #   farmacos_enzimas                        (RENAME x FDA)
 #   interacoes                              (planta x fármaco)
+#   farmacos_genetica                       (fármaco x gene, ClinPGx)
 # O banco é refeito do zero a cada execução.
 # Entrada : resultados/1_plantas/plantas.csv, compostos.csv
 #           resultados/2_chembl/atividades_padronizadas.csv
 #           resultados/3_rename/resultados_RENAME_FDA/rename_farmaco_enzima_FDA.csv
 #           resultados/4_interacoes/interacoes_composto_farmaco.csv
+#           resultados/4_interacoes/farmacos_genetica.csv   (camada_genetica.py)
 # Saída   : resultados/fitointer.db
 # ------------------------------------------------------------
 
@@ -27,6 +29,7 @@ ARQUIVO_COMPOSTOS = RES / "1_plantas" / "compostos.csv"
 ARQUIVO_ATIVIDADES = RES / "2_chembl" / "atividades_padronizadas.csv"
 ARQUIVO_FARMACOS = RES / "3_rename" / "resultados_RENAME_FDA" / "rename_farmaco_enzima_FDA.csv"
 ARQUIVO_INTERACOES = RES / "4_interacoes" / "interacoes_composto_farmaco.csv"
+ARQUIVO_GENETICA = RES / "4_interacoes" / "farmacos_genetica.csv"
 
 ARQUIVO_BANCO = RES / "fitointer.db"
 
@@ -108,6 +111,21 @@ CREATE TABLE interacoes (
     fonte_farmaco        TEXT
 );
 
+CREATE TABLE farmacos_genetica (
+    farmaco                   TEXT NOT NULL,
+    gene                      TEXT NOT NULL,
+    melhor_nivel              TEXT,
+    anotacoes                 INTEGER,
+    categorias                TEXT,
+    alelos_funcao_reduzida    TEXT,
+    diretrizes                TEXT,
+    diretriz_com_recomendacao INTEGER,
+    relevancia_genetica       TEXT,
+    urls_nivel1               TEXT,
+    urls_diretrizes           TEXT,
+    PRIMARY KEY (farmaco, gene)
+);
+
 CREATE INDEX idx_atividades_composto ON atividades(id_composto, enzima);
 CREATE INDEX idx_interacoes_farmaco ON interacoes(farmaco);
 
@@ -120,6 +138,13 @@ FROM interacoes i
 JOIN compostos c ON c.id_composto = i.id_composto
 LEFT JOIN farmacos_enzimas f
        ON f.farmaco = i.farmaco AND f.enzima = i.enzima AND f.papel = 'substrato';
+
+-- Interações via CYP2C9 e CYP2D6 com a camada genética
+CREATE VIEW vw_interacoes_genetica AS
+SELECT v.*, g.melhor_nivel AS nivel_clinpgx, g.relevancia_genetica,
+       g.alelos_funcao_reduzida, g.diretrizes
+FROM vw_interacoes v
+JOIN farmacos_genetica g ON g.farmaco = v.farmaco AND g.gene = v.enzima;
 """
 
 
@@ -138,6 +163,8 @@ compostos = ler(ARQUIVO_COMPOSTOS)
 atividades = ler(ARQUIVO_ATIVIDADES)
 farmacos = ler(ARQUIVO_FARMACOS)
 interacoes = ler(ARQUIVO_INTERACOES)
+genetica = ler(ARQUIVO_GENETICA)
+genetica["diretriz_com_recomendacao"] = genetica["diretriz_com_recomendacao"].astype(bool).astype(int)
 
 compostos.insert(0, "id_composto", range(1, len(compostos) + 1))
 compostos["ativo_principal"] = compostos["ativo_principal"].astype(bool).astype(int)
@@ -191,9 +218,11 @@ gravar("compostos", compostos)
 gravar("atividades", atividades)
 gravar("farmacos_enzimas", farmacos)
 gravar("interacoes", interacoes)
+gravar("farmacos_genetica", genetica)
 con.commit()
 
-for tabela in ["plantas", "compostos", "atividades", "farmacos_enzimas", "interacoes"]:
+for tabela in ["plantas", "compostos", "atividades", "farmacos_enzimas", "interacoes",
+               "farmacos_genetica"]:
     n = con.execute(f"SELECT COUNT(*) FROM {tabela}").fetchone()[0]
     print(f"{tabela:<18} {n:>6} linhas")
 

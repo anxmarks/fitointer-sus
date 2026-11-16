@@ -4,6 +4,9 @@ __pycache__/
 dados/baixados/coconut_csv*.csv
 dados/baixados/lotusUniqueNaturalProduct.*
 dados/baixados/relationships.tsv
+dados/baixados/summaryAnnotations/
+dados/baixados/clinicalVariants/
+dados/baixados/guidelineAnnotations.json/
 
 # Saída antiga da coleta pelo Wikidata (não usada mais)
 data/
