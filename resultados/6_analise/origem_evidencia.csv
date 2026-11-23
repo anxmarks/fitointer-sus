@@ -1,0 +1,8 @@
+﻿efeito,origem,registros,compostos,por_esqueleto
+inducao,ensaio_dedicado,1,1,0
+inducao,literatura,2,2,0
+inibicao,ensaio_dedicado,153,31,10
+inibicao,literatura,5,3,0
+inibicao,triagem_pubchem,244,36,40
+ligacao,ensaio_dedicado,16,5,0
+substrato,ensaio_dedicado,33,7,2

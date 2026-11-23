@@ -1,0 +1,11 @@
+﻿planta,farmacos,compostos_envolvidos,enzimas,inibicao,inducao,pares_alta,pares_media,pares_baixa,compostos_no_total,ativos_principais,farmacos_indice_estreito
+Gengibre,21,3,CYP2C9|CYP3A4|P-gp,57,0,13,8,0,665,12,6
+Maracujá,18,4,CYP2C9|CYP3A4,50,0,13,5,0,191,6,5
+Pata-de-vaca,18,1,CYP2C9|CYP3A4,18,0,13,5,0,28,1,5
+Babosa,16,1,CYP3A4,16,0,13,3,0,335,9,3
+Boldo-brasileiro,16,1,CYP3A4,16,16,13,3,0,36,1,3
+Camomila,16,2,CYP3A4,32,0,13,3,0,212,9,3
+Hortelã-pimenta,16,2,CYP3A4,32,0,13,3,0,184,5,3
+Unha-de-gato,16,1,CYP3A4,0,16,13,3,0,69,1,3
+Cúrcuma,21,2,CYP2C9|CYP3A4|P-gp,24,0,0,5,16,345,8,6
+Alho,16,1,CYP3A4,16,0,0,0,16,275,6,3

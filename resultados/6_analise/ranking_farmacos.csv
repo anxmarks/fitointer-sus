@@ -1,0 +1,22 @@
+﻿farmaco,plantas,nomes_rename,enzimas,sensibilidade,plantas_nomes,pares_alta,pares_media,pares_baixa,indice_estreito,gene,melhor_nivel,relevancia_genetica
+budesonide,10,budesonida; fumarato de formoterol + budesonida,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,False,,,
+darunavir,10,darunavir,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,False,,,
+dasatinib,10,dasatinibe,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,False,,,
+everolimus,10,everolimo,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,True,,,
+isavuconazole,10,sulfato de isavuconazônio,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,False,,,
+maraviroc,10,maraviroque,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,False,,,
+midazolam,10,midazolam,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,False,,,
+quetiapine,10,hemifumarato de quetiapina,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,False,,,
+sildenafil,10,citrato de sildenafila,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,False,,,
+simvastatin,10,sinvastatina,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,False,,,
+sirolimus,10,sirolimo,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,True,,,
+tacrolimus,10,tacrolimo,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,True,,,
+tipranavir,10,tipranavir,CYP3A4,sensivel,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,8,0,2,False,,,
+atorvastatin,10,atorvastatina cálcica,CYP3A4,moderado,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,0,8,2,False,,,
+brigatinib,10,brigatinibe,CYP3A4,moderado,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,0,8,2,False,,,
+larotrectinib,10,larotrectinibe,CYP3A4,moderado,Alho; Babosa; Boldo-brasileiro; Camomila; Cúrcuma; Gengibre; Hortelã-pimenta; Maracujá; Pata-de-vaca; Unha-de-gato,0,8,2,False,,,
+phenytoin,4,fenitoína,CYP2C9,moderado,Cúrcuma; Gengibre; Maracujá; Pata-de-vaca,0,4,0,True,CYP2C9,1A,alta
+warfarin,4,varfarina sódica,CYP2C9,moderado,Cúrcuma; Gengibre; Maracujá; Pata-de-vaca,0,4,0,True,CYP2C9,1A,alta
+digoxin,2,digoxina,P-gp,,Cúrcuma; Gengibre,0,2,0,True,,,
+oseltamivir,2,fosfato de oseltamivir,P-gp,,Cúrcuma; Gengibre,0,2,0,False,,,
+tenofovir,2,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,P-gp,,Cúrcuma; Gengibre,0,2,0,False,,,

@@ -9,12 +9,13 @@ scripts/
   3_rename/      fármacos da RENAME → enzimas (ClinPGx e FDA)
   4_interacoes/  planta × fármaco pela enzima
   5_banco/       banco SQLite com tudo
+  6_analise/     tabelas-resumo da análise
   utilitarios/   scripts só para olhar os dados
 dados/
   baixados/      arquivos de bases externas, não editar à mão
   manuais/       tabelas montadas ou revisadas pela equipe
 resultados/
-  1_plantas/  2_chembl/  3_rename/  4_interacoes/   saídas de cada etapa
+  1_plantas/  2_chembl/  3_rename/  4_interacoes/  6_analise/   saídas de cada etapa
   fitointer.db                                     banco SQLite
 ```
 
@@ -27,6 +28,7 @@ Os scripts podem ser rodados de qualquer pasta, por exemplo `python scripts/1_pl
 3. RENAME: `cruzamento_DDI-RENAME.py` → `investigar_nao_encontrados.py` → `consolidar_resultados_DDI_RENAME.py` → `cruzamento_RENAME_enzimas.py` e `cruzamento_RENAME_FDA.py`
 4. Interações: `cruzar_plantas_farmacos.py` → `camada_genetica.py` (variantes de CYP2C9 e CYP2D6)
 5. Banco: `montar_banco.py` (gera `resultados/fitointer.db`; a view `vw_interacoes` junta planta, composto e fármaco, e `vw_interacoes_genetica` acrescenta a genética)
+6. Análise: `analisar.py` (lê do banco; a análise principal usa só os ativos principais)
 
 ## Arquivos que precisam ser baixados
 
