@@ -21,6 +21,8 @@ from pathlib import Path
 #           estereoisômero)
 # alta e media exigem também que os registros ativos sejam pelo menos tantos
 # quanto os inativos (dados contraditórios ficam em baixa).
+# A indução confirmada conta como efeito relevante mesmo sem força medida,
+# porque esses estudos dão ativação do PXR ou expressão, não IC50.
 # Entrada : resultados/2_chembl/compostos_enzimas.csv       (padronizar_atividades.py)
 #           resultados/2_chembl/atividades_padronizadas.csv (padronizar_atividades.py)
 #           resultados/3_rename/resultados_RENAME_FDA/rename_substratos_FDA.csv
@@ -100,7 +102,11 @@ inter = efeitos.merge(farmacos, on="enzima")
 inter["mecanismo"] = [MECANISMO[e].format(enzima=z) for e, z in zip(inter["efeito"], inter["enzima"])]
 
 proprio = inter["correspondencia"].str.split("|").apply(lambda c: c != ["esqueleto"])
-efeito_relevante = inter["forca"].isin(["forte", "moderada"])
+# Estudos de indução não medem IC50 nem Ki, então muitos ficam sem força. Aqui a
+# indução confirmada conta como efeito relevante mesmo sem força, desde que não
+# haja força fraca medida (a inibição continua exigindo forte ou moderada).
+efeito_relevante = inter["forca"].isin(["forte", "moderada"]) | (
+    (inter["efeito"] == "inducao") & inter["forca"].isna())
 # Linhas da literatura podem vir sem ativo_principal preenchido (NaN viraria True)
 principal = inter["ativo_principal"].fillna(False).astype(bool)
 consistente = inter["ativos"] >= inter["inativos"]

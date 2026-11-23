@@ -471,6 +471,7 @@ Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP2C19,inibicao,ind
 Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,2,esqueleto,ChEMBL
 Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP2D6,inibicao,inativo,,,0,1,3,esqueleto,ChEMBL
 Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP3A4,ativacao,inativo,,,0,3,3,esqueleto,ChEMBL
+Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP3A4,inducao,ativo,,,1,0,1,literatura,literatura
 Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,CYP3A4,inibicao,ativo,fraca,4.9,5,0,5,esqueleto,ChEMBL
 Boldo-brasileiro,forskolin,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,P-gp,inibicao,inativo,,,0,1,2,exata,ChEMBL
 Boldo-brasileiro,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS-DUXPYHPUSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
@@ -800,6 +801,7 @@ Cúrcuma,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C9,inibicao,inativ
 Cúrcuma,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
 Cúrcuma,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
 Cúrcuma,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,P-gp,substrato,inativo,,,0,1,1,exata,ChEMBL
+Garra-do-diabo,Harpagide,XUWSHXDEJOOIND-HZIDLYDXSA-N,True,CYP3A4,inibicao,inativo,,,0,1,1,literatura,literatura
 Garra-do-diabo,Prestwick2_000988,KVRQGMOSZKPBNS-FOSABISFSA-N,True,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
 Garra-do-diabo,Prestwick2_000988,KVRQGMOSZKPBNS-FOSABISFSA-N,True,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
 Garra-do-diabo,Prestwick2_000988,KVRQGMOSZKPBNS-FOSABISFSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
@@ -1177,6 +1179,7 @@ Guaraná,paraxanthine,QUNWUDVFRNGTCO-UHFFFAOYSA-N,False,CYP2C9,inibicao,indeterm
 Guaraná,paraxanthine,QUNWUDVFRNGTCO-UHFFFAOYSA-N,False,CYP2D6,inibicao,indeterminado,,,0,0,1,exata,ChEMBL
 Guaraná,paraxanthine,QUNWUDVFRNGTCO-UHFFFAOYSA-N,False,CYP3A4,ativacao,indeterminado,,,0,0,1,exata,ChEMBL
 Guaraná,paraxanthine,QUNWUDVFRNGTCO-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,1,2,exata,ChEMBL
+Hortelã-pimenta,Menthol,NOOLISFMXDJSKH-UTLUCORTSA-N,True,CYP3A4,inibicao,inativo,,,0,1,1,literatura,literatura
 Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP1A2,inibicao,ativo,forte,7.2,4,0,4,exata,ChEMBL
 Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2C19,inibicao,ativo,moderada,5.1,2,0,4,exata,ChEMBL
 Hortelã-pimenta,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP2C9,inibicao,inativo,,,0,1,4,exata,ChEMBL
@@ -1385,9 +1388,10 @@ Hortelã-pimenta,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C9,inibica
 Hortelã-pimenta,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
 Hortelã-pimenta,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
 Hortelã-pimenta,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,P-gp,substrato,inativo,,,0,1,1,exata,ChEMBL
+Maracujá,Isovitexin,MYXNWGACZJSMBT-VJXVFPJBSA-N,True,CYP3A4,inibicao,ativo,moderada,5.47,1,0,1,literatura,literatura
 Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP1A2,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
 Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP2C19,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
-Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP2C9,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
+Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP2C9,inibicao,ativo,moderada,5.12,1,0,1,literatura,literatura
 Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP2D6,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
 Maracujá,Vitexin,SGEWCQFRYRRZDC-VPRICQMDSA-N,True,CYP3A4,inibicao,indeterminado,,,0,0,1,esqueleto,ChEMBL
 Maracujá,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,True,CYP1A2,inibicao,ativo,forte,7.2,4,0,4,exata,ChEMBL
@@ -1573,6 +1577,10 @@ Maracujá,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2C9,inibicao,inati
 Maracujá,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP2D6,inibicao,inativo,,,0,2,2,exata,ChEMBL
 Maracujá,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,CYP3A4,inibicao,inativo,,,0,2,2,exata,ChEMBL
 Maracujá,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,False,P-gp,substrato,inativo,,,0,1,1,exata,ChEMBL
+Pata-de-vaca,Kaempferitrin,PUPKKEQDLNREIM-QNSQPKOQSA-N,True,CYP1A2,inibicao,ativo,fraca,4.99,1,0,1,literatura,literatura
+Pata-de-vaca,Kaempferitrin,PUPKKEQDLNREIM-QNSQPKOQSA-N,True,CYP2C9,inibicao,ativo,moderada,5.12,1,0,1,literatura,literatura
+Pata-de-vaca,Kaempferitrin,PUPKKEQDLNREIM-QNSQPKOQSA-N,True,CYP2D6,inibicao,inativo,,,0,1,1,literatura,literatura
+Pata-de-vaca,Kaempferitrin,PUPKKEQDLNREIM-QNSQPKOQSA-N,True,CYP3A4,inibicao,ativo,moderada,5.15,1,0,1,literatura,literatura
 Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP1A2,inibicao,ativo,forte,6.5,3,3,6,exata,ChEMBL
 Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C19,inibicao,ativo,fraca,4.8,2,1,4,exata,ChEMBL
 Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP2C9,inibicao,ativo,moderada,5.1,2,2,6,exata,ChEMBL
@@ -1582,6 +1590,7 @@ Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,CYP3A4,inibicao,ativo,m
 Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,inibicao,ativo,,,3,1,5,exata,ChEMBL
 Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,ligacao,ativo,moderada,5.15,1,0,1,exata,ChEMBL
 Pata-de-vaca,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,False,P-gp,substrato,ativo,,,1,0,1,exata,ChEMBL
+Unha-de-gato,Uncarine F,JMIAZDVHNCCPDM-PMJXBNNDSA-N,True,CYP3A4,inducao,ativo,moderada,5.0,1,0,1,literatura,literatura
 Unha-de-gato,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP1A2,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
 Unha-de-gato,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2C19,inibicao,indeterminado,,,0,0,3,exata,ChEMBL
 Unha-de-gato,(-)-Epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,False,CYP2C9,inibicao,indeterminado,,,0,0,3,exata,ChEMBL

@@ -187,8 +187,12 @@ if ARQUIVO_LITERATURA.exists():
 if len(literatura):
     literatura["fonte"] = "literatura"
     literatura["correspondencia"] = "literatura"
-    if "forca" not in literatura or literatura["forca"].isna().all():
-        literatura["forca"] = literatura["pX"].apply(forca)
+    # pX e força a partir do valor informado, para quem não trouxe o pX pronto
+    literatura["valor_nM"] = literatura.apply(valor_nm, axis=1)
+    px_literatura = 9 - np.log10(literatura["valor_nM"])
+    literatura["pX"] = literatura["pX"].fillna(px_literatura).round(2)
+    literatura["forca"] = literatura["forca"].fillna(
+        literatura["pX"].where(literatura["resultado"] == "ativo").apply(forca))
     tabela = pd.concat([tabela, literatura.reindex(columns=colunas)], ignore_index=True)
     print("Registros da literatura:", len(literatura))
 
