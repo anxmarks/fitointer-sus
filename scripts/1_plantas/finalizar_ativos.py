@@ -52,7 +52,7 @@ df = df.drop_duplicates(subset=["Nome popular", "_dup"]).drop(columns="_dup")
 
 cols = [c for c in ["Nome popular", "Nome cientifico", "composto", "cas", "identifier",
                     "standard_inchi_key", "canonical_smiles", "molecular_formula",
-                    "encontrado_por"] if c in df.columns]
+                    "marcador", "encontrado_por"] if c in df.columns]
 df[cols].to_csv(BASE_DIR / "resultados/1_plantas/ativos_principais_final.csv", index=False)
 
 print(f"{antes} -> {len(df)} moléculas")

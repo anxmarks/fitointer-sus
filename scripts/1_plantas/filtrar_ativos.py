@@ -88,6 +88,7 @@ pesq.columns = ["planta", "ativos"]
 
 alvos = {}          # chave da planta -> lista de nomes em inglês
 alvos_cas = {}      # chave da planta -> lista de CAS
+por_marcador = {}   # chave da planta -> marcador do CSV -> (nomes, CAS)
 sem_traducao = {}   # termos do CSV que o dicionário não conhece
 for _, r in pesq.iterrows():
     k = chave_planta(r["planta"])
@@ -95,12 +96,17 @@ for _, r in pesq.iterrows():
     pedacos = [sem_acento(p) for p in re.split(r"[,;]| e ", texto) if p.strip()]
     nomes = []
     cas_lista = []
+    por_marcador[k] = {}
     for p in pedacos:
         achou = [c for c in chaves_ordenadas if c in p]
         if achou:
             for c in achou:
                 nomes += traducao[c]
                 cas_lista += cas_por_chave.get(c, [])
+                # Guarda de qual marcador do CSV veio cada termo de busca
+                antes = por_marcador[k].get(c, ([], []))
+                por_marcador[k][c] = (sorted(set(antes[0] + traducao[c])),
+                                      sorted(set(antes[1] + cas_por_chave.get(c, []))))
         else:
             sem_traducao.setdefault(k, []).append(p)
     alvos[k] = sorted(set(nomes))
@@ -143,6 +149,20 @@ for k in df["_k"].unique():
     achados["encontrado_por"] = ["nome e cas" if a and b else ("nome" if a else "cas")
                                  for a, b in zip(m_nome[m_nome | m_cas], m_cas[m_nome | m_cas])]
     achados["ativo_buscado"] = ", ".join(termos)
+
+    # Qual marcador do CSV encontrou cada molécula (para a tabela de validação)
+    marcadores = {i: [] for i in achados.index}
+    for marcador, (nomes_m, cas_m) in por_marcador.get(chave, {}).items():
+        m = pd.Series(False, index=achados.index)
+        for t in nomes_m:
+            m = m | achados["_nome"].str.contains(t, regex=False) \
+                  | achados["_iupac"].str.contains(t, regex=False) \
+                  | achados["_syn"].str.contains(t, regex=False)
+        for c in cas_m:
+            m = m | achados["_cas"].str.contains(c, regex=False)
+        for i in achados.index[m]:
+            marcadores[i].append(marcador)
+    achados["marcador"] = ["|".join(marcadores[i]) for i in achados.index]
     partes.append(achados)
     print(f"{sub['Nome popular'].iloc[0]:<15} {len(sub):>5} moléculas -> {len(achados):>3} ativos "
           f"(só pelo CAS: {int((m_cas & ~m_nome).sum())})")
