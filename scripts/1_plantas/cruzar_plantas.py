@@ -26,7 +26,8 @@ coco = pd.read_csv(ARQUIVO_COCONUT, usecols=lambda c: c in colunas,
 # 2) Espécies de busca (chave = nome popular em minúsculo)
 especies_fixas = {
     "boldo": ["plectranthus barbatus", "coleus barbatus"],
-    "maracujá": ["passiflora incarnata"],
+    # P. alata é a espécie do fitodata e a da Farmacopeia (Maracujá-doce, PM062-01)
+    "maracujá": ["passiflora alata"],
     "babosa": ["aloe vera", "aloe barbadensis"],
     "camomila": ["matricaria chamomilla", "matricaria recutita"],
     "hortelã": ["mentha piperita"],

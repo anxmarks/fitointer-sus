@@ -35,12 +35,25 @@ def chembl_get(recurso, chave, params):
     params = {**params, "limit": 1000}
     resultados = []
     while url:
-        for tentativa in range(5):
-            r = requests.get(url, params=params, headers=HEADERS, timeout=120)
-            if r.status_code < 500:
-                break
-            print(f"  ChEMBL respondeu {r.status_code}, tentando de novo...")
-            time.sleep(2 ** tentativa)
+        # O servidor do ChEMBL oscila: às vezes responde 500 ou derruba a conexão
+        # por vários minutos seguidos. Espera até 1 min entre as tentativas.
+        r = None
+        for tentativa in range(8):
+            espera = min(60, 5 * 2 ** tentativa)
+            try:
+                r = requests.get(url, params=params, headers=HEADERS, timeout=300)
+                if r.status_code < 500:
+                    break
+                motivo = f"respondeu {r.status_code}"
+            except requests.RequestException as erro:
+                r, motivo = None, type(erro).__name__
+            print(f"  ChEMBL {motivo}, nova tentativa em {espera}s...", flush=True)
+            time.sleep(espera)
+        if r is None:
+            raise SystemExit(
+                "O ChEMBL não respondeu depois de 8 tentativas. "
+                "Espere um pouco e rode o script de novo."
+            )
         r.raise_for_status()
         dados = r.json()
         resultados.extend(dados[chave])

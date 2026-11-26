@@ -64,19 +64,19 @@ Hortelã-pimenta,simvastatin,sinvastatina,alta,inibição da CYP3A4 -> aumento d
 Hortelã-pimenta,sirolimus,sirolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
 Hortelã-pimenta,tacrolimus,tacrolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
 Hortelã-pimenta,tipranavir,tipranavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
-Maracujá,budesonide,budesonida; fumarato de formoterol + budesonida,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,darunavir,darunavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,dasatinib,dasatinibe,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,everolimus,everolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,isavuconazole,sulfato de isavuconazônio,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,maraviroc,maraviroque,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,midazolam,midazolam,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,quetiapine,hemifumarato de quetiapina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,sildenafil,citrato de sildenafila,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,simvastatin,sinvastatina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,sirolimus,sirolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,tacrolimus,tacrolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,tipranavir,tipranavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
+Maracujá,budesonide,budesonida; fumarato de formoterol + budesonida,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,darunavir,darunavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,dasatinib,dasatinibe,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,everolimus,everolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,isavuconazole,sulfato de isavuconazônio,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,maraviroc,maraviroque,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,midazolam,midazolam,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,quetiapine,hemifumarato de quetiapina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,sildenafil,citrato de sildenafila,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,simvastatin,sinvastatina,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,sirolimus,sirolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,tacrolimus,tacrolimo,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,tipranavir,tipranavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
 Pata-de-vaca,budesonide,budesonida; fumarato de formoterol + budesonida,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,2,Kaempferitrin,Kaempferitrin; quercetin
 Pata-de-vaca,darunavir,darunavir,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,2,Kaempferitrin,Kaempferitrin; quercetin
 Pata-de-vaca,dasatinib,dasatinibe,alta,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,2,Kaempferitrin,Kaempferitrin; quercetin
@@ -140,11 +140,11 @@ Hortelã-pimenta,digoxin,digoxina,media,inibição da P-gp -> aumento da exposi�
 Hortelã-pimenta,larotrectinib,larotrectinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,6,apigenin; luteolin,apigenin; acacetin; luteolin; UNII-1IA46M0D13; ethinyl estradiol
 Hortelã-pimenta,oseltamivir,fosfato de oseltamivir,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,(-)-Epigallocatechin gallate
 Hortelã-pimenta,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,media,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,(-)-Epigallocatechin gallate
-Maracujá,atorvastatin,atorvastatina cálcica,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,brigatinib,brigatinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,larotrectinib,larotrectinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,7,apigenin; Isovitexin; luteolin,apigenin; Isovitexin; quercetin; Harman; luteolin
-Maracujá,phenytoin,fenitoína,media,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,3,Vitexin,Vitexin; kaempferol; quercetin
-Maracujá,warfarin,varfarina sódica,media,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,3,Vitexin,Vitexin; kaempferol; quercetin
+Maracujá,atorvastatin,atorvastatina cálcica,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,brigatinib,brigatinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,larotrectinib,larotrectinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,3,Isovitexin,Isovitexin; Harman; HARMINE
+Maracujá,phenytoin,fenitoína,media,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,1,Vitexin,Vitexin
+Maracujá,warfarin,varfarina sódica,media,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,1,Vitexin,Vitexin
 Pata-de-vaca,atorvastatin,atorvastatina cálcica,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,2,Kaempferitrin,Kaempferitrin; quercetin
 Pata-de-vaca,brigatinib,brigatinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,2,Kaempferitrin,Kaempferitrin; quercetin
 Pata-de-vaca,larotrectinib,larotrectinibe,media,inibição da CYP3A4 -> aumento da exposição ao fármaco,CYP3A4,2,Kaempferitrin,Kaempferitrin; quercetin
@@ -220,13 +220,10 @@ Hortelã-pimenta,phenytoin,fenitoína,baixa,inibição da CYP2C9 -> aumento da e
 Hortelã-pimenta,propafenone,cloridrato de propafenona,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,acacetin
 Hortelã-pimenta,propranolol,cloridrato de propranolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,1,,acacetin
 Hortelã-pimenta,warfarin,varfarina sódica,baixa,inibição da CYP2C9 -> aumento da exposição ao fármaco,CYP2C9,1,,Caryophyllene oxide
-Maracujá,digoxin,digoxina,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
-Maracujá,metoprolol,succinato de metoprolol; tartarato de metoprolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,harmaline; Harman; kaempferol; Harmol
-Maracujá,nortriptyline,cloridrato de nortriptilina,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,harmaline; Harman; kaempferol; Harmol
-Maracujá,oseltamivir,fosfato de oseltamivir,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
-Maracujá,propafenone,cloridrato de propafenona,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,harmaline; Harman; kaempferol; Harmol
-Maracujá,propranolol,cloridrato de propranolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,4,,harmaline; Harman; kaempferol; Harmol
-Maracujá,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
+Maracujá,metoprolol,succinato de metoprolol; tartarato de metoprolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,harmaline; Harman
+Maracujá,nortriptyline,cloridrato de nortriptilina,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,harmaline; Harman
+Maracujá,propafenone,cloridrato de propafenona,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,harmaline; Harman
+Maracujá,propranolol,cloridrato de propranolol,baixa,inibição da CYP2D6 -> aumento da exposição ao fármaco,CYP2D6,2,,harmaline; Harman
 Pata-de-vaca,digoxin,digoxina,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
 Pata-de-vaca,oseltamivir,fosfato de oseltamivir,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
 Pata-de-vaca,tenofovir,fumarato de tenofovir desoproxila; fumarato de tenofovir desoproxila + entricitabina; fumarato de tenofovir desoproxila + lamivudina; fumarato de tenofovir desoproxila + lamivudina + efavirenz,baixa,inibição da P-gp -> aumento da exposição ao fármaco,P-gp,1,,quercetin
