@@ -13,6 +13,7 @@ from pathlib import Path
 #           resultados/6_analise/ranking_farmacos.csv
 #           resultados/6_analise/resumo_enzimas.csv
 #           resultados/6_analise/origem_evidencia.csv
+#           resultados/6_analise/origem_evidencia_total.csv
 #           resultados/6_analise/lacunas.csv
 #           resultados/6_analise/risco_somado_genetica.csv
 #           resultados/6_analise/numeros_do_estudo.csv
@@ -151,15 +152,17 @@ origem = atividades["assay_description"].fillna("").str.startswith("PUBCHEM_BIOA
 atividades["origem"] = origem.map({True: "triagem_pubchem", False: "ensaio_dedicado"})
 atividades.loc[atividades["fonte"] == "literatura", "origem"] = "literatura"
 
-origem_evidencia = (
-    atividades[atividades["resultado"] == "ativo"]
-    .groupby(["efeito", "origem"]).agg(
-        registros=("id_atividade", "size"),
-        compostos=("nome", "nunique"),
-        por_esqueleto=("correspondencia", lambda s: (s == "esqueleto").sum()),
-    )
-    .reset_index()
+ativos_medidos = atividades[atividades["resultado"] == "ativo"]
+resumo_origem = dict(
+    registros=("id_atividade", "size"),
+    compostos=("nome", "nunique"),
+    por_esqueleto=("correspondencia", lambda s: (s == "esqueleto").sum()),
 )
+
+origem_evidencia = ativos_medidos.groupby(["efeito", "origem"]).agg(**resumo_origem).reset_index()
+# Total por origem à parte: somar a coluna compostos do detalhe contaria o mesmo
+# composto uma vez por efeito
+origem_total = ativos_medidos.groupby("origem").agg(**resumo_origem).reset_index()
 
 
 # ==========================================
@@ -229,6 +232,7 @@ numeros = pd.DataFrame([
 
 for nome, df in [("ranking_plantas", ranking_plantas), ("ranking_farmacos", ranking_farmacos),
                  ("resumo_enzimas", resumo_enzimas), ("origem_evidencia", origem_evidencia),
+                 ("origem_evidencia_total", origem_total),
                  ("lacunas", lacunas), ("risco_somado_genetica", risco_genetica),
                  ("numeros_do_estudo", numeros)]:
     df.to_csv(PASTA_SAIDA / f"{nome}.csv", index=False, encoding="utf-8-sig")

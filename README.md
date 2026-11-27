@@ -10,12 +10,13 @@ scripts/
   4_interacoes/  planta × fármaco pela enzima
   5_banco/       banco SQLite com tudo
   6_analise/     tabelas-resumo da análise
+  7_graficos/    figuras do relatório e página interativa
   utilitarios/   scripts só para olhar os dados
 dados/
   baixados/      arquivos de bases externas, não editar à mão
   manuais/       tabelas montadas ou revisadas pela equipe
 resultados/
-  1_plantas/  2_chembl/  3_rename/  4_interacoes/  6_analise/   saídas de cada etapa
+  1_plantas/  2_chembl/  3_rename/  4_interacoes/  6_analise/  7_graficos/   saídas de cada etapa
   fitointer.db                                     banco SQLite
 ```
 
@@ -29,6 +30,7 @@ Os scripts podem ser rodados de qualquer pasta, por exemplo `python scripts/1_pl
 4. Interações: `cruzar_plantas_farmacos.py` → `camada_genetica.py` (variantes de CYP2C9 e CYP2D6)
 5. Banco: `montar_banco.py` (gera `resultados/fitointer.db`; a view `vw_interacoes` junta planta, composto e fármaco, e `vw_interacoes_genetica` acrescenta a genética)
 6. Análise: `analisar.py` (lê do banco; a análise principal usa só os ativos principais)
+7. Gráficos: o notebook `graficos.ipynb` gera as figuras em PNG e SVG; `gerar_pagina.py` monta a página interativa `resultados/7_graficos/interacoes.html`, que abre no navegador sem servidor
 
 ## Arquivos que precisam ser baixados
 
